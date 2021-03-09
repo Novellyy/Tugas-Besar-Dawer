@@ -1,0 +1,51 @@
+pharmacist_id;name;address;dob;phone;rate
+PH-ID-5441;Urip Harahap, S.Farm., Apt;Jl Jend A Yani 123;03/08/1970;159-3323-984; Rp2.500.000,00 
+PH-ID-9585;Rima Elfitra Rambe, S.Farm., Apt;Jl Pasirkoja 21 Bandung;02/26/1990;448-5835-440; Rp3.000.000,00 
+PH-ID-3003;Intan Farah Diba ngela, S.Farm., Apt;Jl Jend A Yani 678 Bandung;08/20/1991;143-6945-649; Rp2.500.000,00 
+PH-ID-6683;Yuliana, S.Farm., Apt;Jl Cipagalo 251 Bandung;05/08/1980;933-1729-534; Rp3.000.000,00 
+PH-ID-2600;Novita Sari, S.Farm., Apt;Jl Kopo 329 Bandung;01/04/1981;629-7313-600; Rp3.250.000,00 
+PH-ID-1270;Khadijah, S.Farm., Apt;Jl ABC 38 Bandung;06/22/1985;257-2794-678; Rp3.500.000,00 
+PH-ID-2585;Trie Kurnia Waldini, S. Farm., Apt;Jl Moh Yunus 5 Bandung;10/31/1985;610-7632-438; Rp4.000.000,00 
+PH-ID-4735;Fasya Hadaina Maharani, S.Farm., Apt;Jl Sukamenak Sayati 41 Bandung;10/18/1980;188-3925-909; Rp3.000.000,00 
+PH-ID-6980;Krisnasari Dian Pratami, S.Farm., Apt.;Jl Kopo Sayati 137 Bandung;06/27/1983;483-7840-592; Rp2.500.000,00 
+PH-ID-8331;Galuh Ayu Silvia Ningrum, S.Farm., Apt.;Jl Ir H Juanda 306-A Bandung;04/01/1981;311-8874-881; Rp3.500.000,00 
+PH-ID-2200;Ayu Andira, S.Farm., Apt;Jl Pasir Kaliki 121 Bandung;02/04/1993;521-3427-265; Rp2.500.000,00 
+PH-ID-1567;Lulu Handasari, S.Farm., Apt;Jl Peta Lingkar Selatan B/20 Bandung;05/21/1980;806-1556-213; Rp3.250.000,00 
+PH-ID-4581;Ulya Arifah Nst, S.Farm., Apt;Jl Permai Raya 48 Kompl Margahayu Permai RT 006/08 Bandung;07/31/1987;233-4017-362; Rp4.000.000,00 
+PH-ID-2032;Hindun HS, S.Farm., Apt;Jl Laswi 84 Bandung;10/22/1973;804-4638-574; Rp2.500.000,00 
+PH-ID-7218;Purwani, S.Farm., Apt;Jl Purwakarta 57 Bandung;03/13/1971;532-3812-654; Rp4.000.000,00 
+PH-ID-5891;Budi Raharjo, S.Farm., Apt;Jl Astana Anyar 156 Bandung;03/07/1975;135-1584-403; Rp3.500.000,00 
+PH-ID-4490;Fleming Tantra, S.Farm., Apt;Jl Otto Iskandardinata 271 Bandung;09/02/1971;672-4549-470; Rp2.500.000,00 
+PH-ID-4658;Khafidz Nasrudin, S.Farm., Apt.;Kompl Kopo Permai I Bl 55-A/6 Bandung;01/07/1989;206-6100-211; Rp3.250.000,00 
+PH-ID-7607;Dwi Astuti, S.Farm., Apt.;Jl Nuri 23 RT 001/10 Bandung;07/28/1985;938-6553-438; Rp3.500.000,00 
+PH-ID-4486;Desy Trilatifasari, S.Farm., Apt.;Jl Jend Sudirman 366 Bandung;06/24/1984;353-3606-235; Rp3.000.000,00 
+PH-ID-4571;Hani Latifah Indrakumala, S.Farm., Apt.;Jl Purwakarta 204 Bandung;06/16/1971;575-1837-594; Rp3.000.000,00 
+PH-ID-6799;Dhian Rahayu Setyowati, S.Farm., Apt.;Jl Jend A Yani 803 Bandung;10/04/1977;968-1618-241; Rp3.500.000,00 
+PH-ID-5674;Rosita Nur Asyiyah, S.Farm., Apt.;Jl Astana Anyar 338-B Bandung;06/24/1988;016-4981-860; Rp2.500.000,00 
+PH-ID-2004;Dra. Leony Julietta, Apt.;Jl Otto Iskandardinata 377 Bandung;01/10/1983;649-8841-112; Rp3.500.000,00 
+PH-ID-1355;Nuryanti, M.Sc., Apt.;Jl H Kurdi 46 RT 010/01 Bandung;02/13/1986;473-4620-785; Rp4.000.000,00 
+PH-ID-6301;Sugeng Priatno, S.Farm., Apt;Jl Rangga Gading 4 Bandung;10/20/1987;965-5393-497; Rp4.000.000,00 
+PH-ID-8092;Gusmanto, MBA, Apt.;Jl Golf Brt 31 Bandung;09/09/1990;051-9660-597; Rp2.500.000,00 
+PH-ID-1074;Rachmawati Widianingrum, S.Farm.,Apt.;Jl Purwakarta 3 Bandung;06/09/1980;599-1471-268; Rp3.500.000,00 
+PH-ID-2504;Farida Amalia, S.Farm.,Apt.;Jl Cipaganti 79 Bandung;05/04/1978;696-8055-921; Rp3.000.000,00 
+PH-ID-9316;Noni Mega Kinasih, S.Farm.,Apt.;Jl Titiran 16 Bandung;05/27/1974;368-3378-928; Rp4.000.000,00 
+PH-ID-8491;Didik Setiawan, Phd., Apt.;Jl Gurame 26 Bandung;10/25/1994;122-6271-197; Rp4.000.000,00 
+PH-ID-5636;Elza Sundhani, M.Sc.,Apt.;Jl Terusan Pasirkoja 229 Bandung;02/11/1987;944-7300-510; Rp3.250.000,00 
+PH-ID-8611;Arif Budiman, M.P.H., Apt.;Jl Ciwastra 96 RT 001/05 Bandung;09/13/1988;245-9215-870; Rp4.000.000,00 
+PH-ID-2141;Hening Pratiwi, M.Sc., Apt.;Jl Balong Gede 85 Bandung;07/22/1988;828-5808-104; Rp4.000.000,00 
+PH-ID-5682;Ikhwan Yuda Kusuma, M.Si., Apt.;Jl Kb Bibit 5 Bandung;09/04/1983;644-4137-700; Rp3.500.000,00 
+PH-ID-7347;Dina Febrina, M.Farm., Apt.;Jl Kopo 209 Bandung;05/15/1971;675-7508-978; Rp3.250.000,00 
+PH-ID-4310;Abdul Manan, S.Farm., Apt.;Jl Baranangsiang 9 Bandung;06/25/1990;663-7894-999; Rp2.500.000,00 
+PH-ID-5367;Dwi Yana N.R., S.Farm., Apt.;Jl Jend A Yani 223 Kosambi Bl A-12 Bandung;01/11/1978;502-8157-405; Rp3.500.000,00 
+PH-ID-8277;Dhimas Corustio, S.Farm.,Apt.;Jl Ciwastra 134 Bandung;10/03/1975;106-9305-102; Rp2.500.000,00 
+PH-ID-2619;Maria Widiastuti Dwi Nugraha, S.Farm.,Apt.;Jl Belimbing 17 Bandung;08/02/1976;433-6583-248; Rp4.000.000,00 
+PH-ID-5555;Prisca Elisabeth, M.M.,Apt.;Jl Sukagalih 4 Bandung;09/20/1977;681-5746-938; Rp2.500.000,00 
+PH-ID-2149;Nurina Mayasari, S.Farm., Apt.;Jl Kopo 63 Bandung;06/18/1974;161-6122-463; Rp4.000.000,00 
+PH-ID-1394;Yoga Bagus Wicaksana, S.Farm.,Apt.;Jl Jend A Yani 185 Bandung;10/11/1984;136-8931-461; Rp4.000.000,00 
+PH-ID-2981;Galih Samodra, M.Farm.,Apt.;Jl Jend Sudirman 436 Bandung;06/15/1970;828-4512-376; Rp3.000.000,00 
+PH-ID-1304;Dosi Susan Anggraeni, S.Farm., Apt.;Jl Budi Sari II 2 RT 003/05 Bandung;10/22/1977;513-2284-948; Rp3.500.000,00 
+PH-ID-7622;Deddy Agus Wahyudi, S.Farm.,Apt.;Jl PHH Mustofa 196 Bandung;10/04/1993;244-1932-854; Rp3.500.000,00 
+PH-ID-7777;Rudi Chahyono, S.Farm.,Apt.;Jl Cipagalo 294 RT 004/06 Bandung;10/12/1979;639-4315-640; Rp4.000.000,00 
+PH-ID-4659;Arif Budianto, S.Si.,Apt.;Jl Jend Gatot Subroto 407 Bandung;08/03/1991;660-2350-573; Rp3.250.000,00 
+PH-ID-6032;Widya Dwi Aryati, M.Si., Apt.;Jl Kiaracondong 206 Bandung;04/20/1970;999-5900-840; Rp3.000.000,00 
+PH-ID-1551;Nuriza Ulul Azmi, M.Sc., Apt.;Jl Karang Tinggal 41-B Bandung;07/22/1983;146-9024-350; Rp2.500.000,00 

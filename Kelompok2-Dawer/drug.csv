@@ -1,0 +1,201 @@
+drug_id,name,category,price_buy,price_sell,expired
+drug45659690,Micardis Plus,Obat Komparator,8000,12000,10/18/2022
+drug37448561,Invega,Obat Komparator,10000,13000,3/31/2021
+drug90730092,Therodel,Obat Generik,7000,13000,5/31/2022
+drug80453208,Caduet,Obat Generik,6000,15000,8/31/2021
+drug81478514,Livalo,Obat Generik,6000,11000,3/31/2021
+drug16113015,Concor ,Obat Komparator,8000,12000,11/11/2021
+drug91871275,Viagra ,Obat Generik,5000,11000,3/20/2022
+drug12503070,Zistic,Obat Komparator,9000,15000,10/16/2021
+drug03704639,Farmoten,Obat Generik,7000,14000,4/3/2022
+drug72250907,Cholestor,Obat Generik,10000,13000,3/30/2022
+drug38475368,Feburic,Obat Komparator,9000,11000,9/23/2022
+drug98928200,Atarax-1,Obat Komparator,10000,12000,5/23/2022
+drug91084545,Primaquine Phosphate,Obat Generik,7000,12000,11/18/2021
+drug26446547,Pumpitor,Obat Komparator,10000,12000,1/15/2022
+drug78926509,Femoston 1/5,Obat Generik,7000,15000,6/16/2022
+drug63247565,Cytotec,Obat generik,9000,14000,7/5/2021
+drug35020578,Cymbalta,Obat Generik,7000,15000,4/11/2021
+drug24274852,Hepamed,Obat Komparator,5000,14000,6/11/2021
+drug09332102,Sopavel 5 ODT,Obat Generik,5000,15000,10/21/2022
+drug04679172,Brilinta ,Obat Generik,8000,15000,10/11/2021
+drug53526540,Lamictal,Obat Komparator,5000,13000,4/20/2021
+drug63441802,Levofloxacin,Obat Komparator,5000,13000,6/30/2021
+drug70453034,Voltaren Retard ,Obat Generik,10000,14000,9/5/2021
+drug60470010,Zoralin,Obat Komparator,5000,11000,1/31/2021
+drug42187806,Ferxate,Obat Generik,5000,12000,7/28/2021
+drug51671051,Reminyl ,Obat Generik,5000,11000,2/24/2021
+drug80279068,Glucovance ,Obat Komparator,10000,11000,12/9/2022
+drug05497454,Atevir,Obat Generik,7000,11000,9/18/2021
+drug52419621,Aricept ,Obat Generik,6000,14000,9/18/2022
+drug63758054,Movi-Cox,Obat Komparator,5000,15000,11/7/2021
+drug02277240,Grafloxin,Obat generik,8000,11000,2/1/2022
+drug51906948,Rasilez ,Obat Generik,5000,13000,7/31/2022
+drug15406590,Luvox ,Obat Komparator,8000,13000,5/22/2021
+drug73216940,Bipro,Obat Generik,9000,12000,6/14/2021
+drug90626067,Dogmatil,Obat Komparator,8000,14000,5/20/2021
+drug12890255,Bezalip Retard,Obat Komparator,6000,11000,9/28/2021
+drug11824657,Abilify Discmelt ,Obat Komparator,7000,12000,11/13/2021
+drug48733458,Gemfibrozil,Obat Komparator,7000,14000,7/27/2021
+drug89581438,Miniten,Obat Generik,7000,15000,12/12/2022
+drug00666374,Coralan,Obat Komparator,5000,13000,1/24/2022
+drug05244287,Lipanthyl 200 M,Obat Generik,5000,11000,10/1/2022
+drug96966044,Candotens 16,Obat Komparator,7000,11000,6/1/2022
+drug34789896,Ezetrol ,Obat Generik,7000,14000,11/17/2022
+drug37858179,DHP-FRIMAL ,Obat Generik,5000,14000,12/29/2022
+drug24571234,Profenid E-100,Obat Generik,7000,11000,10/7/2022
+drug43043958,Risperidone ,Obat Generik,7000,15000,7/12/2022
+drug39664051,Valtrex ,Obat Generik,5000,15000,2/7/2022
+drug60282545,Telfast Plus,Obat Komparator,7000,12000,1/3/2022
+drug72486597,Olmetec ,Obat Komparator,6000,13000,4/21/2021
+drug22155948,Cordarone,Obat Generik,8000,14000,2/27/2021
+drug96302910,Noperten,Obat generik,5000,13000,5/6/2022
+drug51423551,Levofloxacin,Obat Generik,10000,14000,9/13/2022
+drug30387515,Nasea OD,Obat Komparator,8000,13000,12/16/2022
+drug98072057,Farsorbid 10,Obat Generik,6000,13000,1/2/2021
+drug37641146,"Olmetec Plus 40/12,5",Obat Generik,9000,14000,9/30/2022
+drug81472369,Reminyl ,Obat Generik,7000,15000,2/9/2021
+drug29155903,Diabit,Obat Komparator,7000,13000,9/5/2022
+drug63702156,Onglyza,Obat Generik,6000,14000,6/25/2021
+drug79748780,Ramipril,Obat Komparator,6000,12000,9/29/2022
+drug77438058,Modalim,Obat Generik,10000,13000,7/28/2022
+drug66600541,Solinfec,Obat Generik,6000,15000,10/21/2022
+drug51976255,Xanax XR ,Obat Komparator,6000,13000,8/13/2022
+drug10580707,Micardis ,Obat Komparator,10000,14000,8/25/2021
+drug20114367,Glimepiride,Obat Komparator,8000,13000,12/15/2022
+drug04673408,Rostin 20,Obat Generik,9000,15000,12/4/2022
+drug85864856,Metphar XR 750,Obat Generik,10000,14000,12/19/2021
+drug78279223,Zatrimet,Obat Komparator,9000,14000,4/13/2021
+drug72930892,Clozaril ,Obat Komparator,8000,12000,3/31/2021
+drug68272647,Noperten,Obat Komparator,5000,14000,10/17/2022
+drug12221745,Glimepiride,Obat generik,10000,15000,8/1/2021
+drug81163762,Intelence,Obat Komparator,5000,12000,1/18/2021
+drug67531332,Irbeten 300,Obat Komparator,7000,13000,5/28/2022
+drug31004220,Azomax 500,Obat Generik,7000,15000,2/15/2022
+drug06536879,Ferriprox,Obat Generik,8000,15000,6/4/2021
+drug58415733,Alprazolam,Obat Komparator,6000,12000,10/21/2021
+drug66295327,Zarom 500,Obat Generik,7000,15000,5/18/2022
+drug81459506,Ativan,Obat Komparator,9000,13000,3/13/2021
+drug31784573,Lisinopril Dihydrate,Obat Komparator,6000,11000,1/21/2022
+drug07596964,Imatin,Obat Komparator,7000,12000,12/28/2022
+drug24714877,Sildenafil Citrate,Obat Generik,5000,12000,7/4/2021
+drug40688589,Modexa,Obat Generik,10000,13000,11/6/2021
+drug36645459,Ativan,Obat Komparator,6000,11000,5/16/2022
+drug60843760,Cefarox 100,Obat Komparator,7000,15000,8/27/2021
+drug90435782,Topamax ,Obat Komparator,10000,12000,11/4/2021
+drug54148048,Crestor ,Obat Generik,5000,12000,8/17/2021
+drug90188947,Postinor-2 ,Obat Generik,9000,13000,7/4/2021
+drug92078413,Irbesartan,Obat Komparator,7000,12000,3/26/2022
+drug70415612,Stalevo ,Obat Komparator,9000,15000,7/29/2021
+drug03209257,Buscopan Plus,Obat Komparator,10000,15000,7/21/2022
+drug65864098,Keppra ,Obat Komparator,10000,15000,7/26/2022
+drug96335857,Caduet,Obat Komparator,5000,14000,1/29/2021
+drug28011682,Destavell,Obat Generik,5000,14000,4/26/2021
+drug45996863,Gemfibrozil,Obat Generik,9000,11000,6/1/2021
+drug45482502,Exluton 28,Obat Generik,6000,11000,8/22/2021
+drug39502094,Coaprovel,Obat Komparator,6000,12000,6/23/2022
+drug00296038,Solinfec,Obat Generik,8000,11000,10/6/2021
+drug09768543,Livalo,Obat Komparator,8000,13000,7/15/2021
+drug07005824,Micardis ,Obat Generik,8000,11000,12/2/2022
+drug35061861,Seretide Diskus 100,Obat Komparator,6000,13000,3/29/2022
+drug76207815,Dominal,Obat Komparator,9000,12000,7/7/2022
+drug63617689,Viagra ,Obat Komparator,9000,11000,12/4/2022
+drug31282017,Ciproxin ,Obat Komparator,7000,12000,8/9/2022
+drug59470267,Lipanthyl Penta,Obat Komparator,9000,13000,2/3/2022
+drug22125507,Lodem,Obat Generik,6000,14000,12/28/2022
+drug30212688,Bicastra,Obat Generik,9000,11000,12/11/2022
+drug05810291,Xanax ,Obat Komparator,7000,15000,3/2/2022
+drug93448178,Seretide Diskus 500,Obat Komparator,8000,15000,3/31/2022
+drug38178634,Plamed,Obat Komparator,6000,12000,12/15/2022
+drug82307868,Zitrolin,Obat Generik,7000,14000,10/28/2021
+drug07216213,Therodel,Obat Komparator,6000,12000,6/7/2022
+drug81570454,Diovan,Obat Generik,7000,15000,7/23/2021
+drug91243812,Telfast HD,Obat Generik,5000,15000,8/4/2021
+drug13038472,Crestor ,Obat Generik,7000,11000,12/19/2022
+drug49452730,Livalo,Obat Komparator,9000,11000,12/9/2021
+drug02160115,Sifrol ,Obat Komparator,7000,13000,11/2/2021
+drug84538864,Nistrol,Obat Generik,7000,15000,1/3/2021
+drug02684192,Depakote,Obat Komparator,6000,15000,1/14/2021
+drug07139598,"Olmetec Plus 40/12,5",Obat Komparator,6000,14000,4/27/2022
+drug07437342,Gabapentin,Obat Generik,7000,14000,11/13/2021
+drug43279241,Farsix 40,Obat Komparator,9000,13000,9/14/2021
+drug94575323,Tarivid ,Obat Komparator,7000,15000,7/14/2022
+drug80124078,Taceral,Obat Generik,7000,12000,10/8/2021
+drug75339562,Teveten ,Obat Generik,5000,15000,7/22/2021
+drug67522019,Arcerin,Obat Komparator,5000,15000,9/7/2022
+drug21625060,Diane 35 ,Obat Generik,9000,14000,8/30/2022
+drug82670597,Neufar,Obat Generik,8000,15000,7/10/2021
+drug36646647,Tiaryt,Obat Generik,10000,14000,4/26/2022
+drug78665699,Lipitor ,Obat Komparator,9000,12000,11/5/2022
+drug23177871,Levitra ,Obat Generik,9000,12000,5/16/2021
+drug53537447,Onglyza,Obat Generik,5000,12000,3/8/2022
+drug87480702,Lovesco,Obat Generik,8000,14000,3/29/2021
+drug34105634,Cravit ,Obat Komparator,5000,12000,8/4/2022
+drug31999410,Stilnox ,Obat Generik,9000,14000,3/25/2022
+drug82066062,Falpro,Obat Komparator,7000,14000,4/6/2021
+drug17244244,Arbiten-I 300,Obat Generik,6000,15000,8/8/2022
+drug70682915,Atofar 40,Obat Generik,6000,14000,9/12/2022
+drug75151645,Maxiflon,Obat Komparator,5000,14000,5/14/2021
+drug96637593,Amaryl ,Obat Komparator,8000,15000,8/17/2021
+drug02347912,Actonel ,Obat Generik,10000,14000,7/24/2021
+drug68357658,Velcasma XR,Obat Komparator,9000,13000,8/24/2021
+drug45403330,Vfend,Obat Generik,10000,13000,5/27/2021
+drug78223950,Desirett,Obat Komparator,7000,13000,5/4/2022
+drug90419812,Tiaryt,Obat Komparator,10000,13000,6/15/2021
+drug82627058,Akilen 400,Obat Komparator,5000,14000,5/9/2022
+drug55536073,Tensiphar,Obat Generik,10000,15000,11/27/2021
+drug75324698,Twynsta,Obat Generik,9000,14000,5/22/2021
+drug94449822,HERBESSER CD 200,Obat Generik,8000,11000,11/29/2021
+drug71734989,Lutenyl ,Obat Komparator,9000,14000,4/30/2022
+drug27231500,Telsat,Obat Generik,9000,13000,5/6/2022
+drug16108141,Caduet,Obat Generik,9000,12000,9/3/2022
+drug57961255,Prolevox 500,Obat Generik,9000,14000,11/18/2022
+drug07954108,INH-CIBA 300,Obat Komparator,10000,13000,1/18/2021
+drug39018649,Irvask,Obat Komparator,5000,13000,1/27/2022
+drug07951190,Diamicron ,Obat Generik,7000,15000,7/28/2021
+drug36775507,Forbetes 850,Obat Generik,10000,15000,12/10/2022
+drug61531215,Arcerin,Obat Komparator,5000,15000,3/1/2022
+drug83741951,Concor AM,Obat Generik,7000,15000,10/12/2022
+drug44812263,Pladogrel,Obat Komparator,8000,11000,8/19/2021
+drug47051621,Cialis ,Obat Komparator,9000,15000,6/26/2022
+drug62529365,Cycloprogynova,Obat Generik,6000,15000,11/14/2022
+drug85881884,Hypofil,Obat Generik,7000,13000,3/17/2021
+drug83393358,Rhinos SR,Obat Komparator,6000,13000,6/23/2022
+drug53284600,Suboxone,Obat Generik,6000,11000,2/25/2022
+drug81285006,Imocard SR,Obat Komparator,6000,15000,5/7/2021
+drug61824010,Irbesartan,Obat Komparator,8000,11000,11/16/2021
+drug72889619,Irbeten 300,Obat Generik,9000,13000,12/6/2021
+drug36537068,Lovequin,Obat Generik,6000,11000,7/24/2021
+drug07442995,Duphaston,Obat Generik,6000,11000,3/31/2022
+drug37591403,Trozin 500,Obat Generik,7000,11000,6/19/2021
+drug85966482,Prolevox 500,Obat Komparator,6000,15000,9/14/2022
+drug14294525,Triclofem,Obat Komparator,5000,13000,8/17/2022
+drug91280893,Nasea OD,Obat Generik,10000,13000,11/7/2021
+drug48331708,Bipro,Obat generik,5000,11000,1/12/2021
+drug31410335,Prelin 75,Obat Komparator,5000,13000,7/2/2021
+drug22852205,Avesco 40,Obat Komparator,10000,14000,9/19/2021
+drug97899020,Baquinor Forte,Obat Generik,8000,14000,12/20/2022
+drug40052861,Maxiflon,Obat Komparator,8000,12000,7/3/2021
+drug23867758,Tenofir,Obat Generik,10000,15000,7/15/2022
+drug00913164,Aricept ,Obat Komparator,9000,15000,8/13/2021
+drug10212486,Glucophage XR,Obat Generik,5000,11000,6/18/2021
+drug25473605,Moxibat,Obat Generik,6000,11000,6/24/2021
+drug15371560,Prozac ,Obat Generik,6000,13000,6/10/2022
+drug56280364,Invega ,Obat Komparator,10000,12000,10/20/2021
+drug94679120,Nistrol,Obat Generik,7000,15000,6/25/2022
+drug88734576,Copidrel,Obat Generik,7000,14000,5/17/2022
+drug82563585,HERBESSER CD 100,Obat Komparator,6000,15000,8/8/2021
+drug20906559,Deferiprone,Obat Komparator,7000,11000,10/26/2021
+drug59016069,Acetensa,Obat Komparator,9000,13000,8/28/2021
+drug18797701,Moxivid,Obat Generik,9000,15000,10/7/2021
+drug95984926,Cialis ,Obat Komparator,8000,12000,3/27/2022
+drug13317331,Onglyza,Obat Generik,9000,14000,3/11/2022
+drug19384863,Glucophage XR,Obat Generik,6000,11000,8/30/2021
+drug62781800,Keppra,Obat Komparator,6000,15000,8/23/2021
+drug40298825,Isoptin ,Obat Komparator,7000,15000,7/19/2022
+drug52874741,Tensinop,Obat Generik,6000,11000,2/15/2022
+drug66048138,Glucophage,Obat Komparator,8000,14000,1/24/2021
+drug73414681,Seretide Diskus 100,Obat Komparator,10000,13000,6/1/2022
+drug01308433,Lovequin,Obat Generik,5000,13000,3/19/2021
+drug90482731,Viagra ,Obat Generik,8000,11000,10/26/2021
+drug54349650,Concor ,Obat Komparator,9000,14000,4/15/2021

@@ -1,0 +1,51 @@
+doctor_id;name;specialist;dob;phone;rate
+IDD0101;Kusnandi Rusmil Prof., Dr., dr., SpA(K), MM;Anak;Mar. 10, 1955;822-4558-783;Rp500.000
+IDD0128;Nur Melani Sari, dr., Sp.A(K)., M.Kes;Anak;Jun. 24, 1988;853-9764-917;Rp300.000
+IDD0131;Tisnasari Hafsah, dr., Sp.A(K);Anak;Mar. 14, 1987;339-2737-590;Rp300.000
+IDD0133;Fiva Aprilia Kadi, dr., Sp.(A), M.Kes;Anak;Mar. 5, 1984;873-9790-538;Rp300.000
+IDD0102;Erwin Pradian, Dr., dr., SpAn., KIC-KAR., M.Kes;Anastesi;08/28/1975;722-4818-956;Rp400.000
+IDD0106;Reza W. Sudjud, dr., SpAn-KAKV., KIC.,M.Kes;Anastesi;Apr. 26, 1986;258-3761-937;Rp300.000
+IDD0107;Kurniawan Oki Pamungkas, dr., Sp.BA;Bedah;Apr. 9, 1982;129-1613-372;Rp300.000
+IDD0113;Almahitta Cintami Putri, dr., SpBP;Bedah;Feb. 21, 1983;178-6610-797;Rp300.000
+IDD0118;Putie Hapsari, Sp.B(K)V;Bedah;Jul. 22, 1987;738-4481-888;Rp300.000
+IDD0119;Dimyati Achmad, dr., SpB(K)Onk;Bedah;Jul. 23, 1980;798-8690-948;Rp300.000
+IDD0120;Euis Maryani, dr., Sp.B-TKV;Bedah;Jul. 31, 1990;193-3459-274;Rp300.000
+IDD0145;Andriana, dr., SpB-KBD;Bedah;Oct. 8, 1987;561-5090-769;Rp300.000
+IDD0105;Helmi Siti Aminah, drg.,Prosto;Gigi dan Mulut;Apr. 1, 1990;344-8416-306;Rp250.000
+IDD0108;Gusriani, drg., Sp.Perio;Gigi dan Mulut;Aug. 1, 1982;971-9203-401;Rp300.000
+IDD0116;Lia Dahliana, drg., Sp.Orto;Gigi dan Mulut;Jul. 13, 1990;332-3139-307;Rp300.000
+IDD0141;Etty Sofia MA, drg., SpKGA;Gigi dan Mulut;Oct. 10, 1987;538-6909-300;Rp300.000
+IDD0142;dr. Augustine Purnamawati, DR. Sp.PD, Sp.JP, (K);Jantung;Oct. 13, 1985;147-2691-501;Rp250.000
+IDD0146;dr. Abidin A. Prawirakusuma Sp.JP;Jantung;Oct. 9, 1981;367-1814-613;Rp250.000
+IDD0104;Hadi Suharno,Dr., dr., SpOG(K), M.Kes., MHKes;Kebidanan;12/26/1969;889-1702-380;Rp400.000
+IDD0122;Mochamad Rizkar Arev Sukarsa, dr., SpOG;Kebidanan;Jul. 6, 1987;909-4892-157;Rp250.000
+IDD0125;Anita Rachmawati, dr., SpOG(K);Kebidanan;Jun. 18, 1981;735-8176-462;Rp300.000
+IDD0136;Ali Budi Harsono, dr., SpOG(K);Kebidanan;Nov. 1, 1981;818-6650-335;Rp300.000
+IDD0147;Setyorini, dr., SpOG;Kebidanan;Sep. 1, 1983;298-6622-901;Rp250.000
+IDD0121;Arnengsih, dr., SpKFR;Kedokteran Fisik & Rehabilitasi Medik;Jul. 4, 1991;653-2059-374;Rp250.000
+IDD0123;Marina M, dr., SpKFR(K);Kedokteran Fisik & Rehabilitasi Medik;Jun. 13, 1988;460-5154-726;Rp300.000
+IDD0143;Irma Ruslina Defi, dr., SpKFR.,Med.Sc;Kedokteran Fisik & Rehabilitasi Medik;Oct. 15, 1982;207-5108-722;Rp300.000
+IDD0115;Kharisma Perdani K, dr., SpKN., MMRS;Kedokteran Nuklir;Jan. 6, 1981;582-1341-198;Rp300.000
+IDD0117;dr. Rd. Edwin Affandi S.K. SpKN., MH.Kes;Kedokteran Nuklir;Jul. 2, 1982;747-8725-197;Rp300.000
+IDD0130;Lucky Saputra, dr, Sp.KJ(K), M.Kes;Kesehatan Jiwa;Jun. 8, 1986;760-7526-162;Rp300.000
+IDD0144;Bella Patriajaya, dr., Sp.KJ., MARS;Kesehatan Jiwa;Oct. 27, 1982;845-2181-423;Rp300.000
+IDD0109;Rasmia Rowawi, dr., SpKK(K);Kulit dan Kelamin;Aug. 12, 1981;054-6505-709;Rp300.000
+IDD0134;Hendra Gunawan, dr., SpKK., PhD;Kulit dan Kelamin;May 13, 1971;185-8596-834;Rp400.000
+IDD0140;Eva Krishna Sutedja, dr., M.Kes., SpKK;Kulit dan Kelamin;Oct. 1, 1984;671-4285-149;Rp300.000
+IDD0110;Dominica Herlijana, dr., SpM;Mata;Aug. 19, 1989;447-8281-544;Rp250.000
+IDD0111;Lilik Sukesi, dr., SpPD-KIC;Penyakit Dalam;Dec. 18, 1985;898-8935-615;Rp300.000
+IDD0126;Rachmat Gunadi W, dr., SpPD-KR;Penyakit Dalam;Jun. 23, 1985;993-3433-728;Rp300.000
+IDD0129;Rudi Wicaksana, dr., SpPD-KPTI;Penyakit Dalam;Jun. 8, 1982;881-4582-250;Rp300.000
+IDD0135;Afiatin, dr., SpPD-KGH;Penyakit Dalam;May 22, 1989;781-4022-747;Rp300.000
+IDD0138;Nenny Agustanti, dr., SpPD-KGEH;Penyakit Dalam;Nov. 8, 1986;227-9859-755;Rp300.000
+IDD0149;Maya Kusumawati, dr., SpPD;Penyakit Dalam;Sep. 30, 1984;152-4584-499;Rp250.000
+IDD0124;Suryani Gunadharma Dr.,dr., SpS(K).,M.Kes;Syaraf;Jun. 18, 1980;250-9298-996;Rp300.000
+IDD0127;Ahmad Rizal, dr., SpS(K).,PhD;Syaraf;Jun. 24, 1976;949-1430-245;Rp400.000
+IDD0137;Nushrotul Lailiyya dr., SpS(K);Syaraf;Nov. 7, 1980;806-1838-337;Rp300.000
+IDD0112;Agung Dinasti Permana,dr.,SpTHT-KL.,M.Kes.,FICS;THT;Feb. 16, 1989;784-4449-989;Rp300.000
+IDD0114;Raden Ayu Hardianti S, Sp.T.H.T.K.L;THT;Jan. 12, 1985;234-7111-456;Rp300.000
+IDD0132;Nur Akbar Aroeman,dr.,SpTHT-KL(K);THT;Mar. 17, 1986;347-4828-624;Rp300.000
+IDD0139;Bambang Purwanto,dr.,SpTHT-KL(K).,MM;THT;Nov. 9, 1985;976-7812-129;Rp300.000
+IDD0103;Bambang S. Noegroho, Dr., dr., SpB., SpU(K);Urologi;11/20/1972;367-3271-842;Rp400.000
+IDD0148;Sawkar Vijay Pramod., dr., SpU;Urologi;Sep. 14, 1991;952-5601-477;Rp250.000
+IDD0150;Jupiter Sibarani, SpU;Urologi;Sep. 30, 1990;132-4449-928;Rp250.000

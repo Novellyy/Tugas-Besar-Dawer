@@ -1,0 +1,51 @@
+doctor_id;name;specialist;dob;phone;rate
+IDD0101;Kusnandi Rusmil Prof., Dr., dr., SpA(K), MM;Anak;1955/03/10;822-4558-783;500000
+IDD0128;Nur Melani Sari, dr., Sp.A(K)., M.Kes;Anak;1988/06/24;853-9764-917;300000
+IDD0131;Tisnasari Hafsah, dr., Sp.A(K);Anak;1987/03/14;339-2737-590;300000
+IDD0133;Fiva Aprilia Kadi, dr., Sp.(A), M.Kes;Anak;1984/03/05;873-9790-538;300000
+IDD0102;Erwin Pradian, Dr., dr., SpAn., KIC-KAR., M.Kes;Anastesi;1975/08/28;722-4818-956;400000
+IDD0106;Reza W. Sudjud, dr., SpAn-KAKV., KIC.,M.Kes;Anastesi;1986/04/26;258-3761-937;300000
+IDD0107;Kurniawan Oki Pamungkas, dr., Sp.BA;Bedah;1982/04/09;129-1613-372;300000
+IDD0113;Almahitta Cintami Putri, dr., SpBP;Bedah;1983/02/21;178-6610-797;300000
+IDD0118;Putie Hapsari, Sp.B(K)V;Bedah;1987/07/22;738-4481-888;300000
+IDD0119;Dimyati Achmad, dr., SpB(K)Onk;Bedah;1980/07/23;798-8690-948;300000
+IDD0120;Euis Maryani, dr., Sp.B-TKV;Bedah;1990/07/31;193-3459-274;300000
+IDD0145;Andriana, dr., SpB-KBD;Bedah;1987/10/08;561-5090-769;300000
+IDD0105;Helmi Siti Aminah, drg.,Prosto;Gigi dan Mulut;1990/04/01;344-8416-306;250000
+IDD0108;Gusriani, drg., Sp.Perio;Gigi dan Mulut;1982/08/01;971-9203-401;300000
+IDD0116;Lia Dahliana, drg., Sp.Orto;Gigi dan Mulut;1990/07/13;332-3139-307;300000
+IDD0141;Etty Sofia MA, drg., SpKGA;Gigi dan Mulut;1987/10/10;538-6909-300;300000
+IDD0142;dr. Augustine Purnamawati, DR. Sp.PD, Sp.JP, (K);Jantung;1985/10/13;147-2691-501;250000
+IDD0146;dr. Abidin A. Prawirakusuma Sp.JP;Jantung;1981/10/13;367-1814-613;250000
+IDD0104;Hadi Suharno,Dr., dr., SpOG(K), M.Kes., MHKes;Kebidanan;12/26/1969;889-1702-380;400000
+IDD0122;Mochamad Rizkar Arev Sukarsa, dr., SpOG;Kebidanan;1987/07/06;909-4892-157;250000
+IDD0125;Anita Rachmawati, dr., SpOG(K);Kebidanan;1981/06/18;735-8176-462;300000
+IDD0136;Ali Budi Harsono, dr., SpOG(K);Kebidanan;1981/11/01;818-6650-335;300000
+IDD0147;Setyorini, dr., SpOG;Kebidanan;1983/09/01;298-6622-901;250000
+IDD0121;Arnengsih, dr., SpKFR;Kedokteran Fisik & Rehabilitasi Medik;1991/07/04;653-2059-374;250000
+IDD0123;Marina M, dr., SpKFR(K);Kedokteran Fisik & Rehabilitasi Medik;1988/06/13;460-5154-726;300000
+IDD0143;Irma Ruslina Defi, dr., SpKFR.,Med.Sc;Kedokteran Fisik & Rehabilitasi Medik;1982/12/25;207-5108-722;300000
+IDD0115;Kharisma Perdani K, dr., SpKN., MMRS;Kedokteran Nuklir;1981/01/06;582-1341-198;300000
+IDD0117;dr. Rd. Edwin Affandi S.K. SpKN., MH.Kes;Kedokteran Nuklir;1982/07/02;747-8725-197;300000
+IDD0130;Lucky Saputra, dr, Sp.KJ(K), M.Kes;Kesehatan Jiwa;1986/06/08;760-7526-162;300000
+IDD0144;Bella Patriajaya, dr., Sp.KJ., MARS;Kesehatan Jiwa;1982/10/27;845-2181-423;300000
+IDD0109;Rasmia Rowawi, dr., SpKK(K);Kulit dan Kelamin;1981/08/12;054-6505-709;300000
+IDD0134;Hendra Gunawan, dr., SpKK., PhD;Kulit dan Kelamin;1971/05/13;185-8596-834;400000
+IDD0140;Eva Krishna Sutedja, dr., M.Kes., SpKK;Kulit dan Kelamin;1984/01/12;671-4285-149;300000
+IDD0110;Dominica Herlijana, dr., SpM;Mata;1989/08/19;447-8281-544;250000
+IDD0111;Lilik Sukesi, dr., SpPD-KIC;Penyakit Dalam;1985/12/18;898-8935-615;300000
+IDD0126;Rachmat Gunadi W, dr., SpPD-KR;Penyakit Dalam;1985/06/23;993-3433-728;300000
+IDD0129;Rudi Wicaksana, dr., SpPD-KPTI;Penyakit Dalam;1982/06/08;881-4582-250;300000
+IDD0135;Afiatin, dr., SpPD-KGH;Penyakit Dalam;1989/05/22;781-4022-747;300000
+IDD0138;Nenny Agustanti, dr., SpPD-KGEH;Penyakit Dalam;1986/11/08;227-9859-755;300000
+IDD0149;Maya Kusumawati, dr., SpPD;Penyakit Dalam;1984/09/30;152-4584-499;250000
+IDD0124;Suryani Gunadharma Dr.,dr., SpS(K).,M.Kes;Syaraf;1980/06/18;250-9298-996;300000
+IDD0127;Ahmad Rizal, dr., SpS(K).,PhD;Syaraf;1976/06/24;949-1430-245;400000
+IDD0137;Nushrotul Lailiyya dr., SpS(K);Syaraf;1980/11/07;806-1838-337;300000
+IDD0112;Agung Dinasti Permana,dr.,SpTHT-KL.,M.Kes.,FICS;THT;1989/02/16;784-4449-989;300000
+IDD0114;Raden Ayu Hardianti S, Sp.T.H.T.K.L;THT;1985/01/12;234-7111-456;300000
+IDD0132;Nur Akbar Aroeman,dr.,SpTHT-KL(K);THT;1986/03/17;347-4828-624;300000
+IDD0139;Bambang Purwanto,dr.,SpTHT-KL(K).,MM;THT;1985/11/09;976-7812-129;300000
+IDD0103;Bambang S. Noegroho, Dr., dr., SpB., SpU(K);Urologi;1972/11/20;367-3271-842;400000
+IDD0148;Sawkar Vijay Pramod., dr., SpU;Urologi;1991/09/14;952-5601-477;250000
+IDD0150;Jupiter Sibarani, SpU;Urologi;1990/09/30;132-4449-928;250000

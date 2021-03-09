@@ -1,0 +1,3001 @@
+patient_id,name,dob,phone,address
+pat49667790,"Tgk. Wulan Adriansyah, S.E.I",5/4/1983,-412,"Jl. Kutai No. 5
+Bekasi, Jawa Tengah 80987"
+pat23488397,Icha Mandala,8/22/1981,(060) 882 6712,"Jalan Rajawali Barat No. 236
+Surabaya, Sumatera Barat 19690"
+pat83106095,"R. Eka Budiman, M.Ak",7/4/1990,(094) 052 5350,"Jalan Yos Sudarso No. 8
+Kota Administrasi Jakarta Selatan, KS 34137"
+pat73076063,Bakijan Simbolon,12/8/1995,-7441,"Gang Soekarno Hatta No. 74
+Sungai Penuh, KR 86839"
+pat35181187,dr. Ulva Sirait,6/7/1988,-5673,"Jalan Soekarno Hatta No. 18
+Cimahi, Maluku 78873"
+pat61414860,Jumadi Putra,5/24/1997,088 044 1457,"Jalan Antapani Lama No. 324
+Cilegon, Nusa Tenggara Timur 05879"
+pat92335714,"Tgk. Malik Pradana, S.H.",12/16/1998,-2828,"Gang PHH. Mustofa No. 66
+Bontang, Bengkulu 78646"
+pat51023249,Surya Irawan,6/26/1984,+62 (065) 875-0381,"Jalan Pasirkoja No. 026
+Kota Administrasi Jakarta Pusat, ST 39274"
+pat55937917,Fathonah Sihombing,8/15/1993,+62 (950) 529-9968,"Jl. Lembong No. 647
+Tarakan, JI 24887"
+pat65559574,"Usyi Budiyanto, S.Gz",3/11/1992,+62 (0171) 877-5261,"Gang Peta No. 55
+Tebingtinggi, SU 56607"
+pat07242793,"Tri Fujiati, S.IP",12/27/1983,-4711,"Gg. Ir. H. Djuanda No. 9
+Banjarbaru, Sumatera Utara 81716"
+pat15930040,Gabriella Jailani,5/21/1986,-3030,"Jl. Gegerkalong Hilir No. 41
+Padangpanjang, KT 66712"
+pat77098528,"R.M. Hasta Maryati, S.IP",4/3/1996,(0593) 289 8569,"Gang Jamika No. 7
+Salatiga, Kepulauan Riau 64873"
+pat26143446,Ani Gunarto,7/9/1980,884467965,"Gg. Siliwangi No. 1
+Balikpapan, Sulawesi Tenggara 46382"
+pat81986064,Gaduh Maryadi,6/12/1992,-9389,"Jl. Soekarno Hatta No. 90
+Banda Aceh, SG 04573"
+pat25817683,"Jefri Prakasa, S.Kom",6/20/1990,+62 (93) 848 0614,"Jalan Rumah Sakit No. 79
+Banjarmasin, BB 65670"
+pat87520125,"Garang Lestari, S.E.",7/2/1990,(0609) 658-8695,"Gang Ahmad Yani No. 132
+Lhokseumawe, Bali 16263"
+pat10726624,Johan Rahayu,5/28/1998,-8216,"Jl. Gardujati No. 29
+Bima, Sulawesi Tengah 73310"
+pat50206377,"dr. Tania Winarsih, S.Pt",10/10/1996,+62 (46) 123-1791,"Jl. Cikapayang No. 644
+Probolinggo, SB 79350"
+pat71767185,"Gandi Waluyo, M.Ak",1/14/1991,-3320,"Jl. Cihampelas No. 356
+Batam, Kalimantan Barat 46741"
+pat80145356,Niyaga Saragih,8/22/1987,086 261 9887,"Gang Cikapayang No. 5
+Singkawang, Sumatera Utara 35204"
+pat40067438,"Nalar Hariyah, S.I.Kom",8/14/1989,+62 (021) 004-0391,"Jl. Rajiman No. 96
+Tanjungpinang, Nusa Tenggara Barat 57567"
+pat72496336,Prayogo Padmasari,2/9/1990,(0670) 903 4966,"Gang H.J Maemunah No. 1
+Payakumbuh, SB 42740"
+pat77427458,Karta Rahmawati,12/1/1996,(011) 953-7091,"Jalan Cempaka No. 632
+Metro, Nusa Tenggara Timur 14042"
+pat78739635,"Anom Rajata, S.E.I",5/18/1996,(083) 994 8584,"Gang Lembong No. 8
+Cimahi, Sumatera Barat 73816"
+pat07810374,"Ir. Kurnia Ramadan, S.E.",7/16/1984,+62 (001) 806 4336,"Jl. Dipatiukur No. 72
+Ternate, Aceh 89050"
+pat28398820,"Ir. Samiah Zulkarnain, S.E.I",8/20/1992,(0930) 551-3654,"Jalan Suniaraja No. 6
+Cimahi, Sumatera Selatan 02646"
+pat65126509,"Muhammad Samosir, S.Ked",5/23/1996,-9552,"Gang Waringin No. 815
+Gorontalo, DKI Jakarta 70570"
+pat51353087,Gamani Utama,3/12/1984,082 639 1531,"Gg. Jamika No. 028
+Tegal, JI 60451"
+pat09395138,Bala Prasasta,7/3/1990,+62 (424) 741-0386,"Jalan Siliwangi No. 094
+Tangerang Selatan, JK 85859"
+pat73278801,Kasusra Ramadan,3/27/1989,-9534,"Jalan Rajawali Timur No. 38
+Metro, MU 03833"
+pat34253571,"dr. Kawaca Kusumo, S.E.I",8/2/1989,080 558 1961,"Jl. Ir. H. Djuanda No. 949
+Kota Administrasi Jakarta Barat, DKI Jakarta 59870"
+pat13677220,Nabila Najmudin,7/2/1986,+62 (0215) 218 4456,"Gg. Medokan Ayu No. 246
+Jambi, Bengkulu 50907"
+pat95582047,"Dodo Purnawati, S.T.",11/7/1995,-2906,"Gang Rungkut Industri No. 93
+Probolinggo, KU 52242"
+pat30955059,Hj. Winda Laksita,11/10/1993,+62 (0689) 861-3899,"Gang Erlangga No. 970
+Tangerang, NB 59095"
+pat73452768,"Sutan Kuncara Namaga, S.E.I",11/5/1986,(087) 226 1555,"Gg. Suryakencana No. 227
+Palu, Sulawesi Barat 83965"
+pat41976821,"Taswir Rahayu, S.E.",8/10/1983,+62 (030) 703-3397,"Gg. Surapati No. 10
+Manado, JI 76451"
+pat54895218,Dwi Puspasari,8/25/1997,845358318,"Jl. Pacuan Kuda No. 718
+Sorong, ST 75486"
+pat24382465,Fitriani Sihotang,8/21/1999,-7394,"Jl. Setiabudhi No. 97
+Tangerang Selatan, Kalimantan Tengah 60020"
+pat11615538,Nilam Wahyudin,7/19/1985,+62 (0065) 875-1699,"Jalan Dipatiukur No. 4
+Palopo, BB 73014"
+pat75733803,Prakosa Wijaya,4/12/1991,-6764,"Gg. H.J Maemunah No. 11
+Purwokerto, KT 22495"
+pat11973447,Faizah Kuswandari,1/4/1981,+62 (21) 571 9325,"Gg. Peta No. 73
+Pangkalpinang, DKI Jakarta 60202"
+pat27406724,Paramita Wahyudin,4/29/2000,(080) 082-5181,"Jalan HOS. Cokroaminoto No. 13
+Sabang, BE 41539"
+pat49016253,Martaka Pertiwi,8/6/1995,(078) 155-3557,"Jalan Merdeka No. 7
+Bima, JB 54738"
+pat96278253,"Garda Nugroho, S.Pt",5/27/1988,+62 (690) 100-1115,"Gg. Monginsidi No. 166
+Pagaralam, Kalimantan Tengah 03282"
+pat60367365,Ami Uyainah,12/29/1992,+62 (174) 379 4930,"Jl. Bangka Raya No. 68
+Subulussalam, JA 77980"
+pat91790927,Devi Mardhiyah,1/1/1985,(061) 264-2840,"Gang Pacuan Kuda No. 4
+Tangerang, AC 61919"
+pat78880979,"Ir. Nasrullah Permadi, M.Farm",10/27/1997,+62 (0593) 078-4160,"Gg. Tebet Barat Dalam No. 014
+Pagaralam, Bengkulu 68645"
+pat26679761,Syahrini Firmansyah,8/16/1997,+62 (899) 913 1191,"Gg. Stasiun Wonokromo No. 6
+Batam, Maluku Utara 08476"
+pat03117354,Elma Handayani,1/15/1981,(0607) 699-8191,"Gg. Peta No. 462
+Sawahlunto, LA 19850"
+pat15690869,Ghaliyati Yolanda,11/15/1980,(0740) 768-4378,"Gg. PHH. Mustofa No. 54
+Bima, Jawa Tengah 34038"
+pat24992435,Puti Nabila Napitupulu,10/29/1998,+62 (87) 227-0007,"Jl. Erlangga No. 74
+Semarang, Riau 94086"
+pat89991268,"T. Bagiya Prastuti, S.E.I",8/12/1985,(0265) 117-9320,"Jalan Ciwastra No. 94
+Jambi, KU 92232"
+pat80918226,Samiah Hutagalung,5/16/1985,086 564 7196,"Jl. Abdul Muis No. 250
+Bekasi, KB 55098"
+pat87352139,Rudi Sihotang,8/14/1981,-9608,"Jalan Veteran No. 995
+Kota Administrasi Jakarta Barat, Maluku Utara 81798"
+pat46018830,"Salsabila Simbolon, S.Pd",8/13/1987,+62 (35) 680-3404,"Jalan Pacuan Kuda No. 510
+Bukittinggi, Sumatera Selatan 71070"
+pat71154442,"Rachel Marbun, S.Sos",12/19/1984,(083) 023 5323,"Gg. Asia Afrika No. 168
+Tegal, SB 64637"
+pat67708642,Ilyas Hutagalung,7/24/1982,080 125 9640,"Jalan Rawamangun No. 9
+Tegal, Sumatera Barat 73618"
+pat38338854,Dadi Yolanda,4/9/1991,801367010,"Gg. Ir. H. Djuanda No. 4
+Bogor, ST 84241"
+pat01826609,Pranata Salahudin,12/14/2000,+62 (16) 343-1465,"Gang Dr. Djunjunan No. 2
+Pangkalpinang, KU 63712"
+pat11540946,"Rahmi Laksmiwati, S.Pd",9/19/1981,-3997,"Jalan Cihampelas No. 122
+Cilegon, Jawa Barat 14868"
+pat50283958,Bella Simbolon,3/25/1999,+62 (40) 406-1488,"Jl. Kutai No. 563
+Payakumbuh, LA 90393"
+pat91960269,Ayu Hassanah,3/2/1980,+62 (074) 416 2876,"Jl. Gegerkalong Hilir No. 4
+Cimahi, SR 60348"
+pat43368433,"Mahesa Wibisono, M.Pd",7/13/1991,081 376 9807,"Jl. Jakarta No. 7
+Kendari, Sumatera Barat 36822"
+pat91807809,"Cakrawangsa Uyainah, S.Sos",11/14/1982,+62 (82) 057-9783,"Jl. Tebet Barat Dalam No. 259
+Salatiga, BA 18789"
+pat67797585,"Luwar Pangestu, S.Kom",2/11/2000,-8826,"Jalan Soekarno Hatta No. 8
+Pasuruan, RI 08159"
+pat83164477,Latif Pratiwi,10/24/1982,-1353,"Jl. Abdul Muis No. 18
+Dumai, Jawa Tengah 62597"
+pat31278447,"Julia Hakim, S.E.",2/9/1983,-7336,"Gang Veteran No. 12
+Parepare, JK 77222"
+pat52790911,Ajimin Rajata,12/28/1985,(0115) 760-1054,"Jl. BKR No. 96
+Kota Administrasi Jakarta Utara, BT 21366"
+pat19087122,"Gara Astuti, S.Sos",1/6/1994,+62 (73) 760-2493,"Gang Medokan Ayu No. 79
+Pematangsiantar, DKI Jakarta 06410"
+pat60674685,Winda Permadi,7/31/1994,+62 (065) 630 4896,"Jalan Gegerkalong Hilir No. 5
+Palopo, KT 98042"
+pat72270691,Mila Usada,10/4/1990,+62 (021) 375-0948,"Gg. KH Amin Jasuta No. 710
+Bima, MA 66586"
+pat74672691,Hairyanto Sinaga,3/16/1992,+62 (0580) 149-2355,"Gg. Moch. Ramdan No. 8
+Banjarbaru, Kalimantan Barat 63086"
+pat94394894,Aisyah Nuraini,8/23/1995,(0825) 472-5680,"Jalan Rumah Sakit No. 0
+Sabang, Sulawesi Barat 34981"
+pat78058811,Kamaria Natsir,9/10/1992,+62 (001) 782-5666,"Jalan H.J Maemunah No. 900
+Tanjungbalai, Sulawesi Utara 08027"
+pat35395423,Fathonah Puspita,8/5/1996,(0014) 012-6985,"Gg. Kebonjati No. 50
+Metro, Papua Barat 86140"
+pat07637438,Karya Nasyiah,9/12/1989,+62 (00) 762 1760,"Jalan PHH. Mustofa No. 214
+Gorontalo, SG 88175"
+pat64083391,Puti Syahrini Januar,2/28/1984,+62 (77) 792-7146,"Jalan Siliwangi No. 1
+Denpasar, MA 86845"
+pat94846799,Cager Tarihoran,11/9/1993,+62 (029) 556-3666,"Jl. Surapati No. 83
+Depok, Kepulauan Riau 25292"
+pat40083964,Umay Hastuti,4/25/1981,+62 (0597) 158-1233,"Jl. Ahmad Dahlan No. 013
+Mataram, MA 71583"
+pat09059856,Sutan Bakda Uyainah,10/15/1983,+62 (276) 223-8564,"Jl. W.R. Supratman No. 63
+Kediri, KR 85098"
+pat09751088,Dr. Prasetya Laksita,10/8/1992,+62 (0321) 858-8542,"Jl. R.E Martadinata No. 68
+Payakumbuh, KS 96419"
+pat68679743,Rachel Winarno,11/21/1997,+62 (0837) 530 9605,"Gang Ciwastra No. 21
+Pekanbaru, Aceh 84969"
+pat26269221,drg. Kajen Permadi,12/23/1992,+62 (477) 625-9508,"Gg. Moch. Toha No. 16
+Tebingtinggi, SN 44650"
+pat38841644,Jumari Damanik,12/17/1991,(0403) 480-1339,"Jalan K.H. Wahid Hasyim No. 0
+Cilegon, Sulawesi Barat 81092"
+pat10077139,Umi Prabowo,3/13/1996,+62 (91) 173 3407,"Gang Otto Iskandardinata No. 174
+Pariaman, JB 99457"
+pat27618479,"drg. Karen Marbun, S.Kom",1/19/1995,+62 (0622) 537-8201,"Gang Jakarta No. 43
+Denpasar, RI 92376"
+pat26406336,Hana Maryati,1/15/1984,+62 (0200) 886 1757,"Gang Veteran No. 2
+Sukabumi, Lampung 45309"
+pat38770746,Caket Situmorang,10/24/1993,-3195,"Jl. Rumah Sakit No. 5
+Banjarbaru, BE 50736"
+pat86807845,drg. Hadi Suryono,6/21/1980,(0258) 729 7601,"Jl. Raya Ujungberung No. 099
+Gorontalo, PA 52771"
+pat62110556,Bakijan Winarno,12/15/1994,-5332,"Gg. Veteran No. 134
+Jambi, Kalimantan Timur 64107"
+pat16623903,KH. Koko Firgantoro,3/10/1996,085 632 4763,"Jl. Jend. A. Yani No. 6
+Solok, YO 52190"
+pat86242301,"Malika Sirait, S.Gz",9/29/1999,+62 (19) 594-5885,"Gang K.H. Wahid Hasyim No. 53
+Bontang, SU 87160"
+pat94168167,"Cut Ratih Uyainah, S.Farm",10/12/1985,809457793,"Gg. Cikapayang No. 601
+Madiun, DKI Jakarta 22534"
+pat48606806,Jagapati Zulkarnain,7/30/1996,-5385,"Jl. Jayawijaya No. 8
+Tasikmalaya, Sulawesi Tengah 02045"
+pat57030043,"Hj. Qori Kusmawati, M.M.",5/3/1989,(035) 167-0863,"Gg. Kendalsari No. 732
+Tarakan, NT 52880"
+pat58414019,"Drs. Puji Palastri, S.E.I",6/18/1989,-2164,"Jalan Ahmad Yani No. 46
+Surabaya, Jambi 83997"
+pat40497563,Queen Haryanto,2/21/1991,(0909) 821-6669,"Jl. Siliwangi No. 836
+Singkawang, Bengkulu 14099"
+pat18567724,Najam Melani,6/28/1988,-4448,"Jalan Sadang Serang No. 818
+Kota Administrasi Jakarta Selatan, Jawa Barat 81774"
+pat13633783,Embuh Setiawan,3/18/1992,(0646) 331-6762,"Jalan Gardujati No. 42
+Prabumulih, Banten 86484"
+pat98216079,"Daru Widiastuti, S.Ked",3/30/1999,-8994,"Gg. Gardujati No. 6
+Sabang, Lampung 80638"
+pat88659596,"Ir. Queen Yuniar, S.Pt",7/19/1990,+62 (0154) 363-6237,"Gang Tubagus Ismail No. 09
+Pekalongan, Nusa Tenggara Barat 57378"
+pat06804923,Aisyah Prastuti,11/15/1990,+62 (69) 993 0520,"Jalan Merdeka No. 516
+Pontianak, YO 64151"
+pat35355625,Citra Gunarto,1/3/1980,+62 (63) 546 7506,"Jl. Soekarno Hatta No. 196
+Langsa, SB 27590"
+pat84722775,Zahra Maryati,6/18/1998,-10613,"Jl. Otto Iskandardinata No. 275
+Bekasi, Jambi 99120"
+pat00861335,Ir. Aditya Laksmiwati,8/13/1984,+62 (093) 847 1618,"Jalan Rungkut Industri No. 21
+Kota Administrasi Jakarta Timur, Kalimantan Selatan 79682"
+pat33640525,Tina Saptono,10/30/1993,871310293,"Gg. Kiaracondong No. 6
+Manado, Banten 34392"
+pat05953028,Hj. Wirda Firgantoro,12/23/1984,+62 (58) 201-4474,"Gang Cikapayang No. 12
+Tanjungbalai, DKI Jakarta 76732"
+pat87163797,"Dr. Saka Salahudin, S.Gz",2/6/1980,(017) 242 4417,"Jalan Gegerkalong Hilir No. 926
+Balikpapan, SB 81364"
+pat00498678,Hasna Hastuti,12/18/1985,-8147,"Jl. Joyoboyo No. 4
+Cimahi, Sulawesi Utara 24349"
+pat43716654,Ikin Mulyani,2/8/1996,+62 (347) 204-6914,"Gang Gardujati No. 9
+Pasuruan, NT 35403"
+pat51424367,dr. Waluyo Winarno,12/18/1980,(086) 125 2131,"Jl. BKR No. 60
+Palembang, Maluku 02557"
+pat09041547,"Mulya Aryani, S.E.I",2/6/1997,865878203,"Jalan Suryakencana No. 7
+Pangkalpinang, KU 98390"
+pat74859351,Ilyas Adriansyah,7/20/1992,+62 (0313) 372-5838,"Jalan Tebet Barat Dalam No. 7
+Pekalongan, BB 36329"
+pat39396235,Citra Haryanto,2/9/1994,+62 (056) 244 7891,"Gang Laswi No. 557
+Tebingtinggi, DKI Jakarta 21160"
+pat23460140,Irwan Widiastuti,5/25/1996,837409714,"Jalan Veteran No. 9
+Lhokseumawe, MA 38219"
+pat24634281,Hadi Firgantoro,7/18/2000,+62 (0662) 581 3441,"Gang Ciwastra No. 0
+Kotamobagu, Jawa Timur 77361"
+pat42203421,Amelia Usamah,6/10/1980,(0563) 031 6242,"Gg. Sentot Alibasa No. 86
+Manado, Jawa Timur 55279"
+pat10774472,Hj. Maya Habibi,1/30/1988,+62 (019) 571-9186,"Gg. Dipenogoro No. 41
+Kota Administrasi Jakarta Utara, DKI Jakarta 11950"
+pat94147650,"Laras Dabukke, S.Gz",2/11/1989,+62 (042) 075 1074,"Jl. Kutisari Selatan No. 9
+Pasuruan, Bali 84929"
+pat20401320,Ophelia Oktaviani,5/3/1995,-4468,"Jl. Medokan Ayu No. 9
+Kota Administrasi Jakarta Pusat, Sumatera Selatan 71565"
+pat69800924,Heru Budiyanto,3/24/1999,+62 (082) 852 2433,"Jalan Kapten Muslihat No. 226
+Prabumulih, Maluku 47252"
+pat09575134,Zulfa Rahayu,1/1/1985,(0751) 388 3699,"Gang Dr. Djunjunan No. 7
+Subulussalam, KU 73131"
+pat99894030,Jumari Maryadi,4/2/1992,-8587,"Gg. Merdeka No. 979
+Kota Administrasi Jakarta Timur, BB 93330"
+pat61242562,"Chandra Farida, S.T.",4/24/1987,-8190,"Gang Tubagus Ismail No. 6
+Padang Sidempuan, KR 85174"
+pat04961666,T. Gandi Mahendra,9/4/1999,-1212,"Jl. BKR No. 060
+Palangkaraya, JI 38405"
+pat48785587,drg. Ade Hutapea,4/27/1992,+62 (045) 906 7584,"Gang Rumah Sakit No. 43
+Sawahlunto, Kepulauan Bangka Belitung 69322"
+pat43979769,Hardana Lazuardi,6/14/1985,+62 (030) 511-3407,"Gg. Lembong No. 600
+Tomohon, JA 58106"
+pat69063343,Dariati Tarihoran,2/18/1983,(088) 126 8721,"Gang Monginsidi No. 4
+Kota Administrasi Jakarta Selatan, Nusa Tenggara Timur 87864"
+pat87355482,"Putri Maulana, S.Ked",9/7/1990,873241619,"Gang Raya Ujungberung No. 4
+Surakarta, Sulawesi Utara 45679"
+pat65772423,"dr. Bahuwarna Mansur, S.IP",3/9/1980,+62 (353) 600 4603,"Jalan W.R. Supratman No. 396
+Lhokseumawe, Riau 89937"
+pat53109927,Agnes Tampubolon,7/25/1985,087 038 5058,"Jl. HOS. Cokroaminoto No. 49
+Surakarta, Jawa Barat 39260"
+pat88406343,Wulan Prasetyo,3/16/1995,+62 (061) 416-2938,"Gg. Veteran No. 114
+Banjarmasin, YO 89666"
+pat00037747,Langgeng Tampubolon,7/17/2000,+62 (841) 040-9720,"Jl. Rajiman No. 010
+Bandung, RI 91170"
+pat86293709,Tira Siregar,7/26/1991,+62 (94) 391 8703,"Jl. Setiabudhi No. 000
+Metro, Bali 45794"
+pat72034590,"Ir. Eva Habibi, S.Gz",3/26/1992,(013) 817-1159,"Jl. M.H Thamrin No. 37
+Bandung, JA 67337"
+pat87395709,Tgk. Cindy Samosir,4/9/1990,-6688,"Gg. Cikapayang No. 7
+Pangkalpinang, YO 56519"
+pat11281863,"Dirja Mangunsong, M.TI.",6/9/1999,+62 (30) 130 0375,"Gang Rajiman No. 7
+Sabang, KB 67728"
+pat04993360,"Tgk. Ibrahim Puspita, M.Kom.",3/19/1988,+62 (022) 090-1218,"Gang Cikutra Barat No. 252
+Ternate, SR 46583"
+pat13300661,Drs. Lanang Natsir,2/4/1995,+62 (46) 602-6956,"Gang Abdul Muis No. 0
+Singkawang, BE 03231"
+pat33280806,Nabila Lestari,7/31/1996,+62 (076) 190-1247,"Gang Ronggowarsito No. 712
+Madiun, AC 78326"
+pat79919142,"Sutan Cecep Permata, M.Pd",3/15/1996,(0588) 471-8008,"Gang Rajiman No. 988
+Makassar, SB 97238"
+pat71063553,"drg. Winda Farida, S.Sos",12/18/1999,(0418) 476-2281,"Jalan Pacuan Kuda No. 495
+Bukittinggi, Kalimantan Utara 85821"
+pat81943807,Yulia Nurdiyanti,1/8/1992,-2207,"Gang Astana Anyar No. 86
+Makassar, KU 19664"
+pat89475737,"dr. Dian Permadi, S.Kom",4/29/1994,-2887,"Jl. Kutisari Selatan No. 193
+Balikpapan, GO 03872"
+pat84027788,Aurora Widiastuti,4/26/1981,-5828,"Jalan M.T Haryono No. 28
+Bengkulu, ST 51870"
+pat70515176,Victoria Hidayat,9/19/2000,+62 (0588) 821-2625,"Gang Cikutra Timur No. 2
+Padang Sidempuan, JK 41931"
+pat74396436,"Simon Novitasari, S.T.",1/17/1990,+62 (083) 941-3802,"Jalan Cikutra Timur No. 67
+Sabang, Sumatera Selatan 19699"
+pat99706586,Ida Samosir,8/8/1991,+62 (862) 751-3866,"Jl. Erlangga No. 044
+Palembang, BB 35908"
+pat75445652,R. Vanya Halim,2/18/1984,+62 (82) 970-4186,"Gg. Cikutra Timur No. 330
+Banjarbaru, KU 12358"
+pat66546696,"Prabu Mayasari, M.M.",12/5/1996,(0718) 048-7042,"Jalan Rajawali Barat No. 303
+Kota Administrasi Jakarta Pusat, Kalimantan Timur 20668"
+pat21883866,Syahrini Purwanti,11/8/1985,(0454) 470-1818,"Gang Jend. A. Yani No. 54
+Palopo, Kepulauan Riau 70811"
+pat28235767,Mila Mayasari,8/5/1995,-4437,"Jalan Pasirkoja No. 949
+Ternate, AC 99329"
+pat85609754,Samiah Farida,8/21/1999,+62 (49) 912 2980,"Gg. Lembong No. 455
+Sukabumi, JT 80833"
+pat73528517,Eko Nurdiyanti,12/9/1993,-10102,"Jl. Jamika No. 3
+Balikpapan, SG 16303"
+pat71426099,Yono Yuniar,1/19/1997,+62 (566) 583 5540,"Jl. Kutisari Selatan No. 10
+Bukittinggi, Jawa Barat 09141"
+pat54890503,"Maras Purnawati, M.Farm",3/29/1992,(054) 243-3887,"Jl. Rawamangun No. 697
+Tasikmalaya, JT 11024"
+pat74234721,Michelle Samosir,9/11/2000,+62 (0003) 144 3213,"Jalan Yos Sudarso No. 0
+Probolinggo, NB 56625"
+pat15001016,"Betania Zulkarnain, S.I.Kom",9/6/1982,(0092) 521-1019,"Jl. Otto Iskandardinata No. 125
+Solok, KT 26997"
+pat24472906,Tania Damanik,1/15/1991,(0828) 170 3744,"Jalan Abdul Muis No. 545
+Pekanbaru, Banten 11007"
+pat48542296,Oman Putra,12/22/1994,+62 (66) 088-9547,"Gg. Otto Iskandardinata No. 73
+Padangpanjang, Kepulauan Bangka Belitung 03914"
+pat05046058,Harja Rajata,4/2/1992,+62 (809) 220-8988,"Jl. Ahmad Yani No. 404
+Dumai, DI Yogyakarta 56262"
+pat80837169,Hairyanto Purwanti,4/28/1996,-1680,"Gg. H.J Maemunah No. 682
+Jambi, YO 31726"
+pat43126996,"Puti Ami Widiastuti, S.H.",6/15/2000,(029) 563-0947,"Jalan Raya Setiabudhi No. 080
+Lubuklinggau, Sulawesi Barat 01255"
+pat36326044,"Mustika Widiastuti, S.IP",9/27/1980,084 919 7696,"Gang Monginsidi No. 95
+Medan, NB 11352"
+pat73805205,Bagya Kusumo,9/27/1987,+62 (0281) 818 5118,"Jalan Tubagus Ismail No. 49
+Tanjungbalai, KS 98959"
+pat71227412,Dr. Kartika Wastuti,2/20/1988,+62 (11) 236-5811,"Jalan Ciumbuleuit No. 3
+Makassar, SS 41005"
+pat15847331,Shania Sihotang,2/15/1994,(002) 096 5408,"Gang W.R. Supratman No. 1
+Banjarbaru, Sumatera Selatan 40096"
+pat11962496,"Ghaliyati Lestari, S.Psi",4/16/1993,(091) 717 5427,"Jalan PHH. Mustofa No. 974
+Surabaya, BA 92704"
+pat53746535,Ciaobella Mardhiyah,10/17/1985,(037) 172-2266,"Gg. M.T Haryono No. 34
+Semarang, Kalimantan Utara 84612"
+pat88978598,Cahyono Habibi,5/25/1995,+62 (086) 827 0090,"Jalan Pasir Koja No. 9
+Sabang, JB 50734"
+pat35691884,drg. Warsa Marbun,10/11/1983,-5596,"Gang Kendalsari No. 197
+Surabaya, Kepulauan Riau 55621"
+pat30114142,Ir. Salimah Dongoran,8/10/1996,838045598,"Gg. Asia Afrika No. 44
+Tangerang, Sumatera Utara 30220"
+pat41137567,Lintang Budiyanto,4/4/1995,+62 (0026) 114-1963,"Jl. Joyoboyo No. 993
+Batu, PA 20601"
+pat02214665,Galak Samosir,3/18/1980,839435523,"Jalan Laswi No. 60
+Bandung, BE 40420"
+pat11047865,Rudi Irawan,6/19/1988,(0219) 380 0958,"Gg. PHH. Mustofa No. 993
+Semarang, BE 21688"
+pat85996687,Salsabila Padmasari,1/3/1998,+62 (87) 345-8404,"Jl. Sentot Alibasa No. 7
+Palembang, YO 42279"
+pat74487172,Dono Hariyah,3/16/1997,(020) 909-7631,"Jl. Ciwastra No. 0
+Purwokerto, Sulawesi Barat 60573"
+pat75086848,Dr. Bakda Maheswara,5/9/1994,+62 (01) 305 9424,"Gg. Ahmad Yani No. 87
+Padangpanjang, Jawa Barat 99358"
+pat10921463,Fathonah Rahmawati,3/8/1985,+62 (0808) 179 4464,"Jl. Siliwangi No. 606
+Pagaralam, Jawa Tengah 13137"
+pat72488393,Kajen Melani,10/19/1997,+62 (093) 430 8263,"Jl. Raya Setiabudhi No. 28
+Bima, KR 33733"
+pat03590232,Among Farida,12/4/1989,+62 (19) 433 4554,"Jalan Setiabudhi No. 738
+Bogor, SR 95117"
+pat87019186,Dt. Galiono Usamah,2/21/1980,-2701,"Gg. Moch. Toha No. 432
+Sungai Penuh, SS 67521"
+pat22297303,Vanesa Halim,3/21/1998,+62 (981) 707 2264,"Gang Gardujati No. 04
+Tarakan, Sumatera Utara 51442"
+pat76035135,T. Labuh Wacana,8/10/1990,+62 (0350) 530-6831,"Jalan Moch. Ramdan No. 03
+Meulaboh, Jawa Tengah 58150"
+pat46803856,Tirtayasa Tampubolon,2/22/1996,081 624 6907,"Jl. Gardujati No. 6
+Cirebon, BA 94371"
+pat16249905,R. Garang Sirait,9/9/1994,-2185,"Jalan Bangka Raya No. 4
+Madiun, Sulawesi Tengah 46095"
+pat85825192,Ifa Nugroho,6/16/1999,+62 (038) 225-5472,"Gg. Gegerkalong Hilir No. 83
+Bengkulu, Sulawesi Tengah 32717"
+pat24826860,Kasusra Megantara,9/18/1981,-1640,"Jalan R.E Martadinata No. 9
+Pagaralam, JI 76257"
+pat58704790,R.M. Paiman Waskita,3/9/1986,+62 (027) 148-3187,"Gang Veteran No. 744
+Lubuklinggau, Sumatera Barat 57455"
+pat85374539,Eluh Sitompul,3/22/1986,+62 (833) 428-1500,"Jl. Otto Iskandardinata No. 56
+Pekalongan, SU 25888"
+pat98954056,Carub Nababan,5/20/1981,+62 (976) 543 9386,"Gang Gardujati No. 17
+Padang, BE 03550"
+pat26081045,Kunthara Sihotang,5/1/1993,+62 (0671) 934 4765,"Gang Ahmad Yani No. 73
+Semarang, LA 05973"
+pat29829446,Ibrani Lazuardi,3/20/1995,-6906,"Jalan Jend. Sudirman No. 14
+Manado, SR 38133"
+pat11756798,Lili Prastuti,6/23/1998,+62 (068) 907 5225,"Gang Kutai No. 234
+Metro, Kalimantan Timur 45206"
+pat47512085,"Jamalia Mahendra, M.Kom.",6/1/1980,(0796) 944-2126,"Gang Sadang Serang No. 62
+Cirebon, ST 75923"
+pat58647240,Asmianto Rahimah,5/16/1986,+62 (04) 987 3806,"Gg. Merdeka No. 5
+Kota Administrasi Jakarta Selatan, SG 70559"
+pat47248182,"Dt. Usman Nurdiyanti, M.Farm",3/20/1985,(0993) 303 7113,"Gg. K.H. Wahid Hasyim No. 271
+Magelang, Sulawesi Tenggara 27138"
+pat13170417,Shania Prastuti,11/6/2000,-9511,"Gang Siliwangi No. 208
+Tanjungpinang, SB 16147"
+pat39491428,"Dr. Simon Habibi, S.I.Kom",12/22/1994,-8851,"Gg. Jamika No. 937
+Purwokerto, Sulawesi Barat 41630"
+pat21491979,Drs. Ade Waskita,7/5/1996,-5299,"Gg. Rajawali Barat No. 94
+Blitar, Bengkulu 83021"
+pat80434351,Hendri Marbun,11/10/1997,+62 (654) 651 7371,"Gang Surapati No. 01
+Denpasar, Aceh 27408"
+pat40363349,Kiandra Sinaga,4/14/1980,+62 (31) 638 0292,"Jl. Jayawijaya No. 59
+Banjarmasin, Kalimantan Selatan 64543"
+pat77911117,Omar Simbolon,8/12/1985,+62 (0660) 196-1199,"Jl. Medokan Ayu No. 9
+Ternate, Aceh 06699"
+pat92271494,"Legawa Oktaviani, S.Psi",1/1/1984,+62 (022) 792 1851,"Gg. Setiabudhi No. 884
+Kotamobagu, JT 84888"
+pat32050752,R. Prasetyo Zulaika,7/6/1987,+62 (397) 036 6182,"Gg. Raya Ujungberung No. 885
+Surakarta, Nusa Tenggara Barat 74232"
+pat26436043,Tari Aryani,5/23/1997,(0341) 436 6263,"Jl. Lembong No. 13
+Lubuklinggau, SR 36709"
+pat76982033,Hasta Pangestu,8/7/1999,829872402,"Jalan Bangka Raya No. 97
+Batam, LA 59881"
+pat23125421,"Lukita Suwarno, S.Pt",2/1/1983,+62 (292) 651-8618,"Jalan Gardujati No. 61
+Cirebon, Jawa Barat 01305"
+pat84038500,Suci Hassanah,6/22/1982,+62 (070) 556-4444,"Jl. Raya Ujungberung No. 834
+Bekasi, SR 13517"
+pat64488646,Restu Halimah,4/29/1982,-1278,"Jl. Bangka Raya No. 572
+Serang, PB 17695"
+pat80248019,"Uli Ramadan, M.Kom.",1/26/1986,+62 (52) 968 2841,"Gg. Kebonjati No. 4
+Ternate, YO 57459"
+pat04914037,Talia Sihotang,9/24/1992,081 483 6943,"Jl. Sukajadi No. 83
+Sorong, Kalimantan Utara 18990"
+pat09513839,"Luis Wahyudin, S.Farm",8/25/1981,+62 (0598) 060 9574,"Gang Cempaka No. 71
+Payakumbuh, JI 72550"
+pat61704794,Okto Hariyah,7/17/1987,+62 (08) 467 6719,"Gg. Pacuan Kuda No. 40
+Serang, SU 85131"
+pat00683579,Timbul Kuswoyo,2/10/1989,+62 (029) 079-8279,"Gg. Pasirkoja No. 3
+Bekasi, KS 82134"
+pat43706945,Tgk. Natalia Mustofa,2/19/1999,+62 (471) 505 7688,"Gang Cihampelas No. 309
+Malang, Kalimantan Selatan 44766"
+pat76996993,Cakrajiya Fujiati,10/8/2000,+62 (0636) 956 6597,"Jalan Waringin No. 19
+Banjarbaru, PB 05042"
+pat32727937,Gasti Suryono,6/1/1993,+62 (075) 780 9975,"Gg. Cikutra Barat No. 32
+Surakarta, Jawa Timur 55370"
+pat55812917,R. Farhunnisa Sihombing,6/26/1996,893759578,"Gang Cikutra Barat No. 13
+Padang, YO 37225"
+pat24051255,Cut Humaira Rahmawati,12/31/1980,(0249) 816-0548,"Jl. Sadang Serang No. 525
+Yogyakarta, RI 41554"
+pat82664770,"Puti Rahmi Susanti, M.Farm",8/22/1997,082 894 0764,"Gg. Cihampelas No. 6
+Pagaralam, AC 54576"
+pat37403942,Septi Budiman,10/3/1992,-5455,"Gang Medokan Ayu No. 17
+Mataram, RI 53328"
+pat87693683,"drg. Ismail Wibowo, S.Psi",6/1/1996,+62 (0664) 059 3463,"Gg. Pasirkoja No. 77
+Padang Sidempuan, Bengkulu 12146"
+pat14371622,"R. Uchita Zulkarnain, S.Gz",7/19/1986,+62 (0499) 379 8259,"Jl. Kendalsari No. 238
+Kupang, NT 13339"
+pat12798964,Puti Elisa Pranowo,5/1/1991,(0584) 274 9003,"Jl. Moch. Ramdan No. 1
+Cirebon, ST 63558"
+pat47740778,Vivi Mandala,2/10/1983,+62 (0728) 428-9764,"Jalan Dipatiukur No. 410
+Kupang, SS 93724"
+pat19372860,Tania Kuswoyo,12/21/1987,-5301,"Jl. Joyoboyo No. 98
+Bukittinggi, SU 06352"
+pat43592258,"Puti Uli Nababan, S.Psi",7/28/1988,+62 (067) 687 8774,"Gang HOS. Cokroaminoto No. 035
+Tasikmalaya, KB 23867"
+pat04636984,"Sutan Sabar Yulianti, M.M.",6/7/1991,+62 (0569) 438-7407,"Jl. Ciumbuleuit No. 14
+Palopo, KT 38979"
+pat34842836,Luis Puspita,6/13/1985,(043) 964-5030,"Jl. Ahmad Yani No. 340
+Singkawang, ST 43945"
+pat98967537,Kairav Andriani,4/3/1999,(012) 800 6982,"Gg. HOS. Cokroaminoto No. 0
+Malang, NB 33348"
+pat98605255,Dinda Setiawan,11/14/1992,-5303,"Gang Cihampelas No. 07
+Ternate, BT 82180"
+pat12662562,"Kartika Wulandari, S.E.",8/5/1982,874442595,"Gg. Gegerkalong Hilir No. 6
+Pekalongan, KT 13984"
+pat80916529,"Ir. Karen Kusmawati, S.E.I",9/8/1986,-8317,"Gang Ciwastra No. 4
+Tanjungpinang, SU 36884"
+pat86590389,Daniswara Hastuti,3/18/1995,(0650) 340-2322,"Jalan Jamika No. 4
+Padangpanjang, Sulawesi Barat 92753"
+pat60882349,Eman Usada,5/19/1997,+62 (0697) 754 7193,"Jl. Tebet Barat Dalam No. 623
+Payakumbuh, JB 17051"
+pat58471722,Sari Marpaung,8/15/1983,+62 (098) 354-3756,"Jl. R.E Martadinata No. 59
+Mataram, LA 49101"
+pat91944412,"Hafshah Aryani, M.M.",11/22/1981,+62 (089) 030 9167,"Jl. Soekarno Hatta No. 74
+Cimahi, Kalimantan Selatan 36693"
+pat17749671,Karsa Prasasta,2/14/1992,+62 (443) 622-8998,"Gg. Suniaraja No. 569
+Jayapura, BB 47245"
+pat87472592,Kasusra Waluyo,3/18/1994,+62 (0361) 594-1195,"Gang Jend. A. Yani No. 20
+Tanjungbalai, YO 84620"
+pat12855544,Usyi Zulkarnain,8/2/1982,(006) 387-6399,"Jl. Moch. Toha No. 2
+Surakarta, Kalimantan Utara 70470"
+pat83320538,Putri Wasita,3/2/1983,-285,"Gg. Pasirkoja No. 5
+Sawahlunto, Kalimantan Barat 06856"
+pat53420138,"Kezia Halim, S.T.",3/17/1994,081 362 0735,"Jalan Suryakencana No. 398
+Ternate, Nusa Tenggara Barat 55549"
+pat48590259,R.A. Rini Saefullah,3/23/1984,(0951) 319-4686,"Jalan Cikutra Barat No. 579
+Metro, Lampung 46514"
+pat90973222,Salwa Yuliarti,1/4/1981,+62 (867) 204 0027,"Jalan Kiaracondong No. 04
+Bukittinggi, Bali 63273"
+pat66671954,Ghaliyati Nababan,8/21/1990,(0308) 430 5171,"Jalan Jakarta No. 7
+Kota Administrasi Jakarta Utara, Sumatera Selatan 51604"
+pat57087290,Zamira Thamrin,3/13/1992,+62 (0400) 819 6122,"Gg. Cikutra Barat No. 254
+Ambon, Kalimantan Tengah 13537"
+pat55030953,Jumari Nasyiah,11/17/1983,+62 (0662) 217-9241,"Jalan Rawamangun No. 037
+Mataram, Kalimantan Timur 79906"
+pat57516301,Tgk. Kamila Mustofa,2/7/1998,(0607) 660 1457,"Gang Suryakencana No. 570
+Binjai, BA 04707"
+pat71012995,Devi Najmudin,9/2/1981,+62 (223) 947-2464,"Jalan Rungkut Industri No. 2
+Sawahlunto, Nusa Tenggara Timur 46121"
+pat29224111,"Kunthara Maryadi, S.Pd",5/3/1992,(0689) 157-8941,"Jl. Gedebage Selatan No. 91
+Jambi, Papua Barat 86255"
+pat22382528,Anita Nuraini,11/29/1990,+62 (554) 244 0483,"Gang Rumah Sakit No. 3
+Sibolga, Papua Barat 19433"
+pat01817287,"Ir. Widya Handayani, S.Psi",12/12/1982,-5404,"Jalan Merdeka No. 908
+Cirebon, KS 70972"
+pat56882803,Diah Usada,2/3/1999,+62 (0802) 919-1949,"Jl. Raya Setiabudhi No. 7
+Meulaboh, YO 15465"
+pat92936393,Puti Suci Manullang,2/6/1984,+62 (374) 081-4907,"Jalan Ahmad Yani No. 3
+Singkawang, Maluku 68875"
+pat22107893,Hilda Setiawan,7/15/1990,(030) 923 1798,"Gg. Siliwangi No. 081
+Salatiga, NB 87923"
+pat10201602,Hilda Hakim,9/13/1989,-7788,"Jalan Ir. H. Djuanda No. 4
+Ternate, SU 84449"
+pat03733448,Amelia Waskita,3/16/1995,(0027) 463 5682,"Jalan Pasir Koja No. 8
+Depok, Kalimantan Barat 51167"
+pat23147065,"Bagya Dongoran, M.Farm",4/4/1983,+62 (0264) 598 5047,"Jl. Ir. H. Djuanda No. 788
+Tanjungpinang, BA 20734"
+pat57220116,Hadi Widodo,4/21/1996,-3145,"Jl. Jamika No. 997
+Jayapura, Sulawesi Tengah 51191"
+pat28597100,Samiah Irawan,2/25/1983,858001012,"Gang Cikutra Timur No. 63
+Pagaralam, Papua Barat 74468"
+pat50835652,"Nalar Kusmawati, S.Kom",10/16/1989,+62 (0024) 375 8019,"Gang R.E Martadinata No. 0
+Meulaboh, JT 15067"
+pat88714806,"Michelle Hutagalung, M.Farm",12/21/1994,-3707,"Jl. Pasirkoja No. 51
+Sibolga, Kalimantan Tengah 13788"
+pat71421278,drg. Tiara Rahayu,11/26/1995,-5019,"Gg. Rajawali Barat No. 5
+Batam, AC 66270"
+pat77869401,Kasiyah Ardianto,4/25/1986,-2895,"Gg. Setiabudhi No. 0
+Blitar, Sumatera Selatan 28941"
+pat05036967,Prakosa Permata,9/11/1980,+62 (0262) 727 8518,"Jl. Cikapayang No. 21
+Serang, Sulawesi Selatan 26797"
+pat59527176,drg. Salsabila Pratama,9/12/1982,848103095,"Gg. Tebet Barat Dalam No. 915
+Pagaralam, Bengkulu 05005"
+pat00021555,Tari Hartati,9/18/1986,+62 (09) 978-1798,"Jalan W.R. Supratman No. 8
+Denpasar, SS 44204"
+pat19546322,"Cut Puspa Uyainah, S.Pt",8/27/1989,+62 (17) 633 0902,"Gang Veteran No. 31
+Salatiga, DKI Jakarta 22650"
+pat60642318,Gawati Hartati,9/19/1997,+62 (36) 440-5552,"Gg. Kutai No. 6
+Semarang, Sulawesi Selatan 27225"
+pat14424342,Gading Iswahyudi,12/15/1995,-163,"Gang Indragiri No. 9
+Sibolga, KS 05302"
+pat87968774,Dinda Rahimah,2/1/1988,-2726,"Gang Peta No. 8
+Tasikmalaya, Kalimantan Utara 33217"
+pat77876324,Tami Hidayanto,9/21/1998,-3196,"Jalan Kutisari Selatan No. 711
+Banjarmasin, Kalimantan Barat 53161"
+pat71324951,"drg. Oskar Pranowo, M.M.",1/29/1997,+62 (0810) 265 7034,"Gang Otto Iskandardinata No. 72
+Cimahi, SU 23102"
+pat41027561,Xanana Thamrin,4/5/1998,+62 (018) 855 9465,"Gang Jamika No. 3
+Jambi, Kalimantan Utara 28210"
+pat62094641,"Salimah Puspita, M.Ak",2/5/1983,+62 (0632) 302-2959,"Gg. Antapani Lama No. 264
+Salatiga, Sumatera Selatan 29056"
+pat75655716,Tgk. Anastasia Hasanah,7/20/1998,-2244,"Jl. Pasirkoja No. 680
+Parepare, Kalimantan Barat 65202"
+pat24687294,R. Emin Prabowo,2/23/1990,+62 (0275) 752 7561,"Jl. Veteran No. 25
+Tanjungpinang, Kalimantan Barat 64979"
+pat07406508,Yahya Winarsih,10/30/1996,850568452,"Jalan Cikutra Barat No. 57
+Medan, LA 15365"
+pat18206975,Elisa Kuswandari,2/19/1993,-9107,"Jl. Sadang Serang No. 6
+Tegal, PB 96566"
+pat47769168,Kayla Purnawati,6/24/1996,+62 (274) 427 8934,"Gg. Pasir Koja No. 39
+Banda Aceh, Papua 18574"
+pat03635605,Hesti Utami,1/1/1980,(0370) 531 5067,"Gang Jend. A. Yani No. 4
+Padangpanjang, JA 31894"
+pat10983911,Rika Hastuti,11/10/1999,-3561,"Jl. Dipenogoro No. 5
+Subulussalam, AC 11111"
+pat64065182,"R. Rusman Utama, S.Pd",9/9/1988,(081) 295 9690,"Jl. Kiaracondong No. 58
+Madiun, GO 48965"
+pat80008200,Azalea Wibisono,1/2/1980,-6885,"Gg. Sukajadi No. 430
+Palangkaraya, Kalimantan Selatan 30567"
+pat66260646,"Timbul Rahimah, M.Ak",11/19/1999,086 466 4246,"Jl. Ir. H. Djuanda No. 546
+Tegal, Sulawesi Tengah 99281"
+pat27232606,Atmaja Maulana,4/2/1990,+62 (0290) 757 5129,"Jl. Pasteur No. 1
+Bogor, BA 02895"
+pat61414907,H. Umaya Prakasa,10/8/1992,(029) 587-2121,"Gang Kiaracondong No. 05
+Padang, Jambi 40267"
+pat06524494,"dr. Dono Napitupulu, M.Pd",8/31/1989,+62 (20) 054 6967,"Gang Pasteur No. 49
+Payakumbuh, MU 26002"
+pat72229811,Sutan Ega Utama,3/20/1998,+62 (16) 639-9812,"Gg. M.H Thamrin No. 00
+Sungai Penuh, SU 79617"
+pat74123612,Sarah Januar,11/7/1994,+62 (0824) 176-2658,"Jalan Asia Afrika No. 001
+Bekasi, Kalimantan Timur 55829"
+pat10404959,Tira Lestari,10/21/2000,-2371,"Gg. Setiabudhi No. 2
+Pekalongan, Jawa Timur 00428"
+pat37457952,H. Ganjaran Gunarto,2/24/1987,+62 (810) 083 1130,"Gang R.E Martadinata No. 9
+Pagaralam, Lampung 58235"
+pat91171191,Tgk. Bakijan Siregar,4/30/1982,(061) 435 0782,"Gang K.H. Wahid Hasyim No. 9
+Probolinggo, PB 25124"
+pat58598658,"Surya Wibowo, S.E.",3/30/1995,+62 (0344) 619-9330,"Jalan BKR No. 89
+Cilegon, RI 84714"
+pat17509473,"R. Kiandra Yuliarti, S.Pt",4/25/1992,+62 (072) 476 5299,"Jalan Suniaraja No. 3
+Tarakan, LA 43552"
+pat96647844,drg. Ega Pradipta,5/13/1995,+62 (118) 124-7420,"Jl. Moch. Ramdan No. 16
+Banda Aceh, SU 47667"
+pat87412185,Estiono Prasasta,2/25/1990,+62 (0885) 051-0152,"Jalan Otto Iskandardinata No. 2
+Meulaboh, ST 13945"
+pat08045737,Rangga Namaga,12/30/1991,+62 (658) 230-9216,"Gang HOS. Cokroaminoto No. 39
+Manado, KR 19023"
+pat86271301,"Faizah Halimah, S.E.",9/10/1991,+62 (0766) 465 0899,"Jalan Surapati No. 443
+Sawahlunto, Sulawesi Tenggara 09368"
+pat49957235,"Gatra Hassanah, M.M.",2/7/1986,080 863 2771,"Gang BKR No. 3
+Ambon, Sulawesi Tengah 85991"
+pat73427179,Patricia Pudjiastuti,12/17/1999,+62 (051) 130 5831,"Jl. Kutai No. 5
+Pematangsiantar, Kalimantan Barat 92182"
+pat77997579,Safina Purnawati,12/26/1987,+62 (087) 777-3547,"Gang KH Amin Jasuta No. 96
+Cimahi, Papua Barat 41006"
+pat71280301,"Puti Gilda Mansur, S.H.",3/26/1996,(043) 034 4795,"Gg. Peta No. 56
+Jambi, Sumatera Utara 39840"
+pat65318836,"Dr. Karen Narpati, S.Psi",7/18/1999,(0065) 183-1477,"Gang Waringin No. 034
+Yogyakarta, PA 91714"
+pat91600769,"Drs. Rafi Najmudin, S.Ked",8/26/1985,+62 (0440) 291 6377,"Gg. Wonoayu No. 39
+Semarang, Kepulauan Bangka Belitung 03026"
+pat32043365,"Hj. Padmi Wasita, S.Pt",2/12/1992,-8048,"Jl. Suryakencana No. 3
+Yogyakarta, Sulawesi Tengah 68964"
+pat47365681,Cayadi Hutasoit,10/16/1988,(059) 052-2410,"Gg. Pasirkoja No. 85
+Balikpapan, Sulawesi Tenggara 86368"
+pat17315906,Indah Winarno,9/26/1987,(0344) 737-7045,"Jl. Jamika No. 556
+Sibolga, BT 90427"
+pat99936181,Hj. Paulin Mulyani,8/18/2000,(074) 765 5437,"Jl. Kutisari Selatan No. 0
+Tangerang Selatan, Sumatera Utara 53109"
+pat53660572,Makuta Putra,5/17/1980,(075) 307-1624,"Jalan Kutai No. 326
+Tual, SS 18325"
+pat18330373,"Jessica Ardianto, S.E.I",12/19/1988,+62 (86) 183-7264,"Jalan Pacuan Kuda No. 702
+Surakarta, SN 89406"
+pat68609245,Febi Maryati,5/10/1982,+62 (097) 331 0519,"Jl. Asia Afrika No. 69
+Batam, Kalimantan Utara 34753"
+pat15221476,Zulaikha Purwanti,1/28/1983,+62 (098) 415 8985,"Jl. Merdeka No. 2
+Surabaya, Papua 86862"
+pat43707386,"Oni Pratama, S.Psi",3/5/1988,+62 (0938) 354 5240,"Jl. Dr. Djunjunan No. 5
+Tarakan, Sumatera Selatan 13278"
+pat65484029,Intan Simanjuntak,3/2/1980,-3139,"Gg. S. Parman No. 489
+Singkawang, Nusa Tenggara Barat 59067"
+pat63886863,Laswi Marbun,9/7/1980,-2061,"Gang Jakarta No. 4
+Malang, Bengkulu 49228"
+pat70781946,Dt. Lega Puspasari,9/12/1999,+62 (05) 326 9785,"Gang Cikapayang No. 781
+Cirebon, Sulawesi Selatan 56327"
+pat47488915,Yuni Hutagalung,7/16/1990,-1114,"Gang Dipenogoro No. 0
+Pekalongan, PB 61143"
+pat01032529,Dasa Uyainah,8/21/1999,-10830,"Gg. KH Amin Jasuta No. 50
+Mataram, BT 63827"
+pat66347026,Arsipatra Nasyiah,6/9/1984,+62 (805) 841 3190,"Gg. Bangka Raya No. 8
+Bima, Kalimantan Barat 70102"
+pat95310848,Tgk. Septi Kusumo,1/10/1982,+62 (0885) 395-1276,"Jl. Gedebage Selatan No. 5
+Batu, Gorontalo 79688"
+pat74616466,"Dr. Panji Wibisono, S.Kom",8/27/1998,-4428,"Jl. Rajawali Barat No. 87
+Lhokseumawe, JA 66444"
+pat13531690,Aris Suwarno,11/11/1981,+62 (490) 257-4838,"Jalan Setiabudhi No. 4
+Medan, Jawa Timur 20981"
+pat41328149,Gatra Suwarno,1/17/1994,+62 (060) 033 3676,"Jalan Abdul Muis No. 4
+Bontang, JK 37414"
+pat25350456,Bahuraksa Sitorus,2/23/2000,+62 (796) 293 8748,"Jl. Monginsidi No. 858
+Mataram, Sumatera Barat 16513"
+pat31333061,Jagapati Mandasari,2/2/1996,+62 (0471) 604-0669,"Gang Ciumbuleuit No. 63
+Bau-Bau, Banten 32893"
+pat01866018,"drg. Asirwada Waluyo, S.Farm",5/6/1986,+62 (73) 012 2007,"Jl. Ronggowarsito No. 053
+Probolinggo, NB 73079"
+pat65789896,Daniswara Maryati,10/26/1995,(0619) 579 2944,"Gg. Lembong No. 1
+Solok, SB 35603"
+pat80065586,Ajimat Manullang,1/29/1990,+62 (076) 913 4755,"Jalan Suniaraja No. 276
+Purwokerto, DI Yogyakarta 40258"
+pat97592266,Maimunah Januar,4/7/1994,(083) 435 6856,"Jalan Raya Setiabudhi No. 70
+Prabumulih, JK 71763"
+pat81945443,"Dr. Ghaliyati Rahayu, S.I.Kom",8/26/1982,+62 (821) 625 1741,"Gg. Astana Anyar No. 84
+Sabang, PB 20381"
+pat91478351,"R. Harja Mansur, M.TI.",10/8/1989,897972737,"Jl. Cihampelas No. 723
+Tidore Kepulauan, SU 39949"
+pat31374842,Ika Uwais,2/28/1980,+62 (93) 838-3343,"Gg. Rajawali Timur No. 089
+Tomohon, JT 28023"
+pat26128634,Gawati Hutapea,5/20/1981,+62 (0122) 788-0986,"Gg. Rungkut Industri No. 802
+Kota Administrasi Jakarta Pusat, BA 48151"
+pat14336904,"Cut Wani Saptono, S.Pt",11/8/1989,(0859) 199 1801,"Jl. Jakarta No. 615
+Surakarta, MU 54711"
+pat67863389,"R.M. Kuncara Kusumo, M.M.",6/4/1980,+62 (048) 825 8663,"Jalan Raya Setiabudhi No. 03
+Gorontalo, PA 95491"
+pat73695844,Paramita Mustofa,10/5/1985,+62 (44) 990-9237,"Gg. Wonoayu No. 750
+Jambi, PB 72857"
+pat75519544,Rachel Fujiati,1/27/1994,+62 (97) 295 3314,"Jalan Jakarta No. 825
+Bontang, ST 01011"
+pat25930115,Elvina Firgantoro,2/26/1995,+62 (10) 249-1030,"Jalan K.H. Wahid Hasyim No. 44
+Purwokerto, BA 18475"
+pat71360515,Ibrani Zulaika,10/16/1985,(025) 686 4435,"Jl. Indragiri No. 0
+Mataram, Kalimantan Barat 17810"
+pat79410120,"Sutan Halim Sudiati, S.I.Kom",8/15/1994,(077) 089 8233,"Jalan W.R. Supratman No. 808
+Salatiga, Jawa Tengah 98279"
+pat88221663,"KH. Karja Nababan, M.Farm",12/23/1988,+62 (92) 661-1759,"Gg. Ronggowarsito No. 207
+Semarang, LA 35486"
+pat40536750,dr. Yahya Maulana,6/25/1992,-3332,"Gg. Pacuan Kuda No. 88
+Tomohon, Aceh 60528"
+pat67937240,Wage Pratiwi,7/27/1982,+62 (025) 538 0529,"Gang Gedebage Selatan No. 69
+Banjar, SU 47198"
+pat15874238,"Titi Prayoga, M.TI.",7/30/1980,+62 (29) 032 5146,"Jalan Cikapayang No. 050
+Denpasar, AC 93539"
+pat14388279,Okta Yuniar,2/21/1999,(0661) 748 4003,"Gang Monginsidi No. 0
+Tidore Kepulauan, Nusa Tenggara Barat 71788"
+pat00986748,Janet Thamrin,2/20/1983,085 965 2239,"Gang Kapten Muslihat No. 86
+Bima, Sulawesi Utara 18932"
+pat34339534,"Olivia Hutagalung, S.Gz",1/24/1984,892908596,"Gang Wonoayu No. 428
+Makassar, Kalimantan Selatan 02870"
+pat87842920,Ajeng Padmasari,4/3/1995,(0254) 101-1927,"Gg. Ahmad Dahlan No. 868
+Padang, Riau 96274"
+pat26359564,Hendra Rahayu,7/1/1982,-5988,"Jl. Ciwastra No. 2
+Tarakan, Sumatera Barat 92895"
+pat01722338,Aditya Pranowo,4/14/1982,-4621,"Gang Otto Iskandardinata No. 4
+Sabang, Aceh 68916"
+pat77490780,Nyoman Oktaviani,7/14/1983,+62 (054) 529 7876,"Jalan Cihampelas No. 5
+Padang, Jawa Timur 32738"
+pat50308477,Dr. Rahayu Simbolon,1/11/1990,(031) 910 5577,"Jalan Astana Anyar No. 01
+Gorontalo, ST 09309"
+pat57266077,Pranata Nasyiah,7/18/1982,+62 (082) 231-7643,"Jl. PHH. Mustofa No. 172
+Pagaralam, Gorontalo 52793"
+pat85974821,Zaenab Nugroho,11/4/1996,+62 (0510) 008 5816,"Gang Ciwastra No. 3
+Kota Administrasi Jakarta Timur, Papua 68079"
+pat35124290,Kamidin Kusmawati,10/8/1981,+62 (89) 947 1452,"Jl. M.T Haryono No. 406
+Batu, Lampung 11691"
+pat69558153,"Taufik Widodo, M.M.",2/13/1983,835310899,"Gg. Rungkut Industri No. 50
+Makassar, Papua 28854"
+pat87009859,Dt. Rahman Namaga,7/21/1993,+62 (15) 381 6410,"Gg. Jend. Sudirman No. 99
+Binjai, SU 28898"
+pat62559317,"Parman Lailasari, M.M.",4/1/1991,+62 (405) 040-5512,"Jalan Indragiri No. 8
+Serang, Nusa Tenggara Timur 32842"
+pat31680745,Cinta Lailasari,8/10/2000,+62 (0648) 975 0825,"Gang Sentot Alibasa No. 6
+Bandung, Sulawesi Barat 49749"
+pat83502705,Yuliana Safitri,3/11/1994,+62 (042) 638-2077,"Gg. Suniaraja No. 780
+Palangkaraya, Riau 37733"
+pat47618251,T. Jinawi Saefullah,6/7/1983,+62 (574) 541-5418,"Gang Moch. Ramdan No. 352
+Parepare, Gorontalo 37713"
+pat70969566,Limar Budiman,11/14/1996,+62 (29) 634-6785,"Jalan Pacuan Kuda No. 89
+Solok, SU 60239"
+pat87475807,"R.M. Pardi Hasanah, S.T.",9/30/1985,+62 (0261) 113-2636,"Gg. Pelajar Pejuang No. 3
+Bau-Bau, Sulawesi Tengah 81402"
+pat33815701,Danang Putra,3/23/1994,+62 (0550) 447-2727,"Jl. BKR No. 472
+Gorontalo, JT 46995"
+pat59583639,Tira Sitorus,12/27/1992,-4118,"Gg. K.H. Wahid Hasyim No. 208
+Palembang, KI 78647"
+pat52956195,"Zulfa Mangunsong, S.Kom",6/8/1985,-7221,"Gang Cihampelas No. 1
+Subulussalam, BA 95353"
+pat82735838,Carub Hidayanto,2/23/1999,+62 (015) 335 6670,"Gg. Jend. Sudirman No. 740
+Banjarbaru, LA 83485"
+pat24633635,"Hj. Silvia Mustofa, M.Pd",4/30/1988,(0836) 320 3168,"Gang PHH. Mustofa No. 0
+Parepare, KT 05452"
+pat62373913,"Ir. Umi Kusumo, M.Ak",4/7/1983,(051) 758 7772,"Jl. Cihampelas No. 87
+Sibolga, ST 72389"
+pat27031247,Dt. Prima Suryatmi,7/18/1987,+62 (93) 453 2444,"Jalan Sentot Alibasa No. 3
+Sorong, BA 71437"
+pat27538647,Carub Hassanah,9/12/1980,(0904) 424 5739,"Jl. Sadang Serang No. 238
+Kendari, BT 35701"
+pat70223446,Cahyo Sinaga,9/9/1980,081 991 3830,"Gang Setiabudhi No. 5
+Bima, Maluku Utara 31062"
+pat97010302,Genta Prasetyo,8/15/1981,(0631) 718-6176,"Jalan Pasir Koja No. 46
+Kota Administrasi Jakarta Timur, KT 98778"
+pat08771742,Yulia Yuliarti,6/1/1995,+62 (980) 901 7585,"Gang Pasir Koja No. 1
+Medan, BE 27272"
+pat70799804,Uchita Mandala,3/9/1985,+62 (634) 403-5684,"Jl. Stasiun Wonokromo No. 235
+Bandar Lampung, RI 74988"
+pat99274450,R. Kenzie Mahendra,6/12/1998,-3060,"Gang Wonoayu No. 6
+Jambi, Bengkulu 90937"
+pat73267416,"Puti Karimah Mulyani, S.T.",8/19/1989,+62 (0882) 170 3958,"Jl. S. Parman No. 225
+Tidore Kepulauan, Papua Barat 57910"
+pat32430530,Marwata Suryono,10/25/1985,-370,"Jalan Cihampelas No. 905
+Bandung, JB 83202"
+pat25510522,Drs. Natalia Wijayanti,12/15/1990,(0855) 664-1598,"Gang Pasir Koja No. 4
+Serang, DI Yogyakarta 80778"
+pat63876468,Betania Usada,10/14/1993,+62 (01) 203 0745,"Jl. Jend. A. Yani No. 0
+Lubuklinggau, Jawa Timur 25880"
+pat43867271,R.M. Luluh Namaga,8/14/1982,+62 (022) 185-8002,"Gg. Rungkut Industri No. 1
+Denpasar, KB 39115"
+pat62473231,Panji Lazuardi,1/20/1981,-2167,"Jalan Ciumbuleuit No. 5
+Bima, MU 24023"
+pat26493404,Artanto Puspasari,9/28/1995,(032) 441-5869,"Gg. Jakarta No. 997
+Bekasi, Maluku Utara 97189"
+pat81859085,Paulin Nasyiah,11/3/1993,-988,"Jalan Moch. Toha No. 00
+Tomohon, Gorontalo 32039"
+pat43106981,Michelle Pratama,4/21/2000,+62 (106) 723-2454,"Gg. Jakarta No. 924
+Padang Sidempuan, Maluku Utara 65023"
+pat65097953,Heru Yuniar,12/11/1982,+62 (022) 960-1290,"Jl. Moch. Ramdan No. 81
+Binjai, DI Yogyakarta 36372"
+pat02192147,Jail Santoso,5/19/1983,-9518,"Jalan Dr. Djunjunan No. 813
+Pangkalpinang, Riau 80138"
+pat35076384,Martani Fujiati,4/14/1981,+62 (79) 836-5204,"Jl. Waringin No. 499
+Makassar, NT 34652"
+pat16906730,Gara Gunarto,9/24/1983,-6066,"Gang Rajiman No. 357
+Semarang, Kalimantan Selatan 92606"
+pat22018656,Maya Hariyah,6/20/1992,+62 (380) 276 2722,"Gg. Cikutra Timur No. 402
+Purwokerto, JA 21167"
+pat19203034,Jaga Siregar,8/25/1981,+62 (908) 884-5940,"Gg. KH Amin Jasuta No. 44
+Purwokerto, DKI Jakarta 78704"
+pat29856442,Makara Namaga,7/11/1996,+62 (35) 893-2997,"Gang HOS. Cokroaminoto No. 73
+Malang, KI 40313"
+pat70121261,"Laras Puspita, S.E.",6/27/1996,-1506,"Gg. Abdul Muis No. 362
+Sabang, KU 32779"
+pat54464063,Faizah Saputra,9/5/1997,+62 (099) 264-0048,"Gang Ciumbuleuit No. 11
+Metro, JK 26073"
+pat72294758,Warta Uwais,1/3/1988,+62 (24) 720 3613,"Jl. BKR No. 21
+Banjar, Bali 28965"
+pat34610015,"Irwan Mardhiyah, M.Kom.",4/17/1986,(075) 420 5606,"Gg. Jayawijaya No. 4
+Surabaya, Jambi 20175"
+pat01370690,"Anastasia Widodo, S.Pd",7/20/1993,+62 (009) 124 7547,"Gg. Dr. Djunjunan No. 9
+Langsa, Sulawesi Selatan 73878"
+pat92449992,"Dipa Saputra, S.Pt",1/14/1994,+62 (021) 198-9182,"Gg. R.E Martadinata No. 1
+Prabumulih, Sulawesi Tenggara 91887"
+pat29681365,Gamani Lailasari,8/7/1984,-7141,"Gang Cikutra Timur No. 372
+Tanjungbalai, Papua 32596"
+pat55945622,"Ophelia Narpati, S.Psi",9/26/1999,+62 (0409) 830 8413,"Gg. Tebet Barat Dalam No. 8
+Kupang, PA 54169"
+pat71928104,Tgk. Hesti Simbolon,3/13/1996,(016) 023-9714,"Jalan Pasteur No. 8
+Kendari, Kalimantan Timur 42490"
+pat53050953,"Julia Mahendra, M.TI.",2/17/1993,+62 (079) 885 2738,"Gang Monginsidi No. 18
+Magelang, Kalimantan Selatan 19157"
+pat61106925,Cahya Widiastuti,1/13/1986,+62 (0050) 439-7499,"Jl. Tubagus Ismail No. 3
+Pekanbaru, RI 58817"
+pat72995754,"R. Safina Mustofa, S.Gz",2/18/1999,+62 (552) 663 5994,"Jl. Dr. Djunjunan No. 83
+Purwokerto, JA 95086"
+pat37307240,"Drs. Devi Widiastuti, S.Psi",3/19/1981,+62 (891) 314 8997,"Jalan Cihampelas No. 27
+Tangerang, Banten 84127"
+pat48217262,Hj. Rachel Rahmawati,7/5/1995,+62 (60) 549 3348,"Gang Otto Iskandardinata No. 2
+Tanjungbalai, Jawa Tengah 55862"
+pat33906645,"Dodo Hutapea, M.Pd",12/26/1987,+62 (158) 762 0406,"Gang Waringin No. 291
+Makassar, Nusa Tenggara Barat 93047"
+pat69238611,"Dt. Laswi Purwanti, S.Farm",8/31/1990,(074) 408-6668,"Gg. Cikutra Timur No. 0
+Lhokseumawe, Banten 57424"
+pat70256550,Ika Gunawan,8/26/2000,(0198) 434 5119,"Jalan Rawamangun No. 8
+Mataram, JA 54262"
+pat36315925,"Prasetya Natsir, S.Gz",9/17/1995,+62 (0799) 149 0152,"Gg. Laswi No. 6
+Blitar, AC 87166"
+pat29442881,"drg. Tami Sihotang, S.Pd",9/27/1981,872965180,"Jalan Kutisari Selatan No. 765
+Pematangsiantar, Kepulauan Bangka Belitung 76279"
+pat16227088,Kuncara Padmasari,12/23/2000,-2520,"Gang Dipatiukur No. 469
+Pematangsiantar, Aceh 14747"
+pat58441435,Ami Utama,3/20/1987,083 395 6618,"Jalan Pacuan Kuda No. 6
+Depok, Jambi 86307"
+pat69123658,Dr. Rina Iswahyudi,8/23/1983,+62 (24) 038 9036,"Gang Cikutra Barat No. 501
+Meulaboh, Gorontalo 90518"
+pat53398567,"Ina Mahendra, M.Farm",12/10/1993,-4764,"Jalan Jayawijaya No. 748
+Palembang, GO 47342"
+pat41280263,Tgk. Novi Saputra,1/26/1988,(059) 193 7932,"Gg. Ciwastra No. 045
+Padang, Aceh 51316"
+pat56713664,Cinthia Zulaika,10/30/1992,+62 (094) 605-9727,"Jalan Cihampelas No. 5
+Pontianak, Kalimantan Selatan 88462"
+pat79001137,Alika Adriansyah,2/1/1990,(0178) 783-6237,"Jalan Pasirkoja No. 20
+Langsa, BE 67351"
+pat51060220,"Sutan Hari Rahimah, S.Farm",5/8/1980,+62 (0953) 262-1660,"Jalan Pasir Koja No. 723
+Madiun, GO 78501"
+pat15668547,Lintang Usamah,5/10/1991,+62 (808) 822 5893,"Jl. HOS. Cokroaminoto No. 82
+Kota Administrasi Jakarta Barat, Bengkulu 89596"
+pat44453039,Ibun Damanik,1/31/1980,-7315,"Jl. Stasiun Wonokromo No. 130
+Parepare, Lampung 77919"
+pat74336302,Elma Usada,5/24/1986,-7730,"Jl. R.E Martadinata No. 6
+Balikpapan, JA 28072"
+pat12765423,Drs. Faizah Kuswoyo,1/29/1999,-6028,"Gang Jend. A. Yani No. 98
+Tegal, BA 42211"
+pat07778506,Zaenab Suwarno,12/23/1997,-1043,"Gg. M.T Haryono No. 980
+Jambi, Gorontalo 34188"
+pat98637287,Ayu Suryono,9/8/1999,816979051,"Jl. Raya Setiabudhi No. 156
+Bukittinggi, Jawa Tengah 32466"
+pat28352969,"Marsudi Tampubolon, S.T.",10/11/1980,(045) 342-5954,"Jl. Ahmad Dahlan No. 7
+Jambi, SU 86798"
+pat58434260,Vanesa Kuswoyo,5/31/1982,-8986,"Gg. Medokan Ayu No. 2
+Denpasar, Aceh 46985"
+pat78277243,Unjani Kuswandari,12/28/1990,+62 (69) 346 3123,"Gang Pelajar Pejuang No. 983
+Tual, BB 31953"
+pat86261890,Tania Novitasari,3/14/1986,+62 (91) 074-3522,"Gg. Ahmad Yani No. 17
+Yogyakarta, PA 35996"
+pat47880757,"Titin Gunarto, S.T.",5/21/1998,-2494,"Gang Waringin No. 9
+Binjai, SU 89155"
+pat32497601,Titi Nainggolan,6/28/1995,+62 (15) 116 9866,"Gg. Kutai No. 932
+Makassar, Sumatera Barat 79403"
+pat53882301,Danuja Palastri,4/23/1983,(040) 059 2778,"Jalan Asia Afrika No. 83
+Pagaralam, SS 46299"
+pat01160369,Maimunah Wijayanti,10/27/1992,+62 (038) 229 2586,"Gang Kutai No. 650
+Lubuklinggau, DI Yogyakarta 03046"
+pat61603844,Patricia Santoso,1/20/1987,+62 (24) 743-9551,"Gang Setiabudhi No. 9
+Sorong, BB 66480"
+pat15895776,Eka Januar,12/29/1987,+62 (036) 150-7765,"Gang PHH. Mustofa No. 938
+Jambi, Nusa Tenggara Barat 95104"
+pat04022749,"Bancar Widodo, S.H.",7/31/1981,+62 (071) 124-1051,"Jl. Antapani Lama No. 63
+Denpasar, Jawa Barat 57544"
+pat63489644,Martana Adriansyah,7/23/1998,+62 (375) 886 2502,"Gg. Sentot Alibasa No. 5
+Medan, Papua 44659"
+pat57496603,Dr. Vanesa Hartati,6/15/1981,+62 (583) 046 7303,"Jl. Rungkut Industri No. 3
+Jambi, Kepulauan Riau 15947"
+pat10380796,Zulfa Pudjiastuti,2/11/1987,+62 (579) 538 9825,"Gg. Gegerkalong Hilir No. 1
+Magelang, Papua Barat 91553"
+pat39060662,Hari Wibowo,10/26/1992,-5387,"Gg. Waringin No. 19
+Banda Aceh, Papua 84644"
+pat19616636,Karimah Saefullah,1/13/1999,+62 (0392) 265-4347,"Jalan Gardujati No. 42
+Tomohon, Kalimantan Timur 56076"
+pat51413125,Daruna Mandasari,8/26/1996,(033) 584 1416,"Jl. Jamika No. 71
+Jambi, Papua 71084"
+pat94963410,Jaswadi Budiman,8/29/1999,(0662) 076 9030,"Gang Peta No. 04
+Tanjungpinang, DKI Jakarta 12600"
+pat84253750,Cut Ajeng Wulandari,10/16/1984,+62 (949) 199-6036,"Jalan Jend. Sudirman No. 70
+Lhokseumawe, AC 30200"
+pat37376154,Margana Riyanti,3/11/1985,(0833) 668 5393,"Jalan Antapani Lama No. 9
+Mataram, JB 91144"
+pat26091846,Michelle Anggriawan,7/18/1982,-3781,"Gg. Rungkut Industri No. 8
+Makassar, Sulawesi Tengah 27891"
+pat61531055,Fathonah Usada,10/17/1983,-3199,"Gang Setiabudhi No. 816
+Kota Administrasi Jakarta Barat, SR 11064"
+pat93309073,Ihsan Prayoga,10/6/1990,881884530,"Gang Kutai No. 41
+Magelang, SS 41431"
+pat41357361,Bakiman Prasasta,7/16/1986,+62 (006) 564-2757,"Jalan Merdeka No. 69
+Bengkulu, Jawa Tengah 31379"
+pat66814641,"R. Pangestu Prasetyo, M.Kom.",10/21/1986,868320567,"Gg. PHH. Mustofa No. 4
+Bengkulu, ST 50788"
+pat74831241,Tgk. Ghaliyati Wastuti,10/2/1997,-11006,"Jalan Rajiman No. 0
+Tangerang, Sumatera Utara 04621"
+pat47954526,"Wisnu Nashiruddin, S.Psi",12/19/1996,+62 (853) 391 7575,"Jalan Indragiri No. 3
+Mataram, Kalimantan Barat 61686"
+pat14472978,Tgk. Bahuwirya Wijaya,3/7/1999,+62 (763) 579 4043,"Jalan H.J Maemunah No. 2
+Kota Administrasi Jakarta Selatan, Sulawesi Selatan 12265"
+pat16388772,Vanya Hakim,5/14/1981,(0371) 379-9813,"Jl. Sentot Alibasa No. 678
+Semarang, Sumatera Utara 07499"
+pat47151406,"drg. Hani Puspita, S.IP",7/27/1991,(0288) 770-1694,"Jl. Joyoboyo No. 36
+Solok, DI Yogyakarta 68770"
+pat34667958,"Ir. Kartika Nashiruddin, S.T.",8/5/1986,-6267,"Jalan Cikutra Timur No. 010
+Kota Administrasi Jakarta Pusat, DKI Jakarta 83507"
+pat07726835,Kawaca Usada,12/2/1989,083 239 9333,"Jalan Jend. A. Yani No. 54
+Bogor, Kepulauan Riau 27267"
+pat21273940,Dinda Situmorang,7/5/1993,878861185,"Gang Waringin No. 694
+Lhokseumawe, SB 78215"
+pat27389119,"Drs. Edison Anggraini, S.Gz",10/11/1994,-1950,"Gang Dipenogoro No. 97
+Kota Administrasi Jakarta Barat, JT 19833"
+pat91024589,Nyoman Mahendra,8/11/1989,+62 (527) 182-8223,"Jalan Rungkut Industri No. 587
+Mataram, DI Yogyakarta 98876"
+pat03924204,"Julia Kusmawati, S.Kom",3/24/2000,+62 (518) 230-8448,"Gg. KH Amin Jasuta No. 907
+Banjarmasin, Jawa Timur 91648"
+pat45282829,Ian Mahendra,3/11/1980,+62 (69) 816 4647,"Jalan Tubagus Ismail No. 13
+Sungai Penuh, Sumatera Utara 49899"
+pat20194888,Dt. Sakti Hutapea,4/5/1993,(040) 504 9691,"Gg. Dipenogoro No. 4
+Jambi, LA 55341"
+pat76503191,Sabar Farida,12/14/2000,+62 (070) 455 0658,"Gg. Astana Anyar No. 502
+Kota Administrasi Jakarta Timur, Kalimantan Barat 22482"
+pat80508656,Tiara Hariyah,1/29/1980,-1855,"Jalan R.E Martadinata No. 5
+Meulaboh, Kalimantan Selatan 96883"
+pat23214323,Opan Maheswara,6/5/1997,-5565,"Jalan Tebet Barat Dalam No. 773
+Manado, BB 45658"
+pat57846200,Raihan Lailasari,3/16/1999,(026) 929 3860,"Jalan R.E Martadinata No. 908
+Bukittinggi, KR 98565"
+pat24814911,"Warsita Hassanah, S.E.I",3/8/1994,(0978) 063-7705,"Jalan Otto Iskandardinata No. 36
+Lhokseumawe, Nusa Tenggara Barat 15229"
+pat85991354,Fitria Hutapea,2/22/1995,+62 (0583) 434-0857,"Jl. Moch. Ramdan No. 4
+Prabumulih, NT 45916"
+pat71374871,drg. Cinta Irawan,8/23/1992,(0172) 888 1906,"Jalan Antapani Lama No. 0
+Bengkulu, BT 54944"
+pat55734967,Irma Puspasari,10/21/1997,+62 (13) 860-1741,"Gang Asia Afrika No. 61
+Yogyakarta, Aceh 56068"
+pat79144452,"Tira Santoso, M.TI.",10/23/1983,+62 (42) 501-3347,"Gang Bangka Raya No. 441
+Padang, Nusa Tenggara Timur 83068"
+pat84769633,Daryani Waluyo,8/9/1994,(042) 617 9332,"Jalan Erlangga No. 155
+Ternate, Maluku Utara 72870"
+pat29620340,"R. Najwa Gunarto, M.Farm",5/25/1997,+62 (010) 481 7771,"Gg. Pasirkoja No. 869
+Ternate, PA 24066"
+pat12265497,Oliva Padmasari,10/24/1985,+62 (64) 122-9188,"Jalan Kapten Muslihat No. 656
+Lhokseumawe, Jambi 09413"
+pat63283020,Bambang Marpaung,7/8/1989,+62 (019) 260-6979,"Jl. Cihampelas No. 100
+Binjai, Jawa Barat 21957"
+pat32771534,"dr. Rendy Suryatmi, M.Kom.",2/4/1992,+62 (0793) 844 7470,"Jl. Jakarta No. 56
+Ambon, ST 48849"
+pat83695483,Lasmono Megantara,2/2/1981,+62 (077) 985-2547,"Jalan Merdeka No. 5
+Tarakan, Papua 11901"
+pat05639809,T. Edward Winarsih,5/22/1983,+62 (140) 872 0387,"Jalan Ahmad Yani No. 460
+Tarakan, Sulawesi Tenggara 60387"
+pat38758959,"Garang Andriani, S.Gz",2/28/1991,+62 (726) 371 3649,"Jl. Jakarta No. 81
+Pekanbaru, DKI Jakarta 26547"
+pat43208456,Kasiyah Mandala,8/1/1988,-3684,"Jl. H.J Maemunah No. 64
+Kota Administrasi Jakarta Barat, JT 22775"
+pat22736215,Kunthara Sitorus,6/15/1983,-5776,"Jl. Astana Anyar No. 28
+Pematangsiantar, Nusa Tenggara Barat 42045"
+pat77703934,Asmadi Marpaung,5/5/1998,-1809,"Jalan M.T Haryono No. 555
+Jambi, Kalimantan Tengah 42306"
+pat20115524,Elvina Saputra,6/23/1990,+62 (08) 687-5842,"Gang Laswi No. 4
+Kota Administrasi Jakarta Utara, Banten 77782"
+pat29844562,"Harsanto Mahendra, S.H.",12/13/1993,-10580,"Jl. Sentot Alibasa No. 484
+Pangkalpinang, BE 14123"
+pat11334132,Jessica Lailasari,1/28/1992,820517929,"Gang HOS. Cokroaminoto No. 59
+Tomohon, DKI Jakarta 96416"
+pat02194264,Cagak Hakim,9/25/1990,-9830,"Jl. Pasteur No. 0
+Kediri, Jawa Timur 20506"
+pat49855739,"T. Hendri Safitri, S.Farm",3/15/1999,-6049,"Jl. Surapati No. 4
+Palu, JA 97384"
+pat62016032,Hesti Mahendra,12/1/1987,(0328) 420-3469,"Jl. Ahmad Dahlan No. 768
+Tanjungbalai, Bali 71714"
+pat53150103,Malik Haryanto,2/21/1999,+62 (041) 698-0769,"Jalan Ciwastra No. 995
+Bau-Bau, NT 65742"
+pat37272180,Wani Nasyidah,3/11/1998,+62 (11) 288 3761,"Jl. Cikutra Timur No. 6
+Kupang, Sulawesi Tengah 43830"
+pat36331437,"Bajragin Laksita, S.IP",4/1/1998,+62 (944) 916 0694,"Jalan Kutisari Selatan No. 1
+Bandung, BA 75081"
+pat38320859,Cut Betania Habibi,7/12/1985,+62 (0824) 382 6784,"Jl. Cikutra Barat No. 1
+Pariaman, JT 25115"
+pat14791642,"R. Sari Prabowo, S.E.",1/2/1999,+62 (004) 786-9579,"Gg. Surapati No. 402
+Kotamobagu, Sumatera Barat 46288"
+pat80225348,"Mulyanto Waluyo, S.E.",1/21/1983,+62 (0987) 020 0232,"Jalan Ahmad Dahlan No. 93
+Tanjungpinang, KI 76881"
+pat39953216,"R.M. Kasusra Fujiati, S.Farm",1/3/2000,881671665,"Jalan Joyoboyo No. 648
+Payakumbuh, Riau 08226"
+pat80017776,Bala Hardiansyah,11/17/1986,-10678,"Gang Soekarno Hatta No. 250
+Solok, Gorontalo 78234"
+pat48959353,"Drs. Warsa Firmansyah, M.Pd",2/16/1989,+62 (070) 022 6271,"Gang Sentot Alibasa No. 7
+Ambon, Riau 83350"
+pat03735619,Ophelia Halimah,12/15/1982,+62 (0593) 872-2906,"Jalan Ciumbuleuit No. 35
+Banjarbaru, KR 34530"
+pat73884637,Novi Firgantoro,4/29/1989,(0114) 209 2656,"Jl. Medokan Ayu No. 80
+Surakarta, Kalimantan Selatan 83092"
+pat85809970,Hana Iswahyudi,6/24/1989,+62 (58) 132-2022,"Jl. Ciumbuleuit No. 756
+Banjarmasin, Sulawesi Selatan 08038"
+pat13589165,"R. Nasrullah Oktaviani, S.E.",5/16/1995,(0251) 042-7716,"Jl. Joyoboyo No. 273
+Pekanbaru, Gorontalo 70810"
+pat11209645,Candrakanta Wahyuni,12/9/1981,+62 (22) 513 7228,"Jl. Setiabudhi No. 00
+Pematangsiantar, Papua 30487"
+pat41387016,Diah Anggraini,9/27/1992,842021304,"Gang Raya Ujungberung No. 418
+Ternate, NB 13724"
+pat51558468,dr. Daryani Handayani,6/5/1982,+62 (40) 224 2831,"Gg. Sukajadi No. 93
+Sawahlunto, SU 46701"
+pat91551214,"T. Luis Wastuti, M.TI.",8/21/1997,+62 (070) 331 3048,"Gang Siliwangi No. 34
+Magelang, Kalimantan Timur 47731"
+pat33416212,Dalima Puspita,9/18/1992,+62 (0971) 961 7975,"Jalan Astana Anyar No. 4
+Tual, BT 00962"
+pat37377830,"Ir. Dadap Sitorus, S.Ked",10/19/1996,+62 (817) 061-4886,"Jl. Ronggowarsito No. 26
+Tangerang, PA 52838"
+pat55044837,Martani Pertiwi,1/2/1989,-2269,"Jl. Bangka Raya No. 84
+Probolinggo, Jawa Barat 73501"
+pat30420649,Wani Lestari,8/18/1993,(0820) 513-7777,"Gang Pasteur No. 702
+Tanjungbalai, Sulawesi Utara 80059"
+pat42625735,Septi Novitasari,3/21/1995,(0554) 809 1703,"Jalan W.R. Supratman No. 681
+Pematangsiantar, Riau 27108"
+pat50372119,Wardi Oktaviani,3/26/1985,+62 (0301) 620 8810,"Gg. Raya Setiabudhi No. 12
+Malang, YO 54258"
+pat00602464,Rina Wibowo,8/22/1985,+62 (0161) 040 5433,"Jalan Otto Iskandardinata No. 1
+Cimahi, JB 03391"
+pat19227771,"Drs. Jasmani Mahendra, M.Ak",7/10/1986,(0099) 722-9696,"Jalan KH Amin Jasuta No. 1
+Denpasar, Jambi 87902"
+pat20949044,"Puti Maria Laksmiwati, M.Ak",5/15/1982,-1838,"Jl. Abdul Muis No. 53
+Kotamobagu, Sumatera Utara 85153"
+pat58951620,"Cut Malika Narpati, S.Ked",3/15/1991,(0985) 862 0246,"Gang Dr. Djunjunan No. 932
+Makassar, SN 52776"
+pat12809646,Titin Nugroho,12/29/1999,(0561) 824-4135,"Jalan Rajawali Barat No. 401
+Sukabumi, Lampung 29909"
+pat19191348,"Ina Agustina, S.Sos",10/3/1985,-7082,"Gang Kendalsari No. 0
+Bekasi, DI Yogyakarta 12912"
+pat38670930,Janet Salahudin,11/8/1991,+62 (31) 753 3340,"Gang Asia Afrika No. 9
+Pagaralam, DKI Jakarta 14287"
+pat40815725,"Diana Setiawan, M.Farm",7/30/1992,+62 (71) 283-7229,"Jl. Veteran No. 2
+Kediri, BE 69369"
+pat45504648,Drs. Mutia Wahyudin,9/11/1993,+62 (896) 559 7491,"Jalan Raya Ujungberung No. 1
+Bitung, Jawa Timur 34547"
+pat21760174,"Sadina Laksita, M.M.",5/14/1995,(048) 751-4799,"Gg. Bangka Raya No. 384
+Surabaya, Maluku 01955"
+pat21985478,Genta Wacana,11/21/1987,-3842,"Jl. S. Parman No. 39
+Madiun, SB 83017"
+pat46493774,Wirda Marbun,4/18/1991,+62 (711) 331 9381,"Gg. Kutisari Selatan No. 4
+Madiun, LA 42308"
+pat95248219,Padmi Simbolon,6/24/1987,-4922,"Jalan Dipatiukur No. 91
+Pasuruan, KR 78492"
+pat01442922,"Ganjaran Widiastuti, S.E.",8/27/1989,-10086,"Jalan Kutisari Selatan No. 829
+Pangkalpinang, Kalimantan Timur 72921"
+pat50365937,Jefri Tampubolon,1/5/1991,(027) 238 1259,"Jl. Indragiri No. 985
+Kota Administrasi Jakarta Pusat, BT 67094"
+pat35579144,Karimah Prasetyo,6/4/1981,(097) 870-0286,"Gg. Ir. H. Djuanda No. 431
+Tidore Kepulauan, Kalimantan Utara 03163"
+pat54331068,"Nabila Hariyah, S.Gz",6/2/1995,-1688,"Jalan Gegerkalong Hilir No. 747
+Kota Administrasi Jakarta Barat, KT 42435"
+pat77586711,drg. Rangga Wastuti,1/23/2000,+62 (021) 414-2874,"Gang M.T Haryono No. 03
+Pagaralam, SU 97506"
+pat90424939,Cornelia Nasyiah,2/17/1989,(0900) 788-0841,"Gang Dipatiukur No. 424
+Banjarbaru, SN 08106"
+pat10959923,Kajen Rahmawati,6/21/1985,(014) 982 8141,"Jl. Cihampelas No. 61
+Pasuruan, SN 98880"
+pat03899120,Dalimin Prayoga,6/7/1994,(063) 355 5586,"Gang Ahmad Yani No. 152
+Sibolga, Bengkulu 64120"
+pat27995129,Taufan Riyanti,10/31/1992,(0721) 720-7700,"Gang Cikutra Barat No. 3
+Lhokseumawe, KS 52846"
+pat78725775,Yunita Wahyuni,4/18/1992,-5332,"Jalan Otto Iskandardinata No. 592
+Meulaboh, Sumatera Barat 23091"
+pat09183872,Viktor Utami,6/12/2000,(0144) 302-4236,"Jl. Ciumbuleuit No. 888
+Tual, SN 85935"
+pat58332542,"Ir. Ridwan Simanjuntak, S.T.",12/26/1984,+62 (408) 035 0335,"Gg. M.T Haryono No. 433
+Metro, ST 36803"
+pat50745555,T. Hendra Haryanti,1/26/1999,+62 (072) 602-6823,"Gg. Soekarno Hatta No. 1
+Kotamobagu, Maluku Utara 22410"
+pat61648401,"drg. Kiandra Hakim, S.Ked",3/16/1985,+62 (614) 230-1628,"Jalan M.T Haryono No. 7
+Sorong, DKI Jakarta 99941"
+pat23977020,Diah Gunawan,7/16/1989,+62 (0164) 271 4841,"Gang Sadang Serang No. 2
+Kediri, Sumatera Barat 15498"
+pat35614913,Tami Simbolon,2/20/1997,-6317,"Gg. Ronggowarsito No. 613
+Purwokerto, PA 61971"
+pat08535061,Dr. Gading Habibi,12/30/1986,+62 (0967) 845-8595,"Jalan Ciumbuleuit No. 13
+Kota Administrasi Jakarta Barat, BA 36728"
+pat04486619,Zelda Haryanti,6/9/1986,(064) 405 1985,"Jalan Ahmad Yani No. 5
+Samarinda, KB 85907"
+pat95297873,"Nadine Firmansyah, S.Kom",11/26/1989,+62 (028) 031-9348,"Gang Moch. Ramdan No. 5
+Surabaya, KR 10027"
+pat15997739,Lili Saefullah,8/29/1990,-5210,"Jl. Kutisari Selatan No. 91
+Pekalongan, BB 26531"
+pat11894650,Daliono Pudjiastuti,6/18/1990,(0517) 499 5783,"Jl. KH Amin Jasuta No. 167
+Parepare, Maluku 01961"
+pat14702280,"KH. Aditya Widiastuti, S.Psi",10/6/1997,+62 (96) 526 0544,"Jl. Sadang Serang No. 8
+Pematangsiantar, KB 86501"
+pat12626250,Jane Mansur,1/2/1997,082 166 1511,"Jalan Pasir Koja No. 21
+Padangpanjang, JA 76381"
+pat81975396,Gandi Prasetyo,1/27/1981,+62 (606) 739 6700,"Gg. Pacuan Kuda No. 17
+Parepare, JI 60230"
+pat00042697,Respati Hutasoit,12/10/1986,+62 (56) 591 5415,"Gg. Veteran No. 164
+Yogyakarta, KB 42799"
+pat82535292,Margana Mangunsong,2/12/1987,+62 (44) 675-6108,"Jl. Raya Ujungberung No. 7
+Purwokerto, YO 36025"
+pat39938725,Alika Saputra,7/26/1983,+62 (097) 738-6509,"Jalan Abdul Muis No. 86
+Sawahlunto, NB 28350"
+pat58375372,"Dewi Napitupulu, S.Psi",11/18/1993,-2854,"Gg. Soekarno Hatta No. 314
+Subulussalam, ST 53279"
+pat48792226,Gilang Pradipta,3/12/1993,849839618,"Gang Veteran No. 1
+Cilegon, Sumatera Barat 55585"
+pat09719828,Cut Halima Sihombing,1/15/1997,(041) 063-4590,"Gg. Bangka Raya No. 46
+Kota Administrasi Jakarta Utara, BA 83870"
+pat84500779,Heryanto Siregar,6/27/1991,(0846) 890-8554,"Jl. Moch. Ramdan No. 44
+Kota Administrasi Jakarta Utara, AC 43765"
+pat47012745,Mulyono Januar,1/5/1988,+62 (87) 340 8292,"Jl. Indragiri No. 15
+Tegal, Bengkulu 84578"
+pat80571216,"Martaka Najmudin, S.T.",10/25/1998,-5640,"Gang Pasteur No. 806
+Magelang, ST 87700"
+pat07437632,"Hana Gunawan, S.H.",5/5/1980,+62 (04) 290 8070,"Jalan Abdul Muis No. 221
+Kupang, Sulawesi Tengah 75008"
+pat56689709,Aurora Lailasari,10/13/1989,087 827 8029,"Jalan Ahmad Dahlan No. 6
+Bukittinggi, Jawa Timur 84613"
+pat90604041,"dr. Patricia Kusumo, S.Pt",6/17/1981,-6041,"Jl. Suniaraja No. 8
+Sukabumi, Riau 37644"
+pat19869001,Dr. Yuni Lailasari,1/3/1984,+62 (056) 182-2690,"Jl. Moch. Ramdan No. 106
+Padang Sidempuan, Bali 49071"
+pat96460412,Purwa Gunarto,3/17/1999,+62 (093) 197 6479,"Gang Pasir Koja No. 31
+Depok, BB 42406"
+pat41245569,drg. Belinda Hutagalung,10/17/1988,+62 (88) 311 4777,"Gg. Moch. Ramdan No. 012
+Semarang, Jambi 62439"
+pat74322718,Dina Pratiwi,6/14/1991,-9292,"Jl. Kapten Muslihat No. 15
+Mojokerto, SU 08887"
+pat76819841,Candra Rajasa,10/10/1987,+62 (096) 124 2011,"Jalan Cempaka No. 633
+Dumai, JA 76597"
+pat99711719,Rahmi Saptono,6/9/2000,(0868) 199 9354,"Gang Asia Afrika No. 14
+Tanjungbalai, Aceh 68871"
+pat95621135,"H. Lanjar Hardiansyah, S.Psi",11/3/1987,-737,"Gang Raya Ujungberung No. 604
+Samarinda, Jawa Tengah 06578"
+pat44579128,Anastasia Pradana,10/1/1996,+62 (019) 942 8564,"Jalan Sukajadi No. 012
+Tebingtinggi, Sulawesi Utara 49089"
+pat32393767,Ciaobella Nababan,12/3/1987,-1031,"Jalan W.R. Supratman No. 0
+Pagaralam, Kalimantan Barat 56058"
+pat38143694,Ifa Gunawan,12/11/1996,+62 (023) 708-3735,"Jl. Erlangga No. 31
+Sibolga, MU 80187"
+pat66284697,Paiman Kusmawati,7/13/1993,+62 (0925) 597 2922,"Gg. Jamika No. 0
+Padang Sidempuan, SU 75692"
+pat37930004,Cut Zelda Utami,2/1/1985,+62 (085) 542 9985,"Jl. Laswi No. 7
+Bontang, Sulawesi Utara 59899"
+pat33640471,Johan Saragih,7/25/1996,-7794,"Jalan Cempaka No. 450
+Mojokerto, AC 50320"
+pat41876237,"Wadi Kusumo, M.Pd",3/9/1999,+62 (09) 430 2237,"Jl. K.H. Wahid Hasyim No. 28
+Salatiga, MA 79282"
+pat45451973,"dr. Damar Damanik, S.Pt",12/9/2000,+62 (654) 357-8155,"Gg. Indragiri No. 0
+Palangkaraya, Jambi 15984"
+pat94361612,Daliman Prasasta,7/27/1997,+62 (0480) 927 8447,"Gang Pasteur No. 5
+Ambon, Bali 47672"
+pat07070204,Dt. Dariati Kusmawati,11/19/1999,-2917,"Jalan Rumah Sakit No. 932
+Tidore Kepulauan, Sulawesi Utara 32230"
+pat12469864,Balamantri Widiastuti,3/21/1995,-6920,"Gang Rajawali Timur No. 628
+Samarinda, JB 25231"
+pat71913070,"Jamalia Wibisono, M.TI.",12/20/1988,-9800,"Gang Siliwangi No. 7
+Kota Administrasi Jakarta Timur, SU 08504"
+pat54158429,Tgk. Ida Laksmiwati,11/18/1989,-7046,"Jl. Sadang Serang No. 068
+Denpasar, Aceh 52156"
+pat94245455,"R. Vega Samosir, S.Sos",5/25/1996,-1645,"Gang S. Parman No. 69
+Samarinda, Kalimantan Timur 08710"
+pat82863241,Warji Gunarto,8/15/1985,-5256,"Gang Cikutra Barat No. 16
+Sibolga, Kalimantan Utara 98455"
+pat24096379,"Irfan Nababan, S.E.I",9/5/1993,(035) 812-3703,"Jl. Indragiri No. 5
+Jambi, Sumatera Barat 25101"
+pat67697465,Endah Padmasari,7/12/1983,+62 (047) 436 6262,"Gg. Cempaka No. 765
+Serang, SN 73649"
+pat02709192,Lidya Anggriawan,11/12/1984,+62 (0413) 990 0952,"Jl. K.H. Wahid Hasyim No. 01
+Magelang, Kepulauan Riau 54459"
+pat68766344,Irma Laksita,1/9/1994,-7474,"Gang BKR No. 75
+Balikpapan, KS 94413"
+pat81406807,"Ir. Waluyo Winarno, S.Psi",7/24/1984,-3752,"Jalan Kiaracondong No. 804
+Banjarmasin, SU 57873"
+pat71916859,Dt. Dimaz Simbolon,8/21/1989,-4268,"Gang BKR No. 39
+Depok, Jawa Barat 10953"
+pat37095154,Radit Mahendra,7/15/1992,+62 (003) 163-1571,"Gg. Surapati No. 8
+Semarang, Sulawesi Tengah 56793"
+pat21425554,Bagya Setiawan,11/5/1984,+62 (414) 594-3311,"Jl. Gegerkalong Hilir No. 941
+Batu, Gorontalo 83688"
+pat96344675,Harimurti Siregar,4/8/1989,+62 (599) 312-4379,"Jalan Ciwastra No. 3
+Cimahi, Sulawesi Tengah 05711"
+pat86359290,Labuh Nashiruddin,1/13/1982,859515933,"Jl. Kutai No. 7
+Cimahi, JB 05041"
+pat38170133,drg. Dina Hariyah,4/1/1989,+62 (896) 739 2591,"Jl. Erlangga No. 01
+Palangkaraya, Maluku Utara 66020"
+pat61615496,Tgk. Karsa Mustofa,11/12/1985,-10205,"Jl. Kiaracondong No. 7
+Yogyakarta, Kepulauan Riau 96046"
+pat97722977,"Baktiono Mandasari, S.I.Kom",1/17/1994,(0362) 868 1836,"Jalan Merdeka No. 59
+Kotamobagu, SS 19764"
+pat24761666,"Sutan Hasan Januar, M.Kom.",10/1/1988,(0531) 193 7058,"Gg. Ir. H. Djuanda No. 757
+Bengkulu, MU 92961"
+pat05172078,Dono Tarihoran,5/10/1991,+62 (44) 292-4772,"Gg. Rajawali Timur No. 2
+Dumai, SN 81005"
+pat33821085,"T. Asmianto Kuswandari, S.Pd",1/30/1996,(060) 997 6153,"Gg. M.T Haryono No. 5
+Mojokerto, Jawa Tengah 33188"
+pat90758720,Dagel Kusmawati,12/12/1995,(080) 926-2175,"Gg. Siliwangi No. 214
+Yogyakarta, KB 90148"
+pat72072653,Puti Eka Puspasari,3/25/1999,-6781,"Gg. Pasirkoja No. 6
+Langsa, Sulawesi Tenggara 46456"
+pat44890391,Dr. Queen Waskita,12/27/1980,845634312,"Jl. S. Parman No. 39
+Blitar, BA 57647"
+pat17162890,Karsa Waskita,2/5/1997,+62 (0149) 393 3150,"Jalan Sukabumi No. 4
+Binjai, ST 61112"
+pat45237591,Nilam Rahmawati,9/28/2000,(0238) 215 6756,"Jl. Raya Ujungberung No. 8
+Banda Aceh, YO 40561"
+pat70912425,Dasa Nasyiah,6/4/1990,089 556 4702,"Jl. Raya Setiabudhi No. 58
+Meulaboh, MU 64160"
+pat69380143,Belinda Utama,12/25/1995,-6215,"Jl. Dr. Djunjunan No. 53
+Tanjungpinang, Nusa Tenggara Timur 72297"
+pat50544356,R.M. Upik Yuliarti,12/18/1986,-8263,"Jalan Erlangga No. 3
+Pekalongan, Bali 76732"
+pat33410814,Okto Rajata,4/13/1996,+62 (019) 607 6090,"Jalan Cikutra Barat No. 5
+Magelang, Lampung 19264"
+pat98137213,Mujur Napitupulu,2/23/1991,-9495,"Gang Bangka Raya No. 446
+Pasuruan, Nusa Tenggara Barat 62152"
+pat84553041,"Najwa Saptono, S.Farm",3/6/1995,+62 (250) 874 9166,"Jl. Abdul Muis No. 6
+Sungai Penuh, KR 87134"
+pat07626852,"R. Fitriani Mayasari, S.Ked",6/22/1995,836965485,"Jl. Kendalsari No. 481
+Medan, Jawa Timur 95200"
+pat85615045,Winda Mardhiyah,11/14/1984,+62 (096) 680-3067,"Gg. Sukabumi No. 0
+Cimahi, Papua 62254"
+pat35651963,Ami Sihombing,7/5/1989,-7847,"Gang Tebet Barat Dalam No. 1
+Kotamobagu, KT 77638"
+pat40556512,drg. Pardi Winarsih,8/29/1987,(034) 133-2695,"Jalan Kutai No. 8
+Padang, MA 13348"
+pat76894053,"Galar Hidayanto, M.Kom.",10/11/1990,+62 (0644) 320 4331,"Gg. Pasirkoja No. 3
+Bau-Bau, Maluku Utara 28106"
+pat31017800,Rahmi Mulyani,7/30/1989,-8970,"Jl. Cikutra Timur No. 276
+Palopo, JK 24185"
+pat94777765,"Hj. Rachel Usamah, S.Psi",4/12/1987,(073) 499-5759,"Jl. Sukajadi No. 37
+Kediri, KS 60347"
+pat83525858,"Daru Utami, S.Gz",1/8/1991,-9032,"Jalan Jend. A. Yani No. 53
+Pontianak, Sulawesi Tenggara 68411"
+pat20404154,"Tgk. Nardi Mansur, S.E.",12/12/1982,-8795,"Gang Pasteur No. 94
+Semarang, Kalimantan Barat 01640"
+pat06208035,Paiman Marbun,10/11/1990,(0025) 758 8987,"Gg. Surapati No. 58
+Sukabumi, BT 54118"
+pat56739428,Tirtayasa Mangunsong,5/16/1998,-685,"Jalan Kapten Muslihat No. 07
+Depok, PB 12150"
+pat39073532,Wulan Prasetyo,10/7/1997,(052) 034-8295,"Jalan Wonoayu No. 9
+Bogor, Nusa Tenggara Barat 27892"
+pat99621490,Almira Fujiati,10/7/1989,+62 (66) 974-6610,"Jalan Waringin No. 1
+Bengkulu, Banten 99851"
+pat25318807,"Danu Pudjiastuti, S.Farm",5/30/1992,+62 (33) 601 0420,"Jl. Cikutra Timur No. 4
+Kediri, Maluku 61652"
+pat72807941,Siska Saputra,12/12/1986,+62 (008) 675 6083,"Jalan Ronggowarsito No. 400
+Semarang, Kepulauan Bangka Belitung 00946"
+pat17275811,"Anastasia Sirait, S.Psi",5/12/1985,+62 (0997) 770 2836,"Jalan Cikapayang No. 93
+Bima, Jawa Barat 29286"
+pat11937654,Alambana Natsir,2/7/1992,+62 (455) 680 1834,"Jl. Gegerkalong Hilir No. 0
+Bau-Bau, MU 38110"
+pat80123170,Karen Dabukke,9/3/1986,-1560,"Jl. Setiabudhi No. 914
+Manado, JB 03978"
+pat57113944,T. Harjo Nasyiah,3/17/2000,-3738,"Gang Ahmad Yani No. 95
+Semarang, JT 16913"
+pat72649459,Cut Ellis Widodo,1/15/1980,-2143,"Gang Ciwastra No. 595
+Batam, Maluku Utara 72910"
+pat96179352,Artawan Kusumo,1/8/1993,+62 (111) 705-6574,"Jl. W.R. Supratman No. 1
+Tanjungpinang, Kalimantan Tengah 87783"
+pat79365499,Mala Mandasari,1/16/1984,+62 (0988) 797-0502,"Jalan PHH. Mustofa No. 344
+Surabaya, Sulawesi Selatan 58246"
+pat06314354,KH. Perkasa Habibi,6/30/1983,+62 (0068) 360-6166,"Jalan Peta No. 227
+Kota Administrasi Jakarta Barat, Maluku Utara 03832"
+pat65270226,"Purwa Saragih, S.Pd",8/17/1985,+62 (015) 936 1389,"Jl. Suniaraja No. 82
+Semarang, Bali 48378"
+pat19611129,"Lalita Widiastuti, S.T.",10/21/1987,+62 (0702) 762 3270,"Jalan Rajiman No. 604
+Pagaralam, KU 75838"
+pat41730423,Rini Mustofa,5/10/1988,(0321) 308-1630,"Jalan Pacuan Kuda No. 494
+Cilegon, Sumatera Barat 93372"
+pat03044247,Nilam Nababan,4/18/1994,081 588 1140,"Jalan Jend. A. Yani No. 3
+Gorontalo, Sumatera Selatan 71700"
+pat89811825,Maimunah Lailasari,7/10/1986,+62 (069) 088 5139,"Gg. Ciumbuleuit No. 5
+Padang, Kalimantan Utara 69560"
+pat28114413,Harto Nababan,10/25/1987,(072) 933 2396,"Jl. Abdul Muis No. 666
+Semarang, SR 79587"
+pat12477517,"drg. Tantri Sudiati, S.T.",11/1/1998,+62 (091) 872-7973,"Jalan Kebonjati No. 5
+Pasuruan, Sulawesi Tenggara 14301"
+pat37961435,Gawati Permadi,11/29/1980,+62 (043) 451 3861,"Jalan Gardujati No. 57
+Prabumulih, Nusa Tenggara Timur 11525"
+pat27244739,Yahya Widodo,1/1/1999,+62 (003) 351 6783,"Gang Cikutra Barat No. 9
+Samarinda, Sumatera Barat 65569"
+pat07574108,Drs. Praba Pangestu,12/6/1996,-9581,"Gang Pacuan Kuda No. 34
+Pekanbaru, JB 59053"
+pat76413575,"Drs. Natalia Widodo, S.IP",8/14/1991,+62 (704) 670-4937,"Gg. Ir. H. Djuanda No. 15
+Palembang, JK 54806"
+pat15509956,Septi Wibowo,2/2/1983,+62 (208) 245 2282,"Jalan Asia Afrika No. 91
+Probolinggo, ST 79873"
+pat62217446,Reza Winarsih,8/6/1993,(040) 389 9585,"Gg. Asia Afrika No. 0
+Padang Sidempuan, Bengkulu 51610"
+pat61823419,Cici Gunawan,1/23/1990,(048) 322-6531,"Jl. Surapati No. 145
+Banjarmasin, NB 58683"
+pat09015470,"R.M. Jaya Hasanah, S.T.",8/7/1989,(0988) 624 6883,"Jalan Pasir Koja No. 562
+Mojokerto, PB 59393"
+pat46497727,Cahyono Wibowo,4/13/1995,(041) 277 0767,"Gg. Otto Iskandardinata No. 85
+Probolinggo, Gorontalo 21240"
+pat42581529,"Fitria Sihombing, M.Pd",6/15/1985,+62 (050) 858 4276,"Jalan Jend. A. Yani No. 22
+Tangerang, Jawa Timur 68486"
+pat80653509,Sarah Wibisono,11/10/1998,-5038,"Jl. Antapani Lama No. 72
+Serang, Sumatera Utara 91297"
+pat56089691,Teguh Prakasa,11/7/1998,-5744,"Gg. Sentot Alibasa No. 837
+Pangkalpinang, Sulawesi Barat 34601"
+pat88108353,Tri Permadi,1/1/1996,+62 (0807) 572-0602,"Jl. Pelajar Pejuang No. 30
+Madiun, Maluku Utara 69161"
+pat62334402,"Natalia Natsir, M.Farm",5/15/2000,-7327,"Gg. R.E Martadinata No. 709
+Tomohon, JB 97338"
+pat42023562,Zahra Prayoga,1/5/1998,+62 (053) 249-2785,"Gg. Jakarta No. 0
+Yogyakarta, PB 63404"
+pat80822271,Hairyanto Purnawati,9/30/1985,086 813 9231,"Gang Soekarno Hatta No. 0
+Kota Administrasi Jakarta Pusat, DKI Jakarta 94532"
+pat41553800,"R.A. Ani Hutasoit, S.T.",4/18/1993,(0177) 120-3661,"Gang Wonoayu No. 482
+Jambi, KT 19242"
+pat84751638,Embuh Budiyanto,4/3/1981,838949721,"Gang Kendalsari No. 034
+Jayapura, Kalimantan Utara 28290"
+pat17761796,R. Devi Maheswara,7/1/1980,(079) 579 2611,"Gg. Laswi No. 2
+Cilegon, YO 54707"
+pat55565967,Nadia Suartini,8/15/2000,+62 (022) 126-4210,"Gg. Gegerkalong Hilir No. 208
+Malang, Sumatera Selatan 20713"
+pat75396442,"drg. Nasim Riyanti, S.IP",10/25/1984,+62 (043) 289-1890,"Gg. Ir. H. Djuanda No. 071
+Lhokseumawe, DKI Jakarta 93651"
+pat70871807,Elisa Uyainah,4/18/1985,-8516,"Jalan Kiaracondong No. 24
+Bengkulu, Kalimantan Selatan 83275"
+pat42427865,"dr. Natalia Samosir, S.H.",7/15/1998,-1253,"Gang Rajiman No. 0
+Tangerang, SG 04664"
+pat56133745,Jane Andriani,1/20/1998,+62 (066) 692-4594,"Gg. Tebet Barat Dalam No. 579
+Cilegon, DKI Jakarta 42067"
+pat15972309,Ridwan Pratiwi,5/21/1994,-7679,"Gg. R.E Martadinata No. 27
+Kotamobagu, BB 07811"
+pat65003985,T. Marwata Hidayat,7/7/1982,+62 (275) 741 0706,"Jl. Rungkut Industri No. 67
+Parepare, JT 63065"
+pat07931772,Prayoga Wastuti,9/7/1991,+62 (034) 905 6540,"Jl. Cihampelas No. 6
+Tegal, NB 94853"
+pat51111311,"Asirwada Jailani, S.H.",7/3/1985,+62 (013) 003 2975,"Gg. Kiaracondong No. 0
+Malang, Nusa Tenggara Barat 47696"
+pat43589456,Ayu Hariyah,6/3/2000,(044) 497 0781,"Jl. Siliwangi No. 37
+Palangkaraya, Lampung 27992"
+pat04050520,Victoria Lestari,7/28/1995,+62 (078) 358-1483,"Gang M.T Haryono No. 9
+Manado, Sulawesi Barat 46519"
+pat97594567,Yoga Nugroho,9/9/1981,086 438 8447,"Jalan Kendalsari No. 84
+Pontianak, Bengkulu 28653"
+pat18771244,Kenzie Namaga,2/4/1993,(0448) 708 6297,"Jalan Tebet Barat Dalam No. 50
+Yogyakarta, Nusa Tenggara Timur 72366"
+pat53543240,"Mila Permata, S.E.I",11/2/1980,+62 (0599) 205-0825,"Gg. Jakarta No. 395
+Mataram, Aceh 81094"
+pat20233266,Adhiarja Nainggolan,9/2/1986,(072) 038-6681,"Gang Monginsidi No. 7
+Ternate, SS 56707"
+pat62497084,"Alambana Yulianti, S.Sos",9/15/1992,(035) 391-5335,"Gg. Pasir Koja No. 0
+Tegal, Jambi 27412"
+pat15974570,Dr. Balidin Widiastuti,1/20/1982,085 013 1253,"Jalan Yos Sudarso No. 5
+Sorong, SR 35920"
+pat15245496,Kamaria Nurdiyanti,12/16/1995,+62 (24) 128-6827,"Jalan Kutisari Selatan No. 68
+Madiun, Bali 32107"
+pat70950717,Vanya Handayani,6/19/1997,+62 (026) 478 6294,"Jl. Rajiman No. 2
+Purwokerto, SG 48417"
+pat23891166,"Paulin Agustina, M.Kom.",5/15/1990,+62 (260) 414-0499,"Jl. Joyoboyo No. 2
+Langsa, Sulawesi Barat 31355"
+pat18181296,Mila Rahayu,10/12/1990,-1814,"Jl. Indragiri No. 72
+Bau-Bau, Kalimantan Selatan 87606"
+pat07780400,Puji Kusmawati,9/6/1995,(051) 373 0128,"Gang Otto Iskandardinata No. 668
+Banjarbaru, Sulawesi Tenggara 52520"
+pat83840784,"drg. Rina Saefullah, M.M.",8/3/1983,-7161,"Gg. Stasiun Wonokromo No. 92
+Palangkaraya, Gorontalo 28753"
+pat78718210,Janet Pranowo,2/5/1994,+62 (229) 960-6362,"Jl. Monginsidi No. 840
+Bitung, Jawa Barat 49490"
+pat46286581,"Purwanto Anggraini, S.Psi",3/21/1995,(0153) 096 1727,"Jalan Jend. A. Yani No. 4
+Metro, Aceh 46984"
+pat37255275,Maya Rahimah,6/15/1990,(0649) 488 4984,"Jl. Sukajadi No. 2
+Palu, KI 28709"
+pat76383045,Oliva Wahyuni,4/23/1983,+62 (0160) 197 6785,"Jl. Ir. H. Djuanda No. 9
+Tangerang, Jambi 98168"
+pat56097184,Uchita Wibisono,4/1/1989,(010) 817 8749,"Gg. Kendalsari No. 58
+Pontianak, Kepulauan Riau 91560"
+pat45012327,Dr. Raina Rahmawati,4/13/1988,087 913 9030,"Gg. Pasirkoja No. 58
+Kotamobagu, Papua Barat 81342"
+pat35841876,Garda Mayasari,7/12/1984,(0693) 462-2494,"Gang Ir. H. Djuanda No. 889
+Manado, BT 77095"
+pat69241161,Eja Utami,5/20/1986,899526476,"Gg. M.H Thamrin No. 0
+Manado, Jambi 49623"
+pat54186866,"Dr. Elon Habibi, S.E.",2/29/1988,+62 (47) 807 0219,"Jl. Monginsidi No. 1
+Batam, SU 29456"
+pat14738135,Wani Gunarto,9/2/1992,+62 (0365) 550 2185,"Jl. Ciwastra No. 38
+Banda Aceh, Kalimantan Timur 26155"
+pat16425842,Dr. Mustika Najmudin,2/23/1988,+62 (388) 883 5275,"Jalan Gardujati No. 070
+Salatiga, Jawa Timur 96759"
+pat88206363,Sari Prabowo,1/18/1993,(008) 016-2059,"Gg. S. Parman No. 716
+Jayapura, ST 52681"
+pat34243558,Bancar Wahyuni,7/16/1989,(0931) 749-4426,"Gang HOS. Cokroaminoto No. 4
+Bandar Lampung, SG 33062"
+pat38902253,"Puti Amalia Nababan, S.Farm",9/6/1987,(0843) 254 8533,"Gg. KH Amin Jasuta No. 4
+Kota Administrasi Jakarta Utara, KS 78574"
+pat10769959,"Sutan Jayeng Gunawan, S.E.",9/7/1985,+62 (0194) 360 5407,"Gang Jakarta No. 140
+Pagaralam, Kepulauan Riau 07655"
+pat02451473,Maras Thamrin,8/15/1987,-7601,"Jl. Kutisari Selatan No. 6
+Tanjungpinang, DI Yogyakarta 17999"
+pat85449916,Artanto Napitupulu,1/9/1993,-9006,"Jalan Rajawali Timur No. 14
+Malang, SG 19992"
+pat24083805,"Tgk. Najam Jailani, S.I.Kom",4/30/1980,807766979,"Jalan Pasirkoja No. 39
+Tebingtinggi, KI 30208"
+pat03928097,Hamima Purwanti,5/15/1997,-2117,"Gang Joyoboyo No. 058
+Banjar, NT 71728"
+pat54015111,Hana Hassanah,1/9/1997,+62 (0330) 199-9348,"Gang HOS. Cokroaminoto No. 3
+Serang, KT 01964"
+pat95189864,Pardi Gunarto,3/21/1985,-9620,"Gg. Dipatiukur No. 823
+Mataram, Papua Barat 17941"
+pat70378795,Dr. Dian Tamba,11/12/1988,801207371,"Gg. Wonoayu No. 1
+Madiun, SB 20550"
+pat06019501,Limar Pertiwi,3/23/1990,+62 (579) 808 4075,"Jalan Kutai No. 3
+Batu, Sumatera Selatan 76726"
+pat24002899,Dono Utama,3/20/1980,+62 (33) 662-3025,"Gang Cikutra Barat No. 07
+Tanjungbalai, Kepulauan Bangka Belitung 79554"
+pat74938131,Amalia Ramadan,4/18/1984,-7651,"Gang Erlangga No. 8
+Tangerang Selatan, SN 65755"
+pat59472506,Aswani Novitasari,8/9/1982,+62 (235) 565 3434,"Gg. Moch. Ramdan No. 35
+Banda Aceh, KU 42812"
+pat21435836,"Harjasa Saragih, M.M.",12/23/1988,(093) 798 1474,"Gang Sadang Serang No. 64
+Depok, MU 75942"
+pat59070221,Jono Kusmawati,7/3/1999,+62 (0512) 878 6545,"Jl. Stasiun Wonokromo No. 9
+Salatiga, Papua 11058"
+pat25569612,"drg. Shakila Pranowo, S.I.Kom",9/4/1985,(0649) 172 3611,"Gg. M.H Thamrin No. 2
+Palangkaraya, Riau 18153"
+pat67463060,Asmuni Wibisono,7/25/1981,+62 (311) 205 2526,"Jl. S. Parman No. 720
+Pematangsiantar, RI 85143"
+pat63825640,"R.M. Aditya Puspita, S.T.",1/11/1985,+62 (0006) 511 4540,"Gang Dipatiukur No. 3
+Lhokseumawe, Jawa Tengah 80122"
+pat40425368,Hendri Kuswoyo,4/11/1984,+62 (88) 652 9046,"Gang Dipatiukur No. 808
+Magelang, Sulawesi Tengah 75796"
+pat44445119,"Yuni Putra, S.Gz",7/24/1988,(093) 955 7632,"Jl. Rajiman No. 0
+Purwokerto, Bengkulu 88818"
+pat81894406,"Hj. Ade Andriani, M.Farm",4/5/1988,(013) 935 1910,"Gang Pasirkoja No. 463
+Lhokseumawe, Bali 55333"
+pat84319951,Johan Pangestu,1/10/1998,(0615) 468-5184,"Jl. Cikutra Barat No. 34
+Padang Sidempuan, BT 72752"
+pat66857341,Nardi Damanik,8/18/1996,861406798,"Jl. Pelajar Pejuang No. 4
+Banda Aceh, JI 25308"
+pat93977050,drg. Ratih Narpati,6/14/1995,+62 (079) 126 4820,"Gang Setiabudhi No. 688
+Banjarbaru, Maluku Utara 66585"
+pat27927861,dr. Teddy Permadi,9/8/1993,-3357,"Gg. Asia Afrika No. 096
+Tidore Kepulauan, Sulawesi Tenggara 12564"
+pat91525628,Tri Laksmiwati,2/27/1997,+62 (0899) 169-9164,"Jl. W.R. Supratman No. 99
+Samarinda, Bali 80365"
+pat50789252,"Sabrina Agustina, S.Farm",8/17/2000,(0243) 309 3548,"Gg. Moch. Toha No. 546
+Palembang, Maluku 74866"
+pat00974653,Estiawan Ardianto,3/17/1985,+62 (0299) 828 0435,"Gg. W.R. Supratman No. 74
+Cilegon, Sulawesi Tengah 86334"
+pat41739464,R.A. Ika Siregar,7/27/1986,-1538,"Gg. Abdul Muis No. 87
+Pagaralam, SS 76717"
+pat16283329,"dr. Salman Kuswandari, M.M.",12/15/1988,-10571,"Gg. Sentot Alibasa No. 745
+Singkawang, Bali 98188"
+pat22312143,Dr. Aditya Ardianto,11/29/1992,+62 (17) 544-6443,"Gg. Jayawijaya No. 07
+Palangkaraya, Jambi 59237"
+pat75971878,Jabal Zulaika,2/16/1998,+62 (50) 285-2856,"Gang Moch. Toha No. 463
+Lubuklinggau, Sulawesi Tenggara 06648"
+pat13997588,"Prayoga Hardiansyah, S.I.Kom",10/8/1997,(0427) 039-3888,"Gg. Pacuan Kuda No. 869
+Denpasar, JB 55063"
+pat19507583,Keisha Rahayu,11/17/1986,(097) 660-8715,"Jalan Rajawali Timur No. 263
+Sawahlunto, LA 56771"
+pat36521944,Luwes Puspita,6/15/1994,+62 (008) 311-2578,"Gg. Rumah Sakit No. 98
+Pagaralam, Maluku Utara 74202"
+pat85296015,Ratih Uyainah,3/21/1987,(0818) 189 0746,"Gang Merdeka No. 525
+Bekasi, JA 87690"
+pat62816427,Dagel Nashiruddin,10/1/1984,(0750) 836-5007,"Jl. Moch. Toha No. 66
+Mojokerto, KT 87849"
+pat03292297,"Natalia Puspasari, M.Ak",2/8/1992,+62 (017) 983 8736,"Gang Cikutra Timur No. 8
+Magelang, NB 51337"
+pat10063187,"R. Jasmin Pradana, S.Gz",12/23/1981,(0473) 202-0301,"Jl. PHH. Mustofa No. 4
+Bau-Bau, DKI Jakarta 26555"
+pat77847256,Cindy Uyainah,8/31/1991,+62 (953) 406-6586,"Jl. Monginsidi No. 98
+Probolinggo, BT 06713"
+pat93734066,Wawan Siregar,5/11/1991,+62 (96) 612 8581,"Gang M.H Thamrin No. 29
+Bandung, Kalimantan Utara 47653"
+pat57088501,Safina Hassanah,8/18/1995,-6898,"Gg. Jakarta No. 6
+Banjarbaru, KB 32567"
+pat74934737,"Hj. Padmi Oktaviani, S.Kom",1/7/1991,(0543) 916-4360,"Gang Kutai No. 6
+Medan, MU 07643"
+pat65007945,Cut Irma Simbolon,10/5/1995,-8757,"Jl. Otto Iskandardinata No. 344
+Yogyakarta, Papua Barat 14238"
+pat44926090,"Reksa Mangunsong, M.Ak",8/15/1983,-5672,"Gang Yos Sudarso No. 630
+Bogor, Kalimantan Selatan 82619"
+pat34573198,Karen Laksita,2/21/1994,+62 (73) 769 5520,"Gg. Cempaka No. 236
+Tanjungpinang, Nusa Tenggara Timur 94830"
+pat55577717,Ulva Saragih,3/17/1996,+62 (37) 338 3557,"Gang Pasir Koja No. 85
+Banda Aceh, Sumatera Selatan 60953"
+pat34554623,Wulan Nainggolan,10/6/1996,+62 (0003) 865 7158,"Gang Gedebage Selatan No. 9
+Metro, Maluku 46249"
+pat32535839,T. Gatra Wahyudin,8/3/1998,-4637,"Jalan Sentot Alibasa No. 5
+Ambon, Jawa Barat 58627"
+pat08534842,Novi Prasasta,5/6/1995,(074) 615-2631,"Gg. S. Parman No. 466
+Palembang, Riau 78408"
+pat36947973,R. Puspa Firmansyah,8/28/1998,+62 (0028) 522-6379,"Jl. Pelajar Pejuang No. 667
+Medan, Maluku 50416"
+pat55587389,Ir. Vanesa Sihotang,7/13/1986,+62 (26) 680-5776,"Gang Tebet Barat Dalam No. 94
+Cirebon, SN 32527"
+pat18015225,"Queen Setiawan, S.T.",5/13/1985,+62 (294) 417-4250,"Gg. Jend. A. Yani No. 72
+Bekasi, JA 09325"
+pat57060255,Puspa Yulianti,2/9/1988,+62 (23) 820 8880,"Gang Dipenogoro No. 643
+Tanjungbalai, Sumatera Utara 36700"
+pat11624851,drg. Zahra Adriansyah,3/7/1986,+62 (92) 620 0264,"Gang Cikutra Timur No. 5
+Bengkulu, Kalimantan Barat 09765"
+pat52268311,Jagapati Handayani,12/16/1998,-10160,"Jl. Dipatiukur No. 24
+Surabaya, Maluku Utara 14364"
+pat19121482,"Cut Novi Mustofa, M.Kom.",11/23/1994,(0678) 273 9968,"Jl. M.H Thamrin No. 28
+Kota Administrasi Jakarta Timur, DI Yogyakarta 97589"
+pat07768644,"R.A. Ciaobella Prayoga, S.IP",6/7/1988,(037) 481-8319,"Jl. Laswi No. 554
+Binjai, Kalimantan Utara 02436"
+pat41317990,"T. Dartono Oktaviani, S.I.Kom",1/26/2000,082 894 8322,"Jl. Kiaracondong No. 733
+Palu, KU 31792"
+pat72335178,"dr. Latika Dabukke, M.M.",12/11/1996,-4231,"Gg. Asia Afrika No. 20
+Bitung, Jawa Timur 03733"
+pat87598964,"Drs. Kani Hartati, S.I.Kom",3/30/1982,+62 (082) 391-6464,"Gg. Rungkut Industri No. 9
+Kotamobagu, Maluku 93477"
+pat33309101,Hasta Marpaung,1/20/1996,(0105) 701 7643,"Jl. W.R. Supratman No. 657
+Mataram, Maluku Utara 34192"
+pat22447777,Anita Saragih,7/16/1992,+62 (0234) 362-6475,"Jl. Cikapayang No. 93
+Payakumbuh, JT 90109"
+pat15264497,Karman Winarno,2/8/1982,(0865) 442 2781,"Gg. Kapten Muslihat No. 2
+Tanjungpinang, SB 56434"
+pat00068734,"R.M. Jagaraga Haryanto, S.Psi",4/16/1984,+62 (51) 320-2785,"Gg. H.J Maemunah No. 851
+Kota Administrasi Jakarta Barat, ST 19204"
+pat75955892,Kayla Siregar,4/4/1994,(0607) 493-8215,"Gang Pasteur No. 3
+Metro, MU 31654"
+pat55036573,Hendri Thamrin,9/11/1984,+62 (017) 250-0723,"Jalan H.J Maemunah No. 2
+Purwokerto, Sulawesi Utara 65472"
+pat31119863,"dr. Hilda Napitupulu, M.TI.",11/12/1995,+62 (0045) 213 0143,"Jl. Jend. A. Yani No. 9
+Kotamobagu, Bengkulu 66109"
+pat40510729,"Drs. Mumpuni Haryanti, M.Pd",5/2/2000,+62 (046) 563-7280,"Jalan Sentot Alibasa No. 5
+Sawahlunto, Bali 45082"
+pat39469946,Laila Yolanda,3/4/1982,-3556,"Gang Pasteur No. 488
+Tual, Kepulauan Bangka Belitung 78533"
+pat68874087,Naradi Setiawan,2/13/1982,+62 (049) 865-1244,"Jalan Dr. Djunjunan No. 40
+Solok, Jawa Tengah 09065"
+pat14931741,Septi Hutasoit,1/31/1981,-4715,"Gang Tubagus Ismail No. 04
+Blitar, Nusa Tenggara Timur 29181"
+pat17804523,Wani Suwarno,7/3/1996,-9189,"Jl. W.R. Supratman No. 785
+Kupang, Bali 58064"
+pat16128774,Drs. Iriana Setiawan,2/10/1985,(0872) 144-1163,"Jalan Lembong No. 0
+Makassar, Kepulauan Riau 38543"
+pat19228624,Najam Halim,10/3/1992,+62 (0597) 953-4405,"Gg. Raya Setiabudhi No. 645
+Padangpanjang, DKI Jakarta 81047"
+pat88752730,"Dr. Hafshah Kuswandari, M.TI.",7/28/1989,+62 (0902) 914-9537,"Gg. Raya Ujungberung No. 967
+Kediri, Jambi 41125"
+pat93720373,Kani Wasita,2/27/1995,+62 (000) 606 9272,"Gang Pasir Koja No. 2
+Banjarbaru, Kalimantan Tengah 62878"
+pat32847116,Prakosa Wulandari,1/2/1993,+62 (27) 794-4493,"Jalan Ahmad Dahlan No. 364
+Bontang, Jawa Tengah 06152"
+pat60574091,Umi Fujiati,8/12/1996,-9839,"Jalan Sukabumi No. 270
+Probolinggo, BT 42040"
+pat88547442,Paiman Irawan,8/11/2000,+62 (0584) 189 9017,"Gang K.H. Wahid Hasyim No. 837
+Serang, JK 11768"
+pat14808159,"Puti Rachel Mustofa, M.Pd",10/1/1987,+62 (27) 701 3354,"Gg. Ciumbuleuit No. 129
+Bitung, JK 47836"
+pat18719468,Rahayu Dongoran,7/26/1999,-6294,"Jalan Suryakencana No. 91
+Gorontalo, Kepulauan Bangka Belitung 77262"
+pat60486622,Puji Utami,8/23/1998,-3048,"Gg. W.R. Supratman No. 2
+Probolinggo, AC 69499"
+pat78986992,Widya Melani,5/6/1992,+62 (0310) 552 9959,"Jalan Rawamangun No. 865
+Kota Administrasi Jakarta Selatan, Aceh 17885"
+pat92052499,R.A. Pia Hutagalung,9/26/1999,+62 (0912) 396-7010,"Gg. Indragiri No. 5
+Salatiga, Sumatera Selatan 43090"
+pat02078830,Anita Purnawati,3/28/1994,-2087,"Gang Moch. Toha No. 529
+Bogor, GO 16957"
+pat97580973,"Cici Simbolon, M.Pd",10/14/1986,-10384,"Gg. Ronggowarsito No. 163
+Ternate, SG 19142"
+pat41673386,Dirja Palastri,8/21/1994,871198003,"Gg. Waringin No. 144
+Palu, JI 67925"
+pat31759052,drg. Omar Siregar,3/2/1986,-4450,"Jalan Cikutra Barat No. 782
+Tomohon, Sulawesi Utara 84270"
+pat74586356,Ir. Rendy Mangunsong,1/15/1984,+62 (011) 779-6406,"Jl. Sukabumi No. 2
+Palopo, SG 33772"
+pat57451527,Aisyah Winarsih,9/6/1985,(0109) 920 8041,"Gang Sukajadi No. 09
+Pasuruan, Nusa Tenggara Timur 70649"
+pat42977322,"Margana Narpati, S.IP",12/24/1997,089 586 1368,"Jl. Gardujati No. 794
+Mataram, Kepulauan Bangka Belitung 67426"
+pat91829009,Putri Waskita,2/6/1982,(0051) 176 5697,"Jl. Surapati No. 71
+Lhokseumawe, JK 85734"
+pat82698270,Cakrajiya Usamah,3/20/1992,+62 (0950) 465-1677,"Gg. Dipatiukur No. 4
+Yogyakarta, Kalimantan Utara 18034"
+pat44399696,"Ifa Mandasari, M.Farm",3/25/2000,-1709,"Gg. Stasiun Wonokromo No. 825
+Purwokerto, DI Yogyakarta 47300"
+pat89822357,Fitria Oktaviani,5/7/1983,-2173,"Jl. Dr. Djunjunan No. 381
+Dumai, SG 21818"
+pat99098377,Puti Nabila Pradipta,2/26/1995,(042) 721-8974,"Gang Kebonjati No. 176
+Binjai, Jawa Timur 13148"
+pat12985166,"Ir. Winda Suryatmi, S.E.",2/21/1982,-8314,"Jalan W.R. Supratman No. 4
+Payakumbuh, Kalimantan Utara 15172"
+pat35636458,Dt. Gamani Hastuti,10/14/2000,829925910,"Jl. Rajiman No. 616
+Kediri, Riau 03677"
+pat35715962,Tirta Nasyiah,5/13/1997,+62 (0944) 231 6922,"Jalan H.J Maemunah No. 23
+Tanjungpinang, RI 11069"
+pat27363522,Lidya Yulianti,9/14/1991,(048) 575 4675,"Jalan Sentot Alibasa No. 09
+Samarinda, Lampung 06548"
+pat74042814,Oskar Wibisono,10/19/1980,(0545) 648 2247,"Gang Kapten Muslihat No. 38
+Sukabumi, NT 09075"
+pat95021638,Cahyono Mustofa,6/5/1982,+62 (19) 425-4864,"Jalan Jamika No. 12
+Sorong, Sumatera Selatan 55682"
+pat52145780,"Eli Wijaya, M.Farm",1/5/1988,+62 (078) 684-2249,"Jl. W.R. Supratman No. 9
+Gorontalo, JK 15848"
+pat62296014,Maya Namaga,11/18/1992,-1156,"Jl. Rajawali Barat No. 81
+Surakarta, Jambi 78661"
+pat09423732,Salsabila Suryatmi,3/4/1989,-8777,"Gang Merdeka No. 3
+Subulussalam, NB 02588"
+pat00077880,Rini Purwanti,2/19/1990,860628014,"Gang Asia Afrika No. 392
+Tangerang Selatan, Papua Barat 89352"
+pat40282763,"Dina Namaga, S.Ked",2/23/1997,+62 (0181) 082-8376,"Gang Cikapayang No. 993
+Pekalongan, Jawa Barat 03350"
+pat62915472,Dr. Damu Waskita,9/7/1994,(052) 174-8644,"Jl. Kebonjati No. 12
+Jayapura, Sumatera Selatan 97950"
+pat27865781,Dt. Cakrawala Palastri,7/18/1985,+62 (05) 683-8125,"Jl. Indragiri No. 7
+Pagaralam, KB 49507"
+pat54595446,Eko Sihotang,9/15/1989,+62 (0506) 124 4286,"Jl. Jend. A. Yani No. 6
+Pangkalpinang, SN 31246"
+pat59910596,Farah Prasasta,10/21/1988,+62 (0278) 392-1356,"Gg. Dipenogoro No. 848
+Bengkulu, JB 13371"
+pat30112247,Lala Kurniawan,3/5/1999,+62 (67) 217-5210,"Jalan Jayawijaya No. 93
+Medan, SG 93521"
+pat47620131,"R.A. Puti Winarsih, S.T.",6/17/1984,(0431) 464 9303,"Gang Monginsidi No. 35
+Padang, Bengkulu 29081"
+pat05076291,"Edi Setiawan, S.Psi",7/23/1983,(060) 927 7430,"Jalan Merdeka No. 33
+Sorong, DKI Jakarta 76178"
+pat49022537,Farah Safitri,7/29/1989,(0875) 730-2059,"Jalan Indragiri No. 46
+Tasikmalaya, LA 95331"
+pat64150086,Adhiarja Anggriawan,11/30/1980,(052) 782 9521,"Jl. Rungkut Industri No. 678
+Tarakan, BA 63369"
+pat57879376,Cut Mala Sitompul,8/6/2000,+62 (0493) 921-7319,"Gang KH Amin Jasuta No. 7
+Sabang, PB 75917"
+pat80336532,"Adiarja Megantara, S.Ked",6/26/1988,+62 (11) 276-9423,"Gang Tubagus Ismail No. 6
+Mataram, KR 91054"
+pat68200824,"Humaira Utami, M.Farm",8/6/1986,+62 (96) 163-5744,"Gang Ahmad Yani No. 54
+Banjarbaru, Kepulauan Bangka Belitung 26613"
+pat49358704,Erik Aryani,9/27/1989,+62 (49) 130 8046,"Jl. Siliwangi No. 27
+Prabumulih, Kalimantan Barat 43878"
+pat58907726,Samiah Simbolon,2/15/2000,(0951) 052-4663,"Jl. Abdul Muis No. 53
+Banjarbaru, Maluku Utara 51553"
+pat62577731,Puti Dian Rahimah,2/16/1990,(078) 183-1978,"Gg. Pasirkoja No. 6
+Bengkulu, JT 11440"
+pat00004633,Ghaliyati Putra,12/31/1999,+62 (016) 084 8622,"Gang Ciwastra No. 7
+Yogyakarta, Maluku Utara 94993"
+pat85447745,Bakianto Yolanda,2/13/1990,+62 (094) 382-2569,"Jl. Rajawali Timur No. 32
+Bandung, Gorontalo 94899"
+pat23836952,Purwanto Mahendra,12/17/1980,(093) 280-0895,"Gg. Pasir Koja No. 328
+Tasikmalaya, SR 33685"
+pat53345660,Julia Wijayanti,8/24/1991,(0163) 308 6924,"Gg. Kutai No. 175
+Tasikmalaya, KT 98829"
+pat74210855,"H. Raditya Damanik, M.Ak",2/3/1985,089 525 4042,"Gang Siliwangi No. 6
+Medan, JB 80185"
+pat37551612,Zelda Tamba,10/18/1992,+62 (848) 222 0849,"Gang Ahmad Dahlan No. 0
+Ambon, Papua 53136"
+pat61477773,"Darimin Novitasari, S.Sos",7/11/1998,+62 (0827) 385-7067,"Gg. Cempaka No. 244
+Tegal, Jawa Timur 89703"
+pat14812996,Cinthia Aryani,1/2/1984,+62 (0224) 295-4028,"Jl. Rajiman No. 855
+Mojokerto, Banten 28776"
+pat67460595,Lasmono Pertiwi,4/25/1996,-6285,"Gg. Kebonjati No. 5
+Sungai Penuh, PB 35551"
+pat60180643,"Ir. Kartika Gunawan, M.M.",1/4/1983,(0203) 251-9462,"Jalan Moch. Ramdan No. 01
+Parepare, KS 50736"
+pat73657736,Ibrahim Mardhiyah,7/28/1990,086 549 4522,"Gang Soekarno Hatta No. 4
+Bandung, MU 47742"
+pat24972239,Padma Hardiansyah,2/26/1986,-8699,"Jl. Jend. A. Yani No. 812
+Bukittinggi, Papua 72551"
+pat85731905,"Carub Suartini, S.Farm",4/30/1992,837489573,"Jl. PHH. Mustofa No. 68
+Magelang, KB 28897"
+pat94872477,Rachel Wahyuni,6/25/1993,087 778 6079,"Jalan Siliwangi No. 406
+Surabaya, NB 37268"
+pat94336436,dr. Rendy Kurniawan,12/10/1980,-336,"Jalan Monginsidi No. 96
+Banjarmasin, Kepulauan Riau 44863"
+pat20436322,"Natalia Mahendra, S.Farm",3/18/1981,(087) 116-4741,"Jalan Rumah Sakit No. 4
+Kota Administrasi Jakarta Pusat, SS 42393"
+pat15458391,"Jagaraga Usada, S.H.",5/31/1985,(021) 903-0130,"Jl. Merdeka No. 93
+Manado, SS 70845"
+pat58051535,Ir. Silvia Mahendra,9/29/1982,086 611 1666,"Gang Pacuan Kuda No. 071
+Parepare, Sulawesi Tengah 78492"
+pat17965972,Ega Purnawati,1/20/1994,+62 (21) 918-7231,"Gg. Ir. H. Djuanda No. 055
+Pontianak, SS 40431"
+pat71578156,Mahfud Mayasari,5/1/1997,-9116,"Gg. Rajawali Barat No. 21
+Magelang, RI 47681"
+pat50243167,Oskar Tamba,2/13/1981,+62 (0311) 777-1470,"Jl. Kebonjati No. 4
+Tidore Kepulauan, NT 77373"
+pat00397308,T. Asmadi Sihotang,6/5/1985,084 782 3373,"Gg. Kendalsari No. 3
+Ternate, Jawa Tengah 08696"
+pat32285871,Zulaikha Najmudin,2/22/1991,+62 (510) 534 7879,"Jl. Merdeka No. 203
+Manado, JK 49928"
+pat38997631,"Paiman Maryadi, S.Farm",3/17/1981,-10245,"Gang Cihampelas No. 49
+Tebingtinggi, MU 91031"
+pat87309256,Cemeti Natsir,6/28/1981,(051) 424 0240,"Gg. Asia Afrika No. 08
+Bima, BA 53980"
+pat86249386,Yuliana Samosir,5/15/1990,+62 (036) 549-3462,"Gg. M.H Thamrin No. 83
+Madiun, NT 19151"
+pat58931684,"Gambira Wijayanti, M.TI.",9/19/1992,(0150) 305-0716,"Jl. Asia Afrika No. 235
+Jayapura, MU 92031"
+pat92960411,Hasim Kurniawan,5/11/1981,-1573,"Gg. Rawamangun No. 6
+Solok, Kalimantan Barat 14652"
+pat76735264,Tgk. Nova Hartati,3/25/1991,+62 (0274) 983-6685,"Gang Rajawali Timur No. 06
+Batam, DI Yogyakarta 84736"
+pat09263543,Ana Lazuardi,2/6/1981,-2066,"Gg. Pelajar Pejuang No. 12
+Ambon, Papua Barat 88546"
+pat82114572,Aurora Hutasoit,1/8/1980,-8773,"Gg. Cikutra Barat No. 557
+Bukittinggi, Aceh 75212"
+pat19152318,Putri Purwanti,6/7/1982,+62 (088) 195 1768,"Gg. H.J Maemunah No. 9
+Cilegon, KU 24808"
+pat95622545,Kemal Sinaga,10/7/1990,(0196) 346-4960,"Gang Kapten Muslihat No. 423
+Cimahi, Kalimantan Tengah 78324"
+pat70022445,Tgk. Restu Padmasari,9/5/1984,-6005,"Jalan Kiaracondong No. 84
+Singkawang, BA 92106"
+pat40113258,"Kawaya Saragih, S.Gz",3/21/1998,+62 (627) 522-7259,"Gg. Jamika No. 4
+Pontianak, SU 45244"
+pat00345507,Vicky Saptono,6/15/1985,(094) 906-9849,"Gg. Laswi No. 82
+Padang, SU 86241"
+pat40958613,Harjasa Simanjuntak,3/31/1981,+62 (724) 104-6795,"Jalan Kendalsari No. 6
+Tegal, KT 97904"
+pat51728380,Estiono Laksmiwati,6/11/1990,+62 (14) 491-9185,"Jalan Kutisari Selatan No. 116
+Tarakan, Kalimantan Barat 54173"
+pat78942028,Mitra Pratama,3/11/1997,+62 (027) 985-0874,"Jl. M.T Haryono No. 345
+Madiun, Kalimantan Barat 04555"
+pat14489242,Wirda Suwarno,12/5/1985,+62 (026) 455-2603,"Jalan Kapten Muslihat No. 6
+Kota Administrasi Jakarta Barat, Kepulauan Bangka Belitung 42709"
+pat79177658,Drs. Victoria Yolanda,10/11/1986,(017) 124 6971,"Jalan Ahmad Dahlan No. 18
+Ambon, Papua Barat 29146"
+pat36998388,Asmadi Napitupulu,3/2/1985,(022) 213 0299,"Jl. Merdeka No. 308
+Tarakan, Jambi 21548"
+pat47288584,"Puti Hilda Safitri, S.Pd",6/3/1988,873031728,"Gg. HOS. Cokroaminoto No. 833
+Prabumulih, Jawa Tengah 61451"
+pat49210026,"Ir. Asmadi Pangestu, M.TI.",6/15/1986,-10000,"Jalan Rajiman No. 6
+Prabumulih, Kalimantan Barat 69885"
+pat33708249,Cinta Suryono,4/14/1984,+62 (026) 760-4294,"Jalan Suniaraja No. 366
+Sibolga, Kalimantan Selatan 98311"
+pat19764986,"Dono Kuswoyo, S.Gz",4/19/1982,+62 (47) 465-6427,"Jl. Jayawijaya No. 3
+Bukittinggi, Sumatera Barat 17294"
+pat60058652,Irwan Susanti,6/3/1983,-7997,"Gang Pasteur No. 875
+Purwokerto, Bengkulu 17150"
+pat55883337,Galiono Prakasa,7/1/1987,(060) 812-3062,"Jl. H.J Maemunah No. 0
+Makassar, Papua 60243"
+pat08241597,"Zaenab Samosir, S.Gz",3/18/1990,-9114,"Jl. Raya Ujungberung No. 33
+Blitar, KU 86864"
+pat08726742,Kania Yuniar,5/14/1998,+62 (333) 890 9056,"Jl. W.R. Supratman No. 47
+Padangpanjang, KI 02399"
+pat32676471,"Mulya Winarno, S.H.",1/4/1992,-6162,"Jalan M.H Thamrin No. 55
+Mojokerto, Riau 25743"
+pat06819071,"Almira Ardianto, S.IP",8/29/1981,+62 (0223) 610-7805,"Gg. Siliwangi No. 7
+Kupang, DI Yogyakarta 98061"
+pat01568158,Mustika Permadi,12/30/1995,+62 (758) 319-5981,"Jl. Jend. Sudirman No. 100
+Payakumbuh, JA 29845"
+pat84928337,"Hj. Keisha Kuswandari, S.T.",6/2/1997,-1570,"Jalan Pasir Koja No. 60
+Langsa, JK 33443"
+pat59123996,"R. Parman Hakim, S.IP",5/23/1991,+62 (04) 664 0067,"Gang Monginsidi No. 476
+Meulaboh, Kalimantan Barat 31072"
+pat00298155,Aswani Prasetya,11/3/1982,+62 (0599) 977-4295,"Jalan Waringin No. 399
+Tegal, Kalimantan Selatan 79834"
+pat00647830,Taufik Sitompul,4/14/1991,+62 (065) 875-4991,"Gg. Kiaracondong No. 08
+Medan, KS 17364"
+pat40322568,Tgk. Asmadi Hidayat,6/26/1995,+62 (095) 528-8766,"Jl. Pasteur No. 1
+Sawahlunto, Kalimantan Utara 27190"
+pat97752493,Naradi Uwais,4/3/1986,(023) 373-5108,"Jalan Pasir Koja No. 9
+Samarinda, Nusa Tenggara Barat 27044"
+pat87476927,Karta Waskita,2/18/1995,088 826 2721,"Gang M.T Haryono No. 58
+Pagaralam, Sumatera Utara 82966"
+pat67743308,Cici Gunarto,8/28/1999,+62 (55) 775 4722,"Jalan Rajawali Timur No. 8
+Pagaralam, SB 77165"
+pat72470886,"Yahya Winarno, S.Sos",5/19/1983,+62 (0054) 914 7682,"Gang Asia Afrika No. 2
+Surabaya, ST 05296"
+pat40526690,"Uli Gunawan, S.T.",10/8/1989,+62 (974) 335 4882,"Jl. Cempaka No. 215
+Prabumulih, MU 90620"
+pat36690947,Ella Pradipta,3/30/1985,+62 (64) 026 0294,"Gg. Cikutra Barat No. 676
+Pematangsiantar, DI Yogyakarta 66510"
+pat70930139,Vanya Wijaya,1/23/1986,+62 (0368) 435 2417,"Jl. Merdeka No. 0
+Depok, Sulawesi Barat 33768"
+pat34124727,Kasiyah Wulandari,9/4/1983,+62 (0316) 084 8007,"Jalan Gardujati No. 63
+Bogor, KT 32412"
+pat14081378,Ulya Mansur,4/2/1995,(0500) 780 1935,"Jl. Kutai No. 578
+Salatiga, YO 89993"
+pat50777914,Natalia Saptono,11/8/2000,+62 (14) 138 9486,"Gg. Jend. Sudirman No. 43
+Banjarmasin, ST 56894"
+pat51812218,Tina Farida,5/15/1989,-1441,"Jl. Tebet Barat Dalam No. 16
+Palopo, LA 38595"
+pat62304146,"Irma Haryanti, S.I.Kom",4/4/1982,(068) 064-0619,"Jl. Kiaracondong No. 639
+Payakumbuh, Papua Barat 72940"
+pat21164033,Chandra Maryati,10/11/1992,+62 (0451) 836-1434,"Jalan M.T Haryono No. 5
+Metro, Kalimantan Timur 50402"
+pat68672775,Puspa Susanti,1/17/1990,(0168) 486 7604,"Gg. M.T Haryono No. 3
+Pasuruan, PB 46179"
+pat63854978,Balidin Hasanah,6/4/1988,(065) 360-4454,"Jalan Monginsidi No. 195
+Tanjungbalai, BA 68023"
+pat46017161,Margana Padmasari,4/29/1986,+62 (43) 704 9055,"Jl. Monginsidi No. 76
+Meulaboh, Sulawesi Tenggara 53936"
+pat45684357,Cakrabirawa Hariyah,7/24/1999,-6247,"Jl. Tubagus Ismail No. 8
+Padang, Bengkulu 07680"
+pat12341764,Eli Oktaviani,3/26/1981,-4763,"Jalan Kendalsari No. 94
+Lubuklinggau, ST 57020"
+pat87508048,dr. Jelita Samosir,12/22/1995,+62 (040) 558 9203,"Gang Jend. Sudirman No. 496
+Palembang, NT 95496"
+pat91276827,"R. Gabriella Prasetyo, S.E.",5/31/1990,-2790,"Gg. Waringin No. 8
+Meulaboh, Sulawesi Tenggara 02121"
+pat53438959,Bala Kuswandari,4/2/1985,-1159,"Gang M.T Haryono No. 02
+Padangpanjang, Sulawesi Selatan 37315"
+pat25392661,Ir. Yulia Hastuti,9/27/1993,(0401) 363 5152,"Gg. Waringin No. 06
+Sorong, Kalimantan Utara 58163"
+pat90114861,Citra Yuliarti,9/2/1987,087 195 3744,"Gg. S. Parman No. 30
+Lhokseumawe, KR 00238"
+pat52510762,"KH. Cagak Nainggolan, M.Ak",4/18/1986,(0543) 794 3375,"Gang Dr. Djunjunan No. 13
+Sibolga, Kalimantan Tengah 18438"
+pat44696580,Sakura Nainggolan,10/8/1991,807599554,"Gang Lembong No. 19
+Surabaya, Maluku 30902"
+pat80522003,Hendri Nurdiyanti,8/31/1991,+62 (43) 112-4670,"Gg. Suryakencana No. 83
+Kediri, Kalimantan Utara 70824"
+pat22865670,Tiara Suartini,6/3/1997,+62 (099) 223 3206,"Gg. Veteran No. 87
+Bau-Bau, Jawa Tengah 23176"
+pat25795035,Ayu Uyainah,10/26/1999,+62 (52) 700-0313,"Jl. Jayawijaya No. 495
+Tanjungbalai, Sulawesi Tenggara 76280"
+pat73188506,Kamaria Permadi,11/22/1992,+62 (06) 707-5298,"Gg. Kiaracondong No. 1
+Kediri, NT 16638"
+pat47383784,Nova Hastuti,5/13/1980,+62 (063) 999 4589,"Gang K.H. Wahid Hasyim No. 114
+Cilegon, Bali 14147"
+pat98144914,Lalita Nurdiyanti,12/31/1984,888494540,"Gg. Cempaka No. 9
+Palembang, SG 07376"
+pat04888741,Ulva Hidayanto,12/3/1995,(036) 851 8432,"Jalan Jamika No. 211
+Medan, SR 54078"
+pat83823862,"Vanesa Suartini, S.Farm",11/3/1995,083 776 5867,"Jl. Pelajar Pejuang No. 82
+Jambi, Jambi 93961"
+pat06176556,Dirja Nasyidah,10/31/1987,+62 (061) 559-9787,"Jl. Tubagus Ismail No. 034
+Tanjungbalai, MA 36165"
+pat60032225,Panca Saputra,1/31/1991,(081) 114 0239,"Gg. Cikutra Timur No. 08
+Pematangsiantar, Jawa Timur 35345"
+pat12661336,Olga Megantara,1/18/1987,+62 (005) 187 4819,"Jalan Raya Ujungberung No. 5
+Sungai Penuh, KU 36901"
+pat27229835,Siska Nugroho,7/16/1983,(002) 752 7826,"Gang Tubagus Ismail No. 3
+Tanjungpinang, Sumatera Utara 29379"
+pat09895553,"Cahyo Wahyudin, S.Farm",9/15/1997,+62 (811) 044-2209,"Jl. Suryakencana No. 4
+Medan, BA 10703"
+pat14786822,"Cut Puspa Waskita, S.Kom",8/31/1986,+62 (019) 948-1738,"Jalan Sadang Serang No. 8
+Lubuklinggau, JK 46538"
+pat54356818,"Aswani Pradana, S.Farm",6/11/1984,-2444,"Gg. Gedebage Selatan No. 273
+Pangkalpinang, Kalimantan Utara 38329"
+pat56134506,"R. Tasnim Pertiwi, S.T.",10/10/1981,+62 (0761) 761 0564,"Jalan Jamika No. 13
+Pasuruan, Jambi 32400"
+pat96267004,"R. Tiara Tamba, S.Pt",2/16/1983,-2885,"Jalan Gardujati No. 0
+Palembang, LA 31992"
+pat02440668,"Dono Hardiansyah, S.E.",2/29/1992,+62 (066) 245 7780,"Gg. Medokan Ayu No. 5
+Bekasi, SR 13027"
+pat83087394,Karimah Damanik,6/20/1986,+62 (0371) 211 6040,"Gg. Laswi No. 0
+Bekasi, JA 54858"
+pat59383888,R.A. Clara Saptono,5/16/1990,(008) 051-3642,"Jl. Rumah Sakit No. 42
+Pekalongan, Sumatera Utara 78155"
+pat03685976,Kezia Wijaya,2/21/1993,836264786,"Gang Yos Sudarso No. 3
+Pekalongan, Kalimantan Selatan 12778"
+pat21812170,"Gambira Yuniar, S.IP",9/18/1981,+62 (33) 455 7134,"Gang Setiabudhi No. 5
+Blitar, MU 78326"
+pat19314785,"Olivia Nababan, M.Farm",3/28/1999,+62 (0329) 379 3960,"Jl. Soekarno Hatta No. 67
+Kota Administrasi Jakarta Selatan, BB 84433"
+pat21214653,Almira Laksmiwati,11/25/1984,880668688,"Jl. K.H. Wahid Hasyim No. 8
+Metro, Jawa Barat 35680"
+pat47250307,"Kezia Padmasari, M.M.",7/2/1997,+62 (040) 588 9326,"Jl. Rumah Sakit No. 382
+Kota Administrasi Jakarta Timur, JT 86576"
+pat59165613,Elvin Prasetya,2/16/1994,-1860,"Gg. BKR No. 47
+Cilegon, Maluku Utara 36103"
+pat93501972,R. Rangga Uwais,2/13/1980,(015) 738-6216,"Jalan Kutai No. 78
+Tanjungpinang, Nusa Tenggara Timur 61768"
+pat24133920,"Patricia Adriansyah, S.E.",4/21/1982,-1159,"Gg. H.J Maemunah No. 054
+Palangkaraya, Kalimantan Utara 64176"
+pat63928624,Cut Natalia Hartati,10/1/1992,-2524,"Gg. Abdul Muis No. 03
+Banjarmasin, KI 85153"
+pat78965782,Elma Pertiwi,10/20/1988,081 044 4465,"Jl. Jakarta No. 59
+Cirebon, Maluku 95714"
+pat66701095,Yahya Sirait,2/26/1986,-7416,"Jl. Kebonjati No. 30
+Banjarmasin, DKI Jakarta 16851"
+pat86578356,Jagaraga Budiman,4/20/1981,-2857,"Gg. Erlangga No. 54
+Makassar, Banten 67817"
+pat02816678,"dr. Sabar Irawan, S.T.",4/20/1992,(0786) 800-6488,"Gg. Jakarta No. 04
+Gorontalo, Jawa Tengah 51759"
+pat52891861,Rachel Palastri,4/26/1994,(023) 061 9916,"Jalan Cihampelas No. 15
+Bandung, RI 94742"
+pat72570890,"Jamalia Marpaung, S.Pd",12/14/1985,(045) 007-5329,"Gg. Stasiun Wonokromo No. 73
+Batu, Jawa Barat 08617"
+pat40153087,"Winda Wahyuni, M.Pd",10/19/1997,(0289) 883-6715,"Gg. Rungkut Industri No. 703
+Balikpapan, Gorontalo 82483"
+pat86048385,Ismail Permadi,11/2/1991,(0047) 760-5956,"Jalan Kapten Muslihat No. 6
+Lhokseumawe, SU 99811"
+pat26572314,Heryanto Kusmawati,8/12/1994,+62 (15) 976 2536,"Gg. Jamika No. 822
+Palembang, KT 18217"
+pat40100357,Panca Nasyiah,4/8/1984,+62 (122) 054-5757,"Jl. Ciwastra No. 4
+Kota Administrasi Jakarta Barat, Sulawesi Barat 24257"
+pat90382079,Drs. Kania Yuniar,11/17/1981,+62 (937) 514 7598,"Jl. Kapten Muslihat No. 272
+Surakarta, SG 64739"
+pat38007217,"Tgk. Vega Nainggolan, S.T.",7/11/1996,(0357) 063-7494,"Gang Kiaracondong No. 410
+Cimahi, PA 96472"
+pat96907955,"Zelaya Prakasa, M.M.",5/9/1984,-10743,"Jalan Cihampelas No. 99
+Tangerang Selatan, KS 30381"
+pat59005056,Ir. Padmi Aryani,1/8/1993,(053) 079 1232,"Gg. Asia Afrika No. 12
+Blitar, Riau 31266"
+pat86375320,"Ulva Mahendra, S.E.",6/23/1994,-10806,"Jalan BKR No. 37
+Makassar, YO 45337"
+pat80468295,Prayitna Prayoga,11/23/1996,-5004,"Jl. Indragiri No. 5
+Langsa, BB 17449"
+pat31706148,Natalia Wijaya,2/25/1995,+62 (0198) 402 9330,"Gg. Asia Afrika No. 906
+Subulussalam, Bengkulu 20025"
+pat22270153,"T. Heryanto Salahudin, S.Farm",9/5/1985,-1341,"Gg. Rumah Sakit No. 587
+Tomohon, Sulawesi Tenggara 56000"
+pat28895671,Jamalia Manullang,1/19/1995,-4738,"Jalan Rawamangun No. 82
+Binjai, PA 19245"
+pat16943575,Harjasa Maheswara,1/18/1993,873742342,"Gang Ahmad Yani No. 5
+Cimahi, KU 86261"
+pat17079747,"Lega Nugroho, S.Farm",5/2/1992,+62 (035) 329 0178,"Gang Pasir Koja No. 13
+Pematangsiantar, Kalimantan Tengah 30247"
+pat48783026,"dr. Unjani Usada, S.Psi",10/28/1994,+62 (0136) 219-7744,"Gg. Cihampelas No. 54
+Tasikmalaya, Sumatera Selatan 56462"
+pat33045603,"R.M. Harjasa Sitompul, S.Kom",12/20/1992,+62 (0592) 181 4051,"Jalan Rajawali Timur No. 2
+Subulussalam, Riau 35891"
+pat27421758,drg. Bakti Sihotang,9/21/1987,+62 (0752) 180-6267,"Gang Kutai No. 9
+Banjar, KS 87312"
+pat60237620,Prayoga Aryani,2/15/1982,-2697,"Gang Bangka Raya No. 93
+Ternate, Maluku 98410"
+pat90900594,Halima Pangestu,10/6/1981,+62 (0806) 018 0060,"Gang Kutai No. 818
+Madiun, Kalimantan Barat 87421"
+pat46847713,Hj. Fitria Megantara,10/20/2000,+62 (15) 115 5354,"Gg. R.E Martadinata No. 2
+Manado, Bengkulu 14734"
+pat03852361,Aisyah Kusumo,7/17/1985,-1756,"Jl. Wonoayu No. 90
+Meulaboh, SB 50403"
+pat58687383,Kamila Rahimah,6/6/1991,+62 (237) 837-1781,"Gang Waringin No. 8
+Manado, Jawa Timur 59725"
+pat79135061,Intan Permata,8/22/1985,+62 (0930) 324-2111,"Jalan Sukabumi No. 733
+Kotamobagu, Kalimantan Utara 66632"
+pat51683542,Winda Waluyo,3/30/1997,+62 (055) 176 9845,"Gg. Moch. Ramdan No. 5
+Bima, Lampung 04815"
+pat37956509,Luis Simbolon,9/3/1989,-7731,"Jalan Erlangga No. 935
+Kota Administrasi Jakarta Timur, SS 85578"
+pat26786322,"KH. Yoga Kuswandari, S.Ked",11/26/2000,(0433) 349 5349,"Jalan Pasir Koja No. 077
+Tegal, BA 44460"
+pat72310328,Fitria Usamah,4/9/1987,+62 (16) 416 9879,"Jalan HOS. Cokroaminoto No. 6
+Dumai, Sumatera Selatan 49830"
+pat47272132,Zizi Irawan,6/29/1995,+62 (78) 563 5876,"Jalan Gegerkalong Hilir No. 906
+Lubuklinggau, SU 76085"
+pat27680209,Alika Irawan,2/23/1988,-4201,"Gang Jamika No. 98
+Parepare, JA 80630"
+pat15780461,"Kiandra Widodo, S.H.",6/3/1994,-8591,"Jl. Yos Sudarso No. 404
+Palu, YO 50364"
+pat27771709,Vicky Marpaung,12/22/1998,(0173) 973-1491,"Jalan Pacuan Kuda No. 5
+Tegal, LA 69106"
+pat96259405,Putri Pangestu,5/31/1995,+62 (0675) 881 5733,"Gang Ciwastra No. 6
+Kota Administrasi Jakarta Barat, Kalimantan Barat 72176"
+pat09893146,Drs. Embuh Sitompul,6/20/1981,+62 (0430) 231-7550,"Jalan Medokan Ayu No. 596
+Tebingtinggi, Sumatera Utara 90239"
+pat59629221,Raisa Iswahyudi,4/14/1984,(0032) 716-7091,"Gg. H.J Maemunah No. 34
+Pasuruan, Sumatera Barat 30953"
+pat54611535,Ida Putra,11/22/1993,803296386,"Gg. Kapten Muslihat No. 64
+Palopo, Maluku Utara 13278"
+pat44356163,KH. Darmanto Wahyuni,2/19/1980,+62 (13) 636 8423,"Jalan Kebonjati No. 1
+Kupang, Sulawesi Selatan 56740"
+pat00858939,Darmaji Simanjuntak,2/2/1994,-10094,"Jalan Rumah Sakit No. 880
+Kediri, Riau 59912"
+pat62265423,"Aris Gunarto, S.Gz",2/8/1997,(000) 580 2524,"Jl. Indragiri No. 061
+Bogor, Nusa Tenggara Timur 60481"
+pat75661311,dr. Tiara Saptono,7/16/1993,(046) 557 1886,"Gg. Waringin No. 079
+Pekalongan, Jawa Tengah 39734"
+pat13025502,Ilyas Narpati,6/5/1998,(0176) 313 9407,"Jl. Sukabumi No. 880
+Palangkaraya, KB 66808"
+pat89185339,Hana Oktaviani,2/5/1989,-2943,"Jl. Pasir Koja No. 57
+Bau-Bau, Jawa Barat 64771"
+pat91886675,Cahyadi Anggraini,12/1/1991,-7598,"Jl. Stasiun Wonokromo No. 21
+Bengkulu, BB 58723"
+pat53480132,Dewi Manullang,10/30/1994,-7451,"Gg. Rawamangun No. 69
+Mojokerto, Kalimantan Timur 73313"
+pat17977395,Mala Haryanti,5/20/1990,-5086,"Jalan Cikapayang No. 9
+Kendari, SB 43008"
+pat61453890,Kemal Hidayat,9/3/1991,(0731) 702 3153,"Gang Gedebage Selatan No. 25
+Padang, DKI Jakarta 96130"
+pat24558808,R. Bakijan Puspita,12/6/1995,+62 (062) 458 5925,"Gg. Jamika No. 7
+Pangkalpinang, AC 60155"
+pat73053552,"Hj. Nurul Hartati, S.E.",11/7/1987,-4641,"Jalan Jend. Sudirman No. 03
+Subulussalam, Papua 05563"
+pat77697585,Ulya Oktaviani,9/21/1982,-4608,"Gang S. Parman No. 9
+Banjarbaru, AC 99991"
+pat15203496,"Wulan Tarihoran, S.Pd",11/29/1986,-6091,"Gang Surapati No. 43
+Binjai, Sulawesi Selatan 44147"
+pat00250177,Gambira Pratama,5/22/1988,+62 (30) 108 3041,"Jl. Sukajadi No. 2
+Manado, Gorontalo 11952"
+pat67828623,Mutia Pangestu,4/2/1987,-5338,"Gang K.H. Wahid Hasyim No. 8
+Banjar, Kalimantan Barat 41160"
+pat24327824,Olivia Suartini,9/13/1997,-3831,"Jalan Jend. A. Yani No. 530
+Lhokseumawe, SS 08163"
+pat57064567,Dasa Prasasta,4/8/1999,+62 (93) 184 4801,"Jalan BKR No. 8
+Tasikmalaya, KI 82719"
+pat73514015,"Wawan Nasyiah, S.H.",9/29/1986,-10450,"Gang Merdeka No. 91
+Surabaya, Maluku 43048"
+pat36906628,H. Gilang Mandala,4/20/1990,(0541) 273-3779,"Jl. Raya Setiabudhi No. 309
+Langsa, Papua 74093"
+pat29983551,"Darijan Mayasari, M.Ak",5/23/1987,+62 (056) 977 8010,"Jalan HOS. Cokroaminoto No. 4
+Padangpanjang, JB 91166"
+pat39801500,KH. Jail Riyanti,7/27/1990,826037304,"Jalan Otto Iskandardinata No. 2
+Jambi, Banten 97883"
+pat74508365,"Drs. Winda Handayani, S.Ked",7/16/1999,-5214,"Gg. Ir. H. Djuanda No. 55
+Balikpapan, Jambi 93334"
+pat34099100,Bahuwirya Mustofa,1/30/1988,+62 (017) 408 6208,"Gang PHH. Mustofa No. 098
+Madiun, Kalimantan Barat 47571"
+pat33952307,Mahdi Mayasari,1/4/1982,-6062,"Jl. Sadang Serang No. 648
+Surabaya, Nusa Tenggara Barat 88760"
+pat68388089,Zaenab Hastuti,9/24/1998,+62 (59) 385-4354,"Gg. Ahmad Dahlan No. 937
+Ternate, Kalimantan Barat 65575"
+pat57277776,"Gamblang Haryanti, S.Pt",3/18/1982,+62 (970) 597-3764,"Gg. Pasirkoja No. 651
+Madiun, Nusa Tenggara Timur 42330"
+pat73724872,Aurora Marpaung,12/3/1997,+62 (096) 190 9159,"Gg. Sadang Serang No. 6
+Tangerang Selatan, NB 66738"
+pat08302205,Silvia Padmasari,7/30/1994,+62 (0943) 546 7446,"Jl. Tebet Barat Dalam No. 3
+Sawahlunto, KT 35546"
+pat43458493,"Drs. Bakti Pradipta, S.Farm",4/3/1993,-8756,"Jalan Monginsidi No. 9
+Manado, MA 58829"
+pat13070434,Lasmono Purnawati,11/9/1982,+62 (095) 162-8531,"Jl. Cikutra Timur No. 7
+Metro, JK 91507"
+pat15391360,dr. Reksa Prasetya,8/30/1988,+62 (036) 802 3415,"Gang K.H. Wahid Hasyim No. 69
+Jayapura, MU 85636"
+pat70594416,Umi Yulianti,5/8/1996,+62 (084) 309 7913,"Gang Pasir Koja No. 6
+Jayapura, Kalimantan Utara 90855"
+pat28740773,dr. Maryadi Lazuardi,12/24/1990,-10638,"Gang Abdul Muis No. 528
+Malang, YO 03953"
+pat50612987,"Dr. Kartika Napitupulu, M.M.",6/10/1992,-4761,"Jl. Kebonjati No. 6
+Subulussalam, Bali 12621"
+pat28419136,Ghani Ramadan,3/16/1981,+62 (0829) 090 8039,"Jalan Raya Ujungberung No. 259
+Lhokseumawe, KB 56511"
+pat61663831,"Rahman Hariyah, M.M.",7/12/1996,(0929) 488 4086,"Gang Merdeka No. 746
+Pekanbaru, Nusa Tenggara Barat 52656"
+pat46750105,"H. Dono Januar, M.Ak",2/4/1991,080 691 6684,"Jalan Medokan Ayu No. 8
+Cimahi, Nusa Tenggara Barat 21984"
+pat94286168,Naradi Pratama,1/19/1990,-5313,"Gang Lembong No. 7
+Pekanbaru, Lampung 44245"
+pat41130551,Jefri Suryatmi,10/21/1983,(090) 800 9290,"Jalan Medokan Ayu No. 392
+Probolinggo, SU 68612"
+pat74108008,"Oliva Lestari, S.T.",1/18/1998,+62 (011) 596-8725,"Jl. Pasir Koja No. 78
+Bontang, ST 86114"
+pat01816723,R. Fitria Hastuti,2/27/1997,-5646,"Jl. Soekarno Hatta No. 442
+Salatiga, Sulawesi Utara 91368"
+pat91040619,Ophelia Wacana,4/24/1999,-10441,"Jalan Gegerkalong Hilir No. 3
+Tanjungbalai, MU 12351"
+pat05139583,Garda Puspasari,12/26/1988,-1970,"Jalan Cihampelas No. 845
+Purwokerto, SB 89444"
+pat92645899,dr. Opung Utami,8/13/1993,+62 (0890) 557-1148,"Jl. Kebonjati No. 064
+Tual, Sumatera Selatan 05596"
+pat49963205,Lidya Mulyani,8/12/1988,+62 (005) 960 6363,"Gg. Rajawali Timur No. 2
+Padang Sidempuan, Jambi 20018"
+pat01689693,"Ami Iswahyudi, S.IP",5/30/1984,+62 (088) 267 5944,"Gg. Kutisari Selatan No. 730
+Bitung, Papua Barat 69516"
+pat16724969,Raihan Yolanda,2/11/1993,081 471 9388,"Jalan Erlangga No. 81
+Tidore Kepulauan, LA 62026"
+pat63617696,Nova Laksita,2/18/1996,+62 (17) 865-9013,"Gg. Jakarta No. 211
+Semarang, Sulawesi Utara 54947"
+pat14064517,"Niyaga Riyanti, S.Sos",9/23/1980,(0377) 179 7351,"Gg. Sadang Serang No. 0
+Palangkaraya, Sumatera Barat 26985"
+pat49207620,Hj. Syahrini Simbolon,10/11/1984,+62 (008) 454-3066,"Jalan Cihampelas No. 031
+Purwokerto, KT 67778"
+pat74518654,Rahmi Prabowo,11/6/1984,+62 (10) 398 1836,"Jalan Medokan Ayu No. 624
+Surakarta, LA 05819"
+pat71822785,"drg. Zamira Kusumo, S.T.",7/28/1992,-2894,"Gang Dipatiukur No. 292
+Meulaboh, Riau 21000"
+pat73820406,"Calista Utami, S.Pt",10/18/2000,-5028,"Gang S. Parman No. 261
+Jambi, NT 73858"
+pat53976857,Sari Hutapea,3/8/1981,+62 (89) 145 5890,"Gg. Joyoboyo No. 4
+Kotamobagu, Maluku Utara 87004"
+pat95951409,Julia Wahyuni,9/9/1991,856519489,"Jalan Jend. Sudirman No. 77
+Pekanbaru, YO 54220"
+pat01209815,Mustika Usada,5/20/1984,(077) 091 4318,"Jalan Laswi No. 474
+Tegal, SR 43834"
+pat88716145,Jagaraga Irawan,2/28/1990,+62 (0619) 805 6151,"Jalan Kebonjati No. 71
+Subulussalam, Gorontalo 19477"
+pat73474388,"Ir. Olivia Sihombing, M.Pd",12/30/1995,(0638) 172-9546,"Jl. Tebet Barat Dalam No. 14
+Sungai Penuh, KS 48410"
+pat01438680,"Drs. Luluh Putra, M.TI.",2/6/1992,(0919) 389 1521,"Gg. Cihampelas No. 135
+Probolinggo, Sumatera Utara 13372"
+pat45392207,"Arta Manullang, M.TI.",6/13/1983,-5441,"Jalan Rajawali Timur No. 29
+Jambi, Maluku 47181"
+pat06089894,"Yunita Putra, S.H.",4/7/1998,(042) 770 9873,"Jl. Rajiman No. 0
+Bima, Jawa Tengah 39657"
+pat25601299,Alika Saputra,10/17/1986,(0239) 550 5190,"Gg. Gegerkalong Hilir No. 11
+Kota Administrasi Jakarta Selatan, NT 41519"
+pat98773565,Marsudi Lailasari,9/6/1998,(0452) 525 4818,"Jl. Otto Iskandardinata No. 20
+Padangpanjang, Maluku 10947"
+pat96446140,Salman Jailani,9/9/2000,082 072 2104,"Gang Kendalsari No. 48
+Bengkulu, KT 83874"
+pat80553779,Cici Hidayanto,10/15/1984,+62 (073) 066 9874,"Gang Gedebage Selatan No. 4
+Medan, MA 83677"
+pat63080544,Garan Prasetya,2/7/1985,(0153) 521 1278,"Jalan Raya Ujungberung No. 1
+Kota Administrasi Jakarta Selatan, Sulawesi Barat 14239"
+pat77566522,Calista Budiyanto,1/28/1996,(0087) 726 1195,"Gg. Raya Ujungberung No. 12
+Palopo, Maluku Utara 34348"
+pat53788276,Ikin Yolanda,8/14/1982,-1796,"Jalan Otto Iskandardinata No. 64
+Palopo, NT 74386"
+pat56617634,"Bajragin Prakasa, S.IP",11/18/1980,-6262,"Gg. Gegerkalong Hilir No. 76
+Kota Administrasi Jakarta Selatan, Kepulauan Riau 54644"
+pat18390308,"Hj. Julia Budiyanto, S.Sos",10/17/1985,083 442 6226,"Jalan Dipenogoro No. 854
+Banjarmasin, Nusa Tenggara Timur 15501"
+pat31679510,R. Jessica Waluyo,12/3/1999,-10864,"Jalan BKR No. 219
+Banjarmasin, JA 41971"
+pat71801544,Gantar Winarno,4/15/1998,+62 (088) 090 4529,"Gg. Suniaraja No. 4
+Tanjungpinang, Jawa Barat 06246"
+pat58086728,Prayogo Wahyudin,7/30/1988,-172,"Gang H.J Maemunah No. 198
+Sukabumi, Kalimantan Utara 41614"
+pat01474510,R.M. Maryadi Laksmiwati,6/2/1985,(014) 033 6154,"Gg. M.T Haryono No. 412
+Kota Administrasi Jakarta Utara, Gorontalo 59093"
+pat49074925,"Cut Siti Mardhiyah, S.Gz",1/20/1995,(0590) 205-1863,"Jl. HOS. Cokroaminoto No. 7
+Solok, Lampung 46561"
+pat99639952,Dina Januar,2/4/1995,+62 (40) 863-6095,"Gang KH Amin Jasuta No. 04
+Bima, PB 86216"
+pat68401306,"Nasrullah Wibowo, M.M.",3/29/1991,(030) 713-9698,"Gg. Veteran No. 6
+Subulussalam, Kalimantan Timur 38188"
+pat20618384,KH. Caturangga Melani,4/19/1995,+62 (0149) 936 7536,"Jl. Rawamangun No. 605
+Madiun, Nusa Tenggara Barat 76882"
+pat77344847,"drg. Yance Salahudin, M.Pd",6/24/1999,+62 (089) 957-5250,"Jl. Veteran No. 55
+Bau-Bau, MA 87147"
+pat41905715,Kasiyah Wibowo,4/4/1991,+62 (0832) 438 8903,"Gang Pasir Koja No. 7
+Salatiga, Kalimantan Barat 94208"
+pat81683420,Drs. Kayla Maulana,6/25/1990,(081) 632-2629,"Jalan Rumah Sakit No. 68
+Lubuklinggau, Maluku 79854"
+pat63879377,"Shania Januar, S.Psi",3/7/1981,+62 (368) 396 5100,"Jl. Rajawali Barat No. 865
+Kupang, JT 57970"
+pat38145339,Gara Widodo,1/29/1981,+62 (72) 179 3372,"Jalan Rajiman No. 1
+Lhokseumawe, Sumatera Selatan 86990"
+pat68461799,Prima Firmansyah,9/19/1992,+62 (0292) 736-6674,"Gg. Sukabumi No. 252
+Solok, Sulawesi Tengah 01826"
+pat46073853,Winda Hutapea,10/8/1984,(0968) 962 7222,"Gg. M.T Haryono No. 3
+Yogyakarta, Kepulauan Riau 20199"
+pat63998757,Dalima Winarsih,4/17/1993,-6936,"Jalan Gardujati No. 04
+Blitar, Sulawesi Tengah 87413"
+pat91704047,Opan Rahayu,1/31/1983,-6109,"Jalan Jayawijaya No. 027
+Probolinggo, Jambi 98625"
+pat65162118,"Ridwan Gunawan, S.Sos",8/21/1981,+62 (116) 212 8211,"Gg. Tubagus Ismail No. 17
+Langsa, Sulawesi Tengah 46469"
+pat38301964,Laksana Maulana,8/11/1999,+62 (089) 937 1282,"Jalan Siliwangi No. 3
+Mojokerto, DKI Jakarta 32032"
+pat29537501,Reza Pratama,10/23/1982,+62 (78) 152-2260,"Gang Suryakencana No. 27
+Medan, SU 51355"
+pat92737594,Gatot Mandala,9/6/1996,+62 (384) 730 9266,"Gg. Asia Afrika No. 1
+Batam, Nusa Tenggara Timur 88824"
+pat32585919,Raden Nuraini,3/19/1989,+62 (015) 089-9843,"Jl. Kutai No. 747
+Solok, Kalimantan Tengah 36275"
+pat45763434,Zahra Namaga,9/17/1990,-10259,"Jalan Rungkut Industri No. 469
+Palembang, BB 02395"
+pat48587228,R.M. Cengkir Nashiruddin,4/5/1981,-5676,"Gg. Lembong No. 8
+Bengkulu, Kalimantan Selatan 97134"
+pat41628898,Jail Saragih,12/24/1989,-10446,"Gang Wonoayu No. 326
+Pangkalpinang, Nusa Tenggara Timur 66274"
+pat90773754,Dinda Wulandari,6/22/1985,+62 (0020) 956-5884,"Jl. Moch. Ramdan No. 77
+Bitung, Nusa Tenggara Timur 38684"
+pat18194142,Ade Pranowo,11/6/1997,-618,"Jl. Raya Ujungberung No. 174
+Tangerang Selatan, KI 94858"
+pat36353798,"Ilsa Suwarno, S.Ked",6/10/1989,+62 (20) 858 6020,"Gang Gedebage Selatan No. 68
+Tual, SS 86017"
+pat26280349,Mahesa Situmorang,6/29/1987,-1245,"Jl. Tubagus Ismail No. 41
+Cirebon, DKI Jakarta 91550"
+pat44106232,Cakrabirawa Iswahyudi,10/25/1990,+62 (374) 371 7541,"Gg. Otto Iskandardinata No. 6
+Padang Sidempuan, SB 11162"
+pat45617973,"Maida Mandasari, M.TI.",4/24/1981,+62 (054) 403 3941,"Jalan Rajawali Timur No. 03
+Semarang, BB 17614"
+pat65563212,Hj. Iriana Fujiati,4/13/1980,(003) 691 5189,"Jalan Yos Sudarso No. 23
+Cilegon, YO 03758"
+pat16894341,Tina Wastuti,3/23/1982,(0219) 121-6827,"Jl. Tebet Barat Dalam No. 3
+Singkawang, Kalimantan Barat 83447"
+pat13854485,"R. Syahrini Nuraini, S.E.",10/31/1992,+62 (63) 232-3557,"Gg. Pasir Koja No. 2
+Lhokseumawe, KI 69306"
+pat47656925,"dr. Hani Sihombing, S.H.",1/30/1992,+62 (981) 888 2339,"Jl. Erlangga No. 439
+Solok, AC 43978"
+pat23587595,Karna Halimah,10/18/1996,+62 (738) 697-1849,"Gg. Gedebage Selatan No. 1
+Kupang, JI 00141"
+pat79498678,"Nasrullah Pudjiastuti, S.Kom",5/27/1981,-9086,"Jalan Kiaracondong No. 9
+Singkawang, ST 93143"
+pat04029175,"Jail Manullang, S.Psi",8/28/1989,-3522,"Jl. Pelajar Pejuang No. 248
+Semarang, Sulawesi Utara 34704"
+pat75213763,"Ratna Hutagalung, S.Farm",10/9/1999,+62 (0619) 944-3692,"Gg. Rawamangun No. 4
+Kediri, BB 26853"
+pat92763234,Puti Septi Najmudin,10/17/1997,+62 (053) 638 5784,"Gg. Cikutra Timur No. 475
+Tarakan, Jawa Timur 49825"
+pat29208753,Daliono Nasyidah,3/27/1998,(011) 446 9612,"Jalan Rajiman No. 52
+Surakarta, BB 95306"
+pat30708204,Dacin Saefullah,6/17/1999,(040) 549 6713,"Jl. Merdeka No. 4
+Parepare, GO 24909"
+pat66941811,Laila Suryono,4/3/2000,086 682 8171,"Jl. Raya Setiabudhi No. 007
+Bogor, Sulawesi Barat 24441"
+pat86814416,dr. Gatot Wahyuni,6/10/1999,+62 (097) 562 8407,"Gang Pelajar Pejuang No. 324
+Bengkulu, KR 73931"
+pat88085449,Warsita Aryani,4/24/1982,856061895,"Gg. Raya Setiabudhi No. 412
+Kediri, BT 43165"
+pat17414326,Vanya Kusumo,11/5/1983,+62 (0346) 260 2365,"Gang Indragiri No. 4
+Banda Aceh, SU 93448"
+pat65634608,"Maryanto Saefullah, S.Kom",11/10/1988,+62 (784) 588-2604,"Jl. Ronggowarsito No. 385
+Bandar Lampung, BA 72392"
+pat73474630,"Makuta Halim, S.E.",8/20/1986,803770752,"Jalan Sukajadi No. 10
+Kota Administrasi Jakarta Selatan, SR 89158"
+pat83401169,"Wisnu Hutagalung, S.I.Kom",4/20/1998,085 816 3846,"Jalan Rumah Sakit No. 0
+Sabang, Jawa Barat 12499"
+pat85338012,"Hartaka Hakim, S.Ked",8/11/1990,+62 (737) 715 9952,"Jalan Astana Anyar No. 81
+Blitar, NB 10350"
+pat17814546,Gatra Prayoga,4/12/1990,+62 (0987) 493-1543,"Gg. Waringin No. 72
+Pontianak, KU 17362"
+pat41298473,Ghani Dongoran,8/1/1996,-7844,"Jl. Ir. H. Djuanda No. 1
+Bukittinggi, BE 49170"
+pat28640134,R.M. Galur Utama,11/1/1998,+62 (088) 249-3089,"Gg. Rajiman No. 9
+Pariaman, JI 94608"
+pat96305096,Suci Suartini,1/27/1994,+62 (210) 657 6950,"Gg. Surapati No. 02
+Tanjungbalai, SU 52540"
+pat04769309,Ir. Sakti Santoso,8/20/1999,(0710) 401-5552,"Gg. Pelajar Pejuang No. 82
+Medan, Sumatera Utara 99189"
+pat77902030,Ir. Ratih Saptono,2/7/1991,+62 (42) 495-7290,"Jalan Peta No. 603
+Langsa, SB 20937"
+pat09892262,Irsad Firmansyah,5/31/1996,-5557,"Jl. Rungkut Industri No. 134
+Pariaman, Nusa Tenggara Timur 57205"
+pat43152568,"Drs. Ajeng Puspita, S.Pt",2/14/1983,-10013,"Gang Sadang Serang No. 8
+Banda Aceh, JK 80687"
+pat87640212,"Banawa Irawan, M.Pd",4/16/1999,-4960,"Jalan BKR No. 9
+Cimahi, Banten 14460"
+pat97778622,Rahmi Tamba,2/25/1987,+62 (068) 816-2901,"Jl. PHH. Mustofa No. 394
+Parepare, KB 23384"
+pat88892030,Cahyono Pradana,9/16/1995,(051) 491 9763,"Gang Peta No. 4
+Magelang, Sumatera Selatan 11993"
+pat22245526,Raihan Budiman,1/4/1994,+62 (530) 949-6544,"Jl. Raya Setiabudhi No. 515
+Bandar Lampung, DKI Jakarta 08410"
+pat05240647,Elvin Budiman,3/4/1998,080 229 0132,"Jalan Cihampelas No. 0
+Bandung, JT 88483"
+pat75627362,Mutia Prayoga,10/10/1994,-5094,"Jl. Gardujati No. 96
+Tangerang, Maluku 11806"
+pat93300421,"R.M. Karsa Mandala, S.Ked",6/10/1980,-8129,"Jl. Surapati No. 83
+Medan, Banten 12694"
+pat77333179,"Carla Lestari, S.Sos",10/9/1999,+62 (006) 867 1156,"Jalan Gardujati No. 75
+Tebingtinggi, SG 77861"
+pat36530403,Cut Sari Usamah,4/4/1993,086 779 1541,"Gang Pasteur No. 29
+Pematangsiantar, BA 48568"
+pat65959510,Kiandra Saragih,2/7/1991,(0346) 123 1268,"Gg. W.R. Supratman No. 627
+Sungai Penuh, Jawa Tengah 26538"
+pat13274276,Hafshah Nainggolan,10/24/1997,-8621,"Gang Rungkut Industri No. 2
+Kota Administrasi Jakarta Pusat, JK 56041"
+pat83265075,"Hj. Intan Hidayat, M.Kom.",2/27/1985,(017) 707 2726,"Jalan Rawamangun No. 78
+Tidore Kepulauan, JT 44532"
+pat54386747,Maya Hardiansyah,12/21/1997,+62 (0118) 950 5663,"Jalan Joyoboyo No. 13
+Singkawang, Jambi 26168"
+pat56889604,Tgk. Intan Yolanda,12/25/1998,(0538) 178 5320,"Jalan Merdeka No. 5
+Kota Administrasi Jakarta Pusat, SB 11879"
+pat78852259,Paris Maulana,9/1/1984,+62 (0857) 133-9542,"Gg. Dipenogoro No. 2
+Balikpapan, DKI Jakarta 61018"
+pat32725346,Dt. Galiono Nababan,8/23/1996,(0758) 193-4067,"Gang Raya Ujungberung No. 514
+Padang, Sumatera Barat 07019"
+pat02750583,Puti Yunita Prasetya,11/25/1991,(0776) 011 8343,"Gang Pasir Koja No. 89
+Padangpanjang, SU 87957"
+pat61765535,Slamet Widodo,7/2/1993,826934997,"Jl. Astana Anyar No. 2
+Medan, Sumatera Barat 76905"
+pat47509405,Dimas Nuraini,5/21/1983,-9422,"Gg. HOS. Cokroaminoto No. 91
+Samarinda, Nusa Tenggara Barat 19065"
+pat84884558,Wani Riyanti,12/7/1996,+62 (75) 803 8031,"Gg. Kiaracondong No. 854
+Palopo, JB 60718"
+pat12375646,Diah Zulaika,5/18/1994,839171868,"Jl. Merdeka No. 86
+Palangkaraya, Papua 39067"
+pat62403429,"R. Hafshah Farida, S.Kom",3/16/1984,+62 (461) 915 2016,"Gg. Sadang Serang No. 5
+Pematangsiantar, MU 59227"
+pat11106937,Indah Damanik,4/25/1999,+62 (375) 633 8816,"Jalan Kutai No. 04
+Bitung, BT 19268"
+pat40977942,Hasna Usamah,8/24/1990,-9319,"Jalan Laswi No. 03
+Tanjungpinang, BB 36964"
+pat22028709,Bala Gunawan,6/12/1995,+62 (23) 844-2542,"Jalan Cikutra Timur No. 04
+Cimahi, Sulawesi Tengah 28555"
+pat00320849,Ayu Mardhiyah,9/2/1994,+62 (035) 097-2786,"Jl. Sentot Alibasa No. 41
+Bengkulu, Kepulauan Riau 33959"
+pat83887840,Ratih Novitasari,9/7/1989,+62 (48) 312 0424,"Gang Pelajar Pejuang No. 27
+Lubuklinggau, PB 33956"
+pat86588645,Daruna Sihotang,8/9/1985,-2265,"Gg. Yos Sudarso No. 14
+Sorong, Kalimantan Barat 87141"
+pat63621068,Adhiarja Maulana,3/12/1992,+62 (858) 757 2243,"Gg. Antapani Lama No. 45
+Binjai, Jawa Tengah 67223"
+pat20070601,"drg. Ulva Suryatmi, S.E.",4/12/1994,+62 (71) 117-5454,"Jalan M.H Thamrin No. 71
+Kupang, LA 20491"
+pat52972126,Ibrani Prakasa,11/25/1981,+62 (780) 875-5841,"Jalan Pelajar Pejuang No. 06
+Serang, Maluku Utara 80495"
+pat50767229,Iriana Wahyudin,4/27/1994,+62 (496) 163-3960,"Jalan BKR No. 68
+Padang, Riau 88654"
+pat69053153,"R. Murti Saputra, S.E.",2/8/1992,+62 (091) 472-6496,"Gg. Indragiri No. 037
+Cirebon, BE 98570"
+pat44906986,Pranata Yolanda,4/15/1988,+62 (33) 205-9393,"Gang Rajawali Barat No. 862
+Pekanbaru, Bengkulu 50848"
+pat92018754,"dr. Maida Budiyanto, M.M.",10/15/1989,(023) 317-5652,"Jl. Peta No. 65
+Surabaya, Bali 73511"
+pat26409818,Harimurti Nurdiyanti,3/10/1996,(0270) 378 2914,"Jalan Raya Ujungberung No. 5
+Gorontalo, Jambi 24398"
+pat46572370,"R.M. Sidiq Mulyani, M.Pd",1/24/1982,-643,"Gang S. Parman No. 467
+Sawahlunto, Kepulauan Riau 13680"
+pat53476234,Chelsea Mustofa,12/4/1989,+62 (047) 223 6406,"Gang Kiaracondong No. 5
+Kotamobagu, SB 56560"
+pat44823740,"Cut Elvina Saefullah, S.Kom",11/11/1981,-4141,"Gang Jend. Sudirman No. 927
+Bitung, Aceh 32856"
+pat97008026,Oskar Sitompul,5/16/1983,+62 (0421) 345-8943,"Jalan Wonoayu No. 0
+Salatiga, NT 39768"
+pat42719748,Cahyo Dabukke,1/5/1994,(0491) 151-4643,"Gg. Ahmad Yani No. 7
+Surakarta, Sumatera Utara 99483"
+pat00821384,Ir. Lintang Nasyiah,5/25/1988,-2666,"Jalan Pasirkoja No. 961
+Kediri, KT 43800"
+pat44535841,Mursita Simbolon,10/1/1981,+62 (86) 706-1324,"Jl. Joyoboyo No. 4
+Tidore Kepulauan, Kepulauan Riau 11071"
+pat39732507,Saiful Hidayat,5/12/1987,-10770,"Gang Surapati No. 181
+Gorontalo, KU 34063"
+pat35533931,"Estiono Waskita, M.Farm",5/17/1995,(0840) 327 8432,"Jalan Otto Iskandardinata No. 45
+Meulaboh, PB 25254"
+pat61109803,T. Endra Pranowo,3/23/1993,-6278,"Gang Kebonjati No. 661
+Madiun, BT 41982"
+pat35945949,Puspa Tarihoran,9/28/1993,+62 (090) 446 7341,"Jl. Sadang Serang No. 144
+Semarang, JK 56338"
+pat50412532,Karma Dabukke,5/16/1986,-7405,"Jl. Kutai No. 2
+Batam, Sulawesi Tenggara 78507"
+pat16543386,Puji Situmorang,12/28/1982,087 694 5189,"Jalan M.T Haryono No. 2
+Bogor, Papua 30180"
+pat43046294,Tiara Firgantoro,8/30/1996,-10366,"Gang Setiabudhi No. 5
+Pematangsiantar, DI Yogyakarta 42615"
+pat53829573,"Siti Saputra, S.T.",12/29/1991,876077356,"Jl. Raya Setiabudhi No. 113
+Salatiga, KR 12936"
+pat35765240,Prasetya Hariyah,12/3/1981,(070) 998 7883,"Jalan Cikapayang No. 11
+Kota Administrasi Jakarta Selatan, Aceh 07670"
+pat99831660,Sutan Wakiman Kurniawan,1/13/1983,+62 (066) 084 8491,"Gang Sentot Alibasa No. 99
+Pagaralam, KR 33195"
+pat54967830,Tirtayasa Suryono,10/5/1989,-6789,"Gang Sukabumi No. 18
+Meulaboh, NT 46826"
+pat40228945,Zizi Wibisono,10/7/1989,-1323,"Jl. Rajawali Timur No. 3
+Batam, JK 54305"
+pat76524516,Tiara Prasasta,4/28/1987,+62 (39) 601-9931,"Jalan Rawamangun No. 68
+Bau-Bau, KS 82190"
+pat20265656,Rachel Sihotang,3/14/1986,+62 (91) 523 7461,"Gang Kendalsari No. 393
+Bekasi, SG 76765"
+pat41733530,Among Agustina,7/2/1988,+62 (0458) 147 0729,"Jalan Ronggowarsito No. 69
+Tegal, YO 03367"
+pat73171157,Hesti Maryadi,3/31/1990,(0159) 356-2306,"Gang Kutai No. 902
+Bau-Bau, Lampung 15688"
+pat66582816,Vega Pranowo,8/14/1984,+62 (56) 668 7709,"Gang Wonoayu No. 1
+Sungai Penuh, Sulawesi Selatan 63580"
+pat27389041,Tirta Nasyidah,2/1/1997,-1470,"Jalan Kebonjati No. 5
+Padang, Jawa Tengah 08472"
+pat12204014,"Dt. Gandi Aryani, S.T.",1/14/1990,(085) 534-8089,"Jl. Pelajar Pejuang No. 7
+Banjarmasin, Kalimantan Barat 81297"
+pat58454299,Harimurti Putra,11/13/1991,+62 (992) 287-5312,"Gg. Sentot Alibasa No. 7
+Lhokseumawe, KR 93418"
+pat94052190,Harjaya Fujiati,2/26/1991,-5818,"Gang Cikapayang No. 103
+Tanjungbalai, Riau 82970"
+pat79107525,Ir. Sabrina Maheswara,8/15/1990,-6420,"Jl. Kiaracondong No. 79
+Banda Aceh, BT 58382"
+pat92824058,"Dt. Wasis Mahendra, S.Sos",9/6/1994,+62 (0187) 530 8955,"Gg. Peta No. 38
+Tebingtinggi, Kalimantan Timur 91365"
+pat91295446,"Ira Prasetyo, S.E.I",2/10/1993,(011) 938-7056,"Gg. Cihampelas No. 99
+Sibolga, Kalimantan Barat 61873"
+pat61263314,Umar Yuniar,3/11/1991,+62 (02) 724 5777,"Gang Kutai No. 0
+Surabaya, Kepulauan Riau 43654"
+pat34172438,Umaya Wahyudin,1/3/1998,+62 (025) 260-9897,"Jl. Rajawali Timur No. 1
+Manado, Kalimantan Utara 49358"
+pat04694809,Ulya Kuswoyo,12/12/2000,-6965,"Jalan Siliwangi No. 48
+Banjarbaru, KR 71957"
+pat14983771,"Vivi Puspita, M.Ak",12/16/1981,-2371,"Gg. Soekarno Hatta No. 64
+Bengkulu, KU 10890"
+pat89096048,"Ir. Tira Yolanda, S.Farm",12/12/1989,+62 (10) 860-4060,"Gg. Rawamangun No. 48
+Banjar, Sulawesi Barat 30571"
+pat76029080,"Ir. Enteng Prasetyo, S.I.Kom",12/25/1995,+62 (090) 331-4774,"Gang Ahmad Dahlan No. 372
+Sawahlunto, BA 95964"
+pat91337504,Zahra Hassanah,12/4/1986,+62 (064) 670 3859,"Gang KH Amin Jasuta No. 85
+Kotamobagu, Jawa Barat 61774"
+pat05706440,"Tasnim Hariyah, S.IP",10/27/1987,+62 (034) 705-6195,"Jalan Ir. H. Djuanda No. 01
+Bandung, BE 39717"
+pat35306962,Dacin Mangunsong,6/9/1991,+62 (0188) 278-5581,"Gg. Ciwastra No. 500
+Bitung, Jawa Barat 19680"
+pat35295624,"drg. Luluh Iswahyudi, M.TI.",8/11/1992,-9407,"Jl. Tebet Barat Dalam No. 37
+Sibolga, NB 85550"
+pat34171721,Ida Zulaika,5/7/1994,-10779,"Jl. Astana Anyar No. 30
+Balikpapan, KB 81078"
+pat69900945,Balijan Mahendra,9/12/1980,-2893,"Gg. Asia Afrika No. 707
+Medan, Jawa Timur 61582"
+pat72201053,Septi Usada,7/20/1982,+62 (0447) 093 7360,"Jalan Sentot Alibasa No. 969
+Tarakan, JI 01202"
+pat43245826,Maya Simanjuntak,6/14/1982,+62 (009) 248 9540,"Jalan Dipatiukur No. 647
+Bukittinggi, Jambi 04503"
+pat29627899,"Sutan Karna Yuliarti, M.Ak",3/27/1993,-7467,"Gg. Ronggowarsito No. 00
+Langsa, KB 60032"
+pat70011272,"Sabri Wulandari, S.Sos",4/23/1985,+62 (712) 094-3864,"Jalan Setiabudhi No. 400
+Tegal, Sulawesi Selatan 01810"
+pat23871533,"Cager Nashiruddin, S.Psi",1/22/1988,+62 (28) 846-8840,"Jalan Cihampelas No. 5
+Bukittinggi, Jawa Timur 11009"
+pat50499045,"Cut Natalia Lailasari, S.Kom",9/27/1996,+62 (839) 898-3314,"Gang Raya Ujungberung No. 842
+Magelang, Kalimantan Utara 78271"
+pat24998581,Hasim Maryadi,3/3/1985,(045) 203-6997,"Gang Dipatiukur No. 4
+Cirebon, SB 41963"
+pat24891769,Perkasa Pradipta,3/25/1983,+62 (009) 906-0508,"Gang Erlangga No. 556
+Cilegon, MA 11953"
+pat03872895,"Ihsan Tamba, M.M.",12/13/1980,-11014,"Gang Pasirkoja No. 34
+Semarang, SU 68389"
+pat90556777,"Drs. Ganjaran Sitorus, S.Gz",4/16/1997,+62 (37) 743 9769,"Jl. Dipatiukur No. 07
+Sabang, NT 10838"
+pat91012920,"Cut Cici Ardianto, S.H.",7/27/2000,+62 (18) 400 8670,"Jl. Pacuan Kuda No. 23
+Prabumulih, Kalimantan Tengah 37182"
+pat05809394,drg. Zahra Pangestu,9/19/1987,-2117,"Jl. Moch. Ramdan No. 9
+Kotamobagu, KS 97137"
+pat08858290,Candrakanta Palastri,4/14/1989,-6913,"Jl. Kebonjati No. 4
+Malang, SU 11866"
+pat24669382,"Hairyanto Palastri, M.Farm",10/11/1991,-10235,"Jl. Stasiun Wonokromo No. 1
+Salatiga, GO 96613"
+pat69570698,"Tgk. Empluk Puspita, S.Pd",6/1/1982,-2104,"Jalan Laswi No. 386
+Sibolga, Bali 58998"
+pat22611710,Cornelia Gunarto,5/17/1981,+62 (099) 352-5532,"Gg. Pasirkoja No. 0
+Cilegon, Bengkulu 48636"
+pat03743942,Kemba Prastuti,3/3/1995,-2835,"Jalan M.T Haryono No. 6
+Palangkaraya, BA 55766"
+pat84445223,R.M. Legawa Santoso,10/23/1999,+62 (099) 995 4026,"Jl. R.E Martadinata No. 1
+Solok, Jambi 55355"
+pat58517703,R.A. Oni Ardianto,8/22/1999,(0714) 013 7100,"Jalan Setiabudhi No. 27
+Sawahlunto, Kalimantan Tengah 16884"
+pat36246267,"drg. Karta Novitasari, M.M.",2/24/1990,(044) 148-2583,"Jl. Gegerkalong Hilir No. 9
+Cimahi, Banten 56514"
+pat78214361,"Tari Wibowo, M.Kom.",8/17/1993,+62 (335) 457-6134,"Jalan BKR No. 62
+Cirebon, Maluku Utara 83925"
+pat05397990,"Hesti Usada, M.Farm",8/30/1991,-4674,"Jalan Ciumbuleuit No. 826
+Gorontalo, PB 49958"
+pat46474155,Atma Wibowo,8/21/1986,(0948) 515-8356,"Jl. Surapati No. 53
+Singkawang, ST 02741"
+pat37675875,Jinawi Permata,5/2/1994,+62 (075) 582-6217,"Jalan Jend. A. Yani No. 19
+Jayapura, KT 42528"
+pat77940148,"Dr. Yuni Rajasa, S.Psi",4/8/1984,+62 (52) 680 2009,"Jalan Jayawijaya No. 00
+Surabaya, PA 21418"
+pat48738613,Gawati Rahayu,4/13/1986,+62 (58) 421-0877,"Jl. Kutisari Selatan No. 43
+Blitar, JI 91005"
+pat88600130,Langgeng Tampubolon,1/27/1982,+62 (988) 841-9551,"Jalan Joyoboyo No. 86
+Prabumulih, KR 91878"
+pat64060576,Drs. Titin Rajata,11/17/1999,+62 (0087) 088-8402,"Gang Lembong No. 3
+Tangerang Selatan, AC 00211"
+pat46129208,"Bagya Santoso, M.Farm",9/14/1988,+62 (528) 008 0524,"Gg. Pelajar Pejuang No. 174
+Blitar, BA 52826"
+pat55541732,"KH. Karman Lailasari, S.T.",1/20/1980,+62 (011) 904-0935,"Jl. Dipatiukur No. 2
+Ternate, SU 36218"
+pat83146725,"Balijan Handayani, S.Farm",4/11/1986,-1518,"Gg. Yos Sudarso No. 50
+Tangerang, Jawa Barat 51179"
+pat38003660,"Karen Narpati, S.Gz",5/15/1984,(0941) 989 7124,"Gg. Pasir Koja No. 3
+Prabumulih, Kalimantan Timur 38155"
+pat58128350,Candra Kurniawan,3/14/1980,+62 (972) 503 0166,"Gg. Dipenogoro No. 6
+Kota Administrasi Jakarta Selatan, DKI Jakarta 20496"
+pat51270315,"Titin Ramadan, M.Pd",9/24/1985,+62 (92) 016-0850,"Gg. W.R. Supratman No. 497
+Palangkaraya, SS 57674"
+pat98984473,Rusman Firmansyah,8/2/1980,+62 (066) 668 1589,"Gg. Dipatiukur No. 519
+Gorontalo, Jawa Tengah 69831"
+pat01934700,Dt. Jaya Tamba,2/1/1981,+62 (55) 838 4011,"Gang Suniaraja No. 67
+Lubuklinggau, DKI Jakarta 26784"
+pat50843091,Qori Natsir,6/24/1998,(0613) 871-3884,"Gang Soekarno Hatta No. 6
+Denpasar, Jawa Tengah 07306"
+pat68735999,Bancar Simbolon,12/6/1988,(021) 508-7516,"Jalan Dipenogoro No. 9
+Binjai, Kalimantan Utara 37163"
+pat78639768,Teddy Winarsih,7/20/2000,+62 (033) 932 8400,"Jl. Asia Afrika No. 9
+Pariaman, KS 78663"
+pat27380963,Fathonah Firgantoro,10/30/1985,(0617) 386 2759,"Gg. Soekarno Hatta No. 71
+Tomohon, Sumatera Barat 41264"
+pat55989695,T. Dacin Setiawan,12/18/1991,+62 (59) 855-5565,"Jalan Kapten Muslihat No. 83
+Ambon, KU 22765"
+pat60234438,Teddy Pertiwi,2/24/1992,+62 (0096) 530 9471,"Jl. Raya Setiabudhi No. 2
+Kendari, KI 20591"
+pat51991159,Intan Usada,3/30/1982,+62 (45) 323 7801,"Jalan Rajawali Barat No. 399
+Sukabumi, ST 23407"
+pat81530694,"Talia Mangunsong, S.T.",4/30/1994,(0642) 575-3812,"Gang Cikutra Barat No. 585
+Padangpanjang, SN 18149"
+pat36586233,Vanesa Prayoga,9/8/1996,+62 (117) 360-9129,"Jl. Laswi No. 419
+Tangerang Selatan, Kalimantan Utara 21825"
+pat52286629,Shakila Wacana,9/20/1987,+62 (007) 773-2094,"Jl. Wonoayu No. 29
+Banjarbaru, PA 46144"
+pat87689181,Mustika Jailani,9/18/1994,+62 (108) 110 3028,"Jl. R.E Martadinata No. 10
+Kediri, RI 36391"
+pat34361771,"Dariati Prasetya, S.H.",4/18/1988,-7492,"Jl. Cihampelas No. 0
+Palangkaraya, Kalimantan Timur 64906"
+pat46823274,Zamira Gunarto,3/19/1986,+62 (605) 787-4378,"Jalan Cihampelas No. 72
+Padangpanjang, Kalimantan Tengah 30951"
+pat91639813,H. Gaiman Safitri,9/3/1986,+62 (361) 645 6668,"Gg. Waringin No. 97
+Cirebon, KT 32454"
+pat70852691,"Puti Michelle Puspita, S.I.Kom",7/7/1980,-9634,"Jalan Antapani Lama No. 877
+Bandar Lampung, SS 66931"
+pat19563794,"Sutan Dwi Rahmawati, S.E.",7/16/1988,+62 (0578) 134-1044,"Gg. Joyoboyo No. 2
+Cirebon, DKI Jakarta 44408"
+pat80041696,Kayla Rajata,9/9/1990,+62 (15) 765 9265,"Gang Ciumbuleuit No. 69
+Purwokerto, KT 99674"
+pat42015147,"Yono Laksita, S.IP",12/4/1997,-7726,"Jalan Cihampelas No. 58
+Kota Administrasi Jakarta Pusat, BA 90705"
+pat49940497,"Violet Waluyo, M.Kom.",11/2/1983,+62 (80) 947-9295,"Gang Joyoboyo No. 4
+Mataram, Sulawesi Utara 38060"
+pat64096728,"Violet Megantara, S.Pt",7/28/1980,(0306) 524-7274,"Jl. Lembong No. 4
+Pekalongan, SR 05708"
+pat38412196,Paulin Marpaung,11/12/1985,800518543,"Gg. Joyoboyo No. 1
+Kediri, JT 55553"
+pat00301169,Chelsea Saragih,12/16/1989,+62 (53) 183-6639,"Gg. K.H. Wahid Hasyim No. 2
+Sabang, PB 34867"
+pat55025935,Sabri Putra,4/30/1980,(0467) 911 3014,"Jalan Gegerkalong Hilir No. 1
+Tanjungbalai, Sulawesi Tengah 46494"
+pat72920473,"Tgk. Elisa Prakasa, M.Kom.",11/27/1980,808368339,"Jalan Kendalsari No. 2
+Salatiga, BA 43385"
+pat37218737,R.M. Raihan Hutapea,8/1/1990,(046) 178 0434,"Jalan Setiabudhi No. 0
+Jayapura, PA 27486"
+pat90729904,Bagya Manullang,4/6/1996,(0928) 525-8842,"Gg. Kiaracondong No. 5
+Palopo, Aceh 89971"
+pat48470858,"Sutan Candrakanta Situmorang, S.Farm",10/7/1982,081 241 7509,"Gang Kendalsari No. 188
+Lhokseumawe, KU 67076"
+pat81061402,Capa Oktaviani,3/20/2000,(0707) 870 2936,"Gg. Pacuan Kuda No. 076
+Pematangsiantar, BT 50991"
+pat64576398,"Sutan Ajiman Nasyidah, S.Kom",10/19/1994,+62 (342) 284-1142,"Jl. Cikutra Barat No. 269
+Makassar, Kalimantan Barat 80270"
+pat53252852,Cornelia Winarsih,6/19/1994,+62 (25) 684-6737,"Jalan Kutai No. 333
+Yogyakarta, SU 58932"
+pat95749952,"Rafid Farida, M.Ak",10/14/2000,+62 (57) 746-3363,"Jl. Laswi No. 1
+Depok, SB 90188"
+pat99089887,"Cemeti Thamrin, S.I.Kom",10/23/1999,(014) 895 2989,"Jalan Stasiun Wonokromo No. 578
+Serang, Jawa Tengah 52180"
+pat82870041,"Gamanto Kusmawati, S.H.",11/15/1989,-4031,"Gg. Ciumbuleuit No. 38
+Pekanbaru, Sulawesi Barat 01239"
+pat62799928,Cindy Wijaya,10/31/1988,+62 (0523) 823-1604,"Gg. Sentot Alibasa No. 5
+Tangerang Selatan, BA 55215"
+pat60062369,"Tgk. Oni Pertiwi, M.Farm",6/2/1984,(0860) 908 8181,"Jalan Ahmad Yani No. 08
+Kotamobagu, Jawa Barat 93204"
+pat17593274,Gabriella Laksmiwati,9/20/1998,+62 (038) 986 4602,"Jalan Gegerkalong Hilir No. 3
+Tual, BA 89955"
+pat25239577,Jamal Budiyanto,1/11/1989,(0662) 436-3308,"Gg. Ciwastra No. 156
+Tual, Bengkulu 85296"
+pat04465966,"drg. Endah Wijaya, M.TI.",2/17/1996,(0167) 464-6332,"Gang Ciumbuleuit No. 5
+Tanjungbalai, SU 92126"
+pat99112325,"Cut Ulva Purwanti, S.Pd",9/3/1981,+62 (25) 795 5795,"Gg. Bangka Raya No. 37
+Jambi, SU 14901"
+pat90334573,"Ir. Vanya Dongoran, S.Psi",1/12/1980,-5619,"Jalan Antapani Lama No. 250
+Samarinda, Nusa Tenggara Barat 89123"
+pat48118699,Queen Saragih,5/19/1987,+62 (29) 030-5199,"Jl. Abdul Muis No. 8
+Tidore Kepulauan, KI 95677"
+pat55226714,"Kenari Usamah, S.Pd",4/6/1996,-4505,"Gang Rajawali Timur No. 27
+Bau-Bau, Banten 50713"
+pat33322667,Wulan Puspita,4/9/1984,+62 (088) 195 5085,"Gg. Pasteur No. 9
+Tanjungpinang, JI 11324"
+pat90444876,drg. Sabri Putra,5/1/1982,+62 (89) 047 1247,"Jalan Soekarno Hatta No. 90
+Pagaralam, SG 57432"
+pat30948877,Danuja Waluyo,11/13/1999,-9324,"Jl. Cikutra Barat No. 40
+Bandung, Sulawesi Tengah 49570"
+pat98130993,Dr. Praba Halim,6/26/1994,+62 (015) 503 4212,"Jl. Suniaraja No. 434
+Tangerang Selatan, JT 16109"
+pat49309331,Ir. Tina Najmudin,12/30/1981,-4444,"Jl. Ciwastra No. 98
+Bengkulu, Sulawesi Tenggara 22961"
+pat97233015,"Arta Simanjuntak, S.Farm",9/16/1998,+62 (703) 986-8701,"Jl. Dipenogoro No. 4
+Tanjungbalai, Sulawesi Barat 14858"
+pat74518210,Aris Pranowo,8/6/1993,-2626,"Jl. S. Parman No. 350
+Cilegon, JT 12550"
+pat68951788,Taufik Prayoga,3/11/1998,+62 (0943) 062 2988,"Jl. Antapani Lama No. 01
+Semarang, Kalimantan Barat 48385"
+pat05465248,Saiful Puspita,10/4/1996,(063) 658-3267,"Jalan Kebonjati No. 6
+Kota Administrasi Jakarta Timur, SU 93618"
+pat83037702,"Tgk. Pranata Pertiwi, S.Kom",5/18/1993,-5489,"Gang Merdeka No. 68
+Lubuklinggau, Kalimantan Utara 17346"
+pat23627475,Umi Salahudin,5/20/1982,-6381,"Jalan Astana Anyar No. 8
+Sukabumi, Jawa Barat 41677"
+pat63880670,Rahayu Susanti,2/7/1993,-2653,"Gg. Waringin No. 44
+Kota Administrasi Jakarta Pusat, KU 63258"
+pat03591314,Michelle Hutagalung,9/26/1997,804677848,"Jalan Setiabudhi No. 24
+Padang Sidempuan, Nusa Tenggara Timur 58020"
+pat46694942,Yunita Widiastuti,4/12/1999,+62 (002) 300 5300,"Jl. Dipatiukur No. 693
+Tanjungbalai, Maluku Utara 86062"
+pat30230163,Drs. Gading Safitri,5/20/1989,088 395 6908,"Gang Setiabudhi No. 0
+Sibolga, KU 48931"
+pat43030835,Fitriani Nuraini,9/25/1996,+62 (392) 445-8747,"Gg. Kapten Muslihat No. 60
+Tidore Kepulauan, KS 31298"
+pat43230716,Fitriani Wibowo,9/3/1996,-7716,"Jl. Sadang Serang No. 5
+Tangerang Selatan, Kepulauan Bangka Belitung 29941"
+pat93851237,Rini Narpati,8/1/1995,(0924) 161-2009,"Gang Suniaraja No. 4
+Makassar, Jawa Tengah 03146"
+pat47914506,Yani Palastri,11/14/1998,-10999,"Gg. Setiabudhi No. 03
+Pagaralam, Sulawesi Utara 32127"
+pat66728160,Harjo Nainggolan,10/13/1985,-2286,"Jalan Ciumbuleuit No. 285
+Singkawang, Kepulauan Riau 63704"
+pat54100992,Dt. Maman Sihombing,7/19/1997,+62 (019) 160-7806,"Gang Kiaracondong No. 40
+Palopo, KU 36506"
+pat20116354,Qori Rajasa,11/5/1986,-5089,"Gang Yos Sudarso No. 480
+Cirebon, LA 51072"
+pat91876744,Dina Jailani,6/25/2000,(084) 975-0210,"Jl. K.H. Wahid Hasyim No. 258
+Sabang, SN 65320"
+pat31792592,"Oliva Sihombing, S.IP",1/9/1999,-9796,"Gg. Surapati No. 0
+Surakarta, Sulawesi Utara 77383"
+pat82782313,Kuncara Januar,12/26/1993,(079) 900 2472,"Jalan Indragiri No. 632
+Bau-Bau, KU 84482"
+pat37725730,Jasmin Wahyuni,1/7/1992,+62 (003) 663-6998,"Gg. Ronggowarsito No. 877
+Bandar Lampung, JB 69942"
+pat72292853,"Mila Laksita, S.Pd",4/29/1983,+62 (057) 195 8891,"Gg. Sukabumi No. 3
+Gorontalo, RI 25790"
+pat79737869,Unjani Pradipta,4/14/1980,+62 (025) 568 0058,"Gg. M.T Haryono No. 8
+Cimahi, ST 07896"
+pat21985980,Wulan Oktaviani,6/24/1988,+62 (027) 612 9510,"Jl. Merdeka No. 22
+Mojokerto, KT 67860"
+pat80986805,Tania Astuti,12/1/1986,+62 (0938) 322 0489,"Gg. Indragiri No. 94
+Bontang, Bengkulu 91280"
+pat83986390,Cahyono Mandala,12/24/1990,084 285 4455,"Jalan Pacuan Kuda No. 41
+Subulussalam, BE 45522"
+pat75635824,Parman Mahendra,12/10/2000,+62 (0697) 699 1492,"Jl. W.R. Supratman No. 1
+Pematangsiantar, PA 92272"
+pat87302790,Silvia Kuswandari,3/2/1986,+62 (0267) 875 7601,"Jalan Stasiun Wonokromo No. 675
+Palu, Banten 04093"
+pat76023569,"drg. Daniswara Melani, M.Ak",5/26/1982,(080) 552 1302,"Gg. Pasir Koja No. 559
+Binjai, Gorontalo 58185"
+pat56236279,"R. Michelle Nasyidah, M.M.",5/24/1991,(011) 307 1503,"Gg. Cikutra Timur No. 329
+Pangkalpinang, Jawa Tengah 47409"
+pat81972784,"dr. Rachel Wacana, S.Psi",9/21/1997,(070) 000-5334,"Gang Kutisari Selatan No. 763
+Binjai, Maluku 12885"
+pat54604094,"Tgk. Hamima Rahimah, S.I.Kom",1/12/1998,-4872,"Gg. Ir. H. Djuanda No. 68
+Tegal, Gorontalo 17537"
+pat74662708,"Hj. Ayu Uwais, S.Kom",3/4/1990,-8339,"Jalan Pasirkoja No. 630
+Bogor, SS 05124"
+pat85518308,"Cut Hasna Kusumo, M.M.",1/30/1999,-4055,"Jl. Rumah Sakit No. 7
+Dumai, JT 93671"
+pat46299598,"Septi Manullang, S.Pd",9/30/1980,809347281,"Gg. Pasir Koja No. 5
+Bima, SB 75595"
+pat69043369,Galuh Yolanda,10/26/1994,+62 (030) 032-3955,"Jalan W.R. Supratman No. 42
+Makassar, Nusa Tenggara Timur 39935"
+pat58974421,"Tantri Wastuti, S.Pt",12/20/1983,080 368 3162,"Jl. Pelajar Pejuang No. 58
+Kota Administrasi Jakarta Pusat, BE 47022"
+pat66167662,Harja Laksmiwati,9/15/1995,+62 (68) 639 9576,"Gang Veteran No. 2
+Solok, SB 90094"
+pat53450685,"Drs. Wani Habibi, S.H.",10/25/1998,+62 (0734) 390-7147,"Gg. Ronggowarsito No. 92
+Kendari, PA 73511"
+pat50901487,"KH. Mujur Saragih, S.E.",6/24/1992,+62 (043) 317 5222,"Gang Ronggowarsito No. 930
+Dumai, JK 19702"
+pat31395113,Hadi Haryanti,1/15/1989,(0202) 711 5650,"Gg. Kendalsari No. 256
+Bitung, Sumatera Selatan 94736"
+pat79199865,"Tgk. Sakura Marpaung, S.E.",4/22/1997,+62 (096) 635-5117,"Jalan Cempaka No. 515
+Pematangsiantar, Kalimantan Selatan 90163"
+pat16025806,Akarsana Puspita,5/30/1980,+62 (041) 584 9465,"Gg. Otto Iskandardinata No. 7
+Padang, Sumatera Utara 58709"
+pat87533293,T. Emin Saragih,3/12/1984,-9272,"Jl. Joyoboyo No. 1
+Ambon, DI Yogyakarta 01552"
+pat71115283,Jumadi Mandala,12/18/1999,+62 (0968) 144 7497,"Jalan Rungkut Industri No. 220
+Pekanbaru, NB 11021"
+pat38969003,"Maria Maryadi, S.E.I",4/27/1986,084 703 7615,"Jl. R.E Martadinata No. 64
+Bau-Bau, BA 42333"
+pat37529567,Oliva Mandasari,11/4/1987,(063) 573 9354,"Gg. Raya Setiabudhi No. 02
+Palembang, Sumatera Barat 45432"
+pat45959677,"Gina Rahimah, S.Pt",3/5/1980,+62 (031) 016 0478,"Jl. Cempaka No. 5
+Sungai Penuh, KT 02869"
+pat58178157,Hamzah Wijaya,2/1/1989,(0092) 731 1776,"Gg. Stasiun Wonokromo No. 5
+Bau-Bau, NB 65957"
+pat05036547,Farhunnisa Hidayanto,2/26/1994,086 420 8450,"Jalan HOS. Cokroaminoto No. 911
+Cirebon, LA 26264"
+pat50469192,Faizah Yuliarti,6/19/1993,860755396,"Gang Rajiman No. 2
+Kediri, KI 80791"
+pat02566542,"Dagel Pudjiastuti, S.Farm",6/27/1996,(048) 483-5368,"Jl. Dr. Djunjunan No. 148
+Sibolga, GO 22609"
+pat33895048,Hasna Kuswandari,2/21/1992,-4705,"Gg. S. Parman No. 0
+Padang Sidempuan, Jambi 21174"
+pat26172040,Violet Saptono,11/11/1997,+62 (691) 929 7561,"Gang Cikutra Barat No. 855
+Pagaralam, Nusa Tenggara Barat 65015"
+pat95566955,"dr. Tami Marpaung, M.TI.",11/20/1980,+62 (714) 553-8000,"Jalan HOS. Cokroaminoto No. 069
+Metro, Sumatera Selatan 99047"
+pat96880753,Gamani Melani,1/3/1984,-7325,"Gg. Astana Anyar No. 83
+Kota Administrasi Jakarta Utara, BB 63549"
+pat81960569,Vero Prasetyo,4/6/1981,+62 (270) 093-5051,"Jl. Wonoayu No. 207
+Lhokseumawe, RI 92479"
+pat12383689,Kamila Agustina,9/11/1997,+62 (34) 083-1929,"Gang Yos Sudarso No. 10
+Makassar, GO 86094"
+pat18576115,Sutan Kenes Yuliarti,9/29/1991,(0524) 441-8919,"Gang Dr. Djunjunan No. 45
+Pangkalpinang, Kalimantan Selatan 51480"
+pat86666282,Praba Firgantoro,4/30/1980,+62 (49) 470 2476,"Jalan Suniaraja No. 80
+Tomohon, Sulawesi Tengah 91486"
+pat71271880,Fitriani Halimah,1/15/1996,+62 (69) 877-1487,"Gang Gardujati No. 361
+Sabang, KT 78949"
+pat46369413,"Tgk. Jindra Kusumo, M.Ak",9/21/1982,-6022,"Gg. Raya Ujungberung No. 77
+Semarang, NT 98645"
+pat54299924,Ir. Narji Puspasari,6/2/1995,(052) 558-2905,"Jalan Cihampelas No. 3
+Purwokerto, Kepulauan Bangka Belitung 09747"
+pat02061238,"Aurora Puspita, S.Ked",11/17/1993,848959839,"Jl. W.R. Supratman No. 9
+Sabang, DKI Jakarta 72749"
+pat16317413,"drg. Faizah Januar, S.E.",9/25/1995,-11176,"Jalan Rawamangun No. 1
+Depok, Kepulauan Riau 51795"
+pat26909509,"Reksa Wasita, S.Farm",5/4/1988,+62 (025) 730 4219,"Gg. Pacuan Kuda No. 49
+Jayapura, Kalimantan Tengah 18824"
+pat75948566,R.M. Balapati Prastuti,6/13/1996,878820824,"Gang M.T Haryono No. 82
+Singkawang, JT 75474"
+pat75314057,"Wardi Simbolon, S.H.",8/4/1998,-6149,"Jl. Yos Sudarso No. 74
+Payakumbuh, JB 30178"
+pat43698608,Dartono Megantara,1/7/1989,+62 (61) 811-0006,"Jl. Ahmad Dahlan No. 26
+Batu, Nusa Tenggara Barat 18851"
+pat64694191,Dipa Prabowo,1/31/1983,(0835) 993-9663,"Jalan Abdul Muis No. 9
+Kota Administrasi Jakarta Utara, MA 13100"
+pat44763695,Yusuf Agustina,6/30/1997,819676347,"Gang Laswi No. 59
+Madiun, YO 78705"
+pat83513138,"Ir. Kamidin Nuraini, S.H.",8/16/1985,+62 (083) 198-8617,"Gg. Kutisari Selatan No. 046
+Medan, BB 48804"
+pat95183114,Prayoga Hutagalung,7/18/1981,+62 (66) 636-7297,"Gg. Sentot Alibasa No. 49
+Probolinggo, Sulawesi Utara 93730"
+pat94121674,"Dian Pradipta, S.E.I",3/5/1989,+62 (33) 076 5993,"Gg. Veteran No. 107
+Bitung, Banten 38197"
+pat28695684,Nilam Widiastuti,4/3/1992,+62 (0146) 405-2559,"Jalan Antapani Lama No. 681
+Probolinggo, PA 26082"
+pat60365927,"Cut Aisyah Hidayanto, S.Pt",12/4/1980,(0114) 364 8520,"Jl. Kutai No. 75
+Medan, BA 57261"
+pat45859977,Eko Padmasari,7/4/1994,(050) 752 4857,"Gang Erlangga No. 835
+Magelang, Papua 25740"
+pat38833854,"Cut Zelda Melani, S.E.I",9/18/1981,(0050) 954-7177,"Jl. Jakarta No. 05
+Bogor, JK 89359"
+pat71555027,drg. Clara Anggriawan,10/25/1994,+62 (0132) 614 8900,"Gang Veteran No. 00
+Magelang, Kalimantan Utara 15947"
+pat72618967,Kiandra Hardiansyah,9/3/1982,870805376,"Jl. R.E Martadinata No. 29
+Tarakan, Nusa Tenggara Timur 46908"
+pat02204550,Karimah Saputra,9/2/2000,+62 (009) 300-8742,"Jl. Sentot Alibasa No. 566
+Banjarbaru, BT 37578"
+pat20090883,"Dr. Qori Sitompul, S.Pd",5/1/1993,-6615,"Gang Indragiri No. 2
+Sabang, Sulawesi Tengah 56506"
+pat54054226,"Hj. Tantri Hariyah, S.Kom",4/3/1993,(0494) 729-8943,"Jl. Rawamangun No. 70
+Pekanbaru, Maluku Utara 30645"
+pat11984481,Novi Wibisono,7/21/1985,-7217,"Jl. Pasteur No. 6
+Magelang, Sulawesi Tengah 53177"
+pat87939491,Betania Prabowo,1/21/1981,+62 (23) 652-3221,"Gg. Surapati No. 0
+Depok, BT 65647"
+pat82113506,Umar Anggraini,7/24/1980,890022703,"Gang Antapani Lama No. 01
+Banjarbaru, SU 03883"
+pat64959931,Cengkal Mayasari,2/14/1982,(0627) 808 6250,"Gang Bangka Raya No. 4
+Palembang, Sumatera Barat 95794"
+pat75295714,Drs. Amalia Simbolon,1/29/1991,(035) 991 1523,"Gg. Sukajadi No. 0
+Bogor, SS 54245"
+pat05827299,"Drs. Makara Winarno, M.M.",11/18/1990,082 941 6473,"Gang Jakarta No. 6
+Purwokerto, JA 03372"
+pat41576106,"Tgk. Wadi Halim, S.Pt",3/29/2000,-5093,"Gang Joyoboyo No. 12
+Kotamobagu, Sumatera Selatan 80010"
+pat73104957,Jessica Wasita,6/10/1990,(073) 900 4830,"Jalan Jend. A. Yani No. 250
+Kota Administrasi Jakarta Barat, SN 55895"
+pat56563191,Rusman Wastuti,4/19/1997,-7210,"Gang Rajiman No. 6
+Pekalongan, PB 77248"
+pat16019812,"Maimunah Marbun, S.H.",3/4/1996,+62 (12) 372 6108,"Jl. Pasteur No. 537
+Depok, Kalimantan Utara 27980"
+pat49415490,Kayla Mangunsong,7/15/1998,+62 (040) 944 7753,"Jl. Dipenogoro No. 526
+Kotamobagu, JT 24645"
+pat64787763,"Paiman Thamrin, M.Pd",11/28/1990,(0232) 010 5433,"Jalan Cempaka No. 525
+Bogor, NB 69828"
+pat01839913,"Dt. Yusuf Rahayu, M.M.",2/1/1986,828060159,"Jalan Raya Ujungberung No. 651
+Depok, NB 86492"
+pat29052035,Sutan Joko Habibi,8/23/1995,-7584,"Gang Asia Afrika No. 94
+Bima, Bengkulu 43235"
+pat88747361,Eka Saefullah,6/2/1984,+62 (768) 860-5629,"Jalan Jakarta No. 07
+Bandar Lampung, Sumatera Utara 98265"
+pat67301133,Vega Yuliarti,7/26/1980,+62 (53) 610-1283,"Jl. W.R. Supratman No. 41
+Bandung, SU 26090"
+pat74962662,"R. Oman Anggriawan, M.TI.",3/24/1991,+62 (315) 440-5991,"Jalan Setiabudhi No. 861
+Sorong, KT 14112"
+pat49206906,"Maida Thamrin, M.Ak",6/6/1980,-10080,"Gg. Moch. Ramdan No. 94
+Bukittinggi, Kalimantan Tengah 93528"
+pat39849731,"Sutan Candrakanta Uwais, M.Kom.",5/26/1988,(091) 437-7667,"Gang Surapati No. 5
+Batu, NT 82210"
+pat24120081,Gamanto Padmasari,8/9/2000,+62 (070) 538-2185,"Jalan Tebet Barat Dalam No. 22
+Tegal, AC 02532"
+pat65152577,Ika Nuraini,1/12/1998,-6021,"Gang Jamika No. 218
+Semarang, MA 04236"
+pat58998519,"Bahuwarna Manullang, S.T.",2/14/1998,(0164) 790 0536,"Jalan Surapati No. 22
+Sawahlunto, MU 27981"
+pat88088860,R.A. Ani Dongoran,1/7/1994,-8333,"Jalan Sadang Serang No. 177
+Padangpanjang, NB 60419"
+pat90059605,Violet Mangunsong,7/9/1990,866151131,"Gang Ciwastra No. 39
+Sabang, Bengkulu 09097"
+pat35824725,"Latika Pratiwi, S.Psi",6/25/1992,085 814 3327,"Gang Gardujati No. 450
+Tual, DKI Jakarta 06255"
+pat18983319,Mursita Wulandari,3/23/1994,+62 (021) 785 1726,"Gg. Indragiri No. 208
+Mataram, BT 16921"
+pat34328033,Ir. Julia Lailasari,3/17/1999,(054) 544 5168,"Jalan Peta No. 7
+Tanjungbalai, Aceh 36657"
+pat54642409,Sutan Atmaja Prayoga,3/30/1982,(076) 186 2184,"Gg. Kendalsari No. 7
+Makassar, Papua 72363"
+pat46324948,Gatra Marbun,8/29/1993,-8350,"Jl. Rawamangun No. 1
+Mataram, YO 42963"
+pat46883926,Gara Rahimah,3/2/1996,(0400) 067-0811,"Gg. Soekarno Hatta No. 01
+Bukittinggi, Gorontalo 21175"
+pat73045410,Hasna Susanti,6/3/1995,-3386,"Jalan Pasir Koja No. 838
+Balikpapan, Lampung 25197"
+pat04628439,Harja Rajata,10/4/1990,+62 (054) 644-2769,"Gg. Dr. Djunjunan No. 622
+Ambon, SR 17855"
+pat91785824,"Ir. Yessi Jailani, M.Farm",1/14/1998,(0179) 469-0263,"Gg. Gegerkalong Hilir No. 2
+Palangkaraya, Jawa Timur 85749"
+pat64125329,"Aisyah Puspasari, S.Pt",1/19/1993,(054) 117-6296,"Gg. Rajiman No. 7
+Tual, Sulawesi Tengah 31292"
+pat27646779,Edi Prasasta,6/1/1987,-8395,"Jl. M.H Thamrin No. 02
+Medan, Kalimantan Selatan 91060"
+pat89293607,Kenzie Sihombing,7/17/1998,082 555 5799,"Gang Ir. H. Djuanda No. 343
+Cimahi, JI 37033"
+pat07795466,Karen Samosir,11/1/1993,081 512 9722,"Jalan M.H Thamrin No. 92
+Banjarmasin, Jawa Barat 75861"
+pat54480919,Clara Andriani,7/25/1997,-6662,"Jalan K.H. Wahid Hasyim No. 485
+Salatiga, GO 44328"
+pat99389284,Puti Putra,11/27/1987,+62 (0825) 131 1393,"Jalan Ciwastra No. 822
+Padang, SN 38811"
+pat70789577,"Bagya Prasasta, S.Farm",7/8/1996,-5325,"Gg. Dr. Djunjunan No. 583
+Singkawang, Sulawesi Selatan 41860"
+pat50236381,Rudi Winarno,10/14/1988,-7240,"Jl. Soekarno Hatta No. 640
+Banda Aceh, Kalimantan Timur 94864"
+pat54742697,Ciaobella Laksita,12/17/1990,+62 (004) 040-0591,"Gang Pasir Koja No. 369
+Kota Administrasi Jakarta Utara, Jawa Timur 76143"
+pat46624048,Tiara Winarsih,4/9/1985,(0839) 920 7044,"Jl. Jakarta No. 72
+Manado, Jambi 36733"
+pat11281214,Rahmi Hakim,7/17/2000,-6847,"Jalan Otto Iskandardinata No. 37
+Meulaboh, BT 07216"
+pat16551435,"Cut Ophelia Hidayat, M.Ak",1/19/1999,(025) 976-6625,"Gg. Jend. A. Yani No. 7
+Tebingtinggi, Kalimantan Tengah 98380"
+pat64081823,"Tgk. Kariman Aryani, S.E.I",4/29/1991,+62 (667) 158-9334,"Jl. HOS. Cokroaminoto No. 3
+Palembang, KU 94664"
+pat05588350,Elvina Natsir,7/15/1999,-3980,"Gang Jend. Sudirman No. 719
+Tangerang, AC 95635"
+pat64364919,Purwadi Hutapea,9/3/1985,+62 (664) 196 8563,"Jalan Kapten Muslihat No. 780
+Mojokerto, PB 74703"
+pat83642296,Betania Irawan,5/28/1995,-2031,"Jl. Gardujati No. 393
+Ternate, Bali 41638"
+pat83771200,Oni Wahyuni,9/11/1993,+62 (0403) 246-8224,"Jl. KH Amin Jasuta No. 3
+Banda Aceh, Papua 61663"
+pat22921659,Umi Nasyiah,1/3/1999,+62 (54) 598 6390,"Jl. Moch. Toha No. 1
+Bengkulu, Aceh 15370"
+pat83748714,Drs. Yahya Maryadi,8/28/1983,-9406,"Gg. Rumah Sakit No. 3
+Ternate, BA 58744"
+pat48595377,Tgk. Jayadi Kurniawan,11/12/1990,(006) 092-5259,"Jalan Monginsidi No. 13
+Balikpapan, SU 72982"
+pat97852445,Laras Sihombing,10/23/1999,-6231,"Jalan S. Parman No. 74
+Solok, Kalimantan Utara 54577"
+pat29061068,"Dt. Dimaz Putra, S.Pt",2/19/1996,+62 (0848) 030-8780,"Gg. PHH. Mustofa No. 512
+Binjai, SR 55631"
+pat26747842,Panca Prayoga,5/25/1995,(0158) 089 4418,"Gg. Bangka Raya No. 33
+Ambon, GO 05266"
+pat04130888,Mala Nasyidah,7/1/1994,(0315) 010-2792,"Jl. Cihampelas No. 74
+Madiun, AC 52190"
+pat05624515,"R.A. Zelda Wibisono, S.T.",5/5/1988,(0271) 629 7024,"Gg. Raya Ujungberung No. 5
+Banjar, Sulawesi Tenggara 25757"
+pat70153002,Labuh Sihombing,10/15/1986,897773649,"Gang Erlangga No. 5
+Tidore Kepulauan, Sulawesi Utara 82022"
+pat61935167,Ir. Harjaya Gunarto,11/14/1985,+62 (050) 380 7784,"Jalan Yos Sudarso No. 563
+Magelang, Kalimantan Utara 41242"
+pat79179041,"Maryanto Hutasoit, S.Pt",1/16/1985,-6210,"Jl. Pasteur No. 084
+Padang, Gorontalo 90060"
+pat58490259,"Galiono Novitasari, S.E.",7/24/1980,+62 (044) 150-2450,"Gang Cikutra Timur No. 8
+Banjar, NB 59676"
+pat23818804,Gabriella Maryadi,2/15/1995,+62 (884) 658-5990,"Jl. Soekarno Hatta No. 541
+Kupang, Kalimantan Timur 45069"
+pat62453288,Mahesa Sihombing,12/21/1993,+62 (060) 134-0638,"Gg. Jamika No. 1
+Malang, JT 71881"
+pat14470257,"Ir. Saka Kurniawan, S.H.",2/16/1987,+62 (0493) 782 9841,"Jalan Abdul Muis No. 049
+Kupang, JT 60536"
+pat45840883,"Dt. Jati Usamah, S.IP",11/15/1991,-7643,"Gg. Lembong No. 22
+Depok, Sulawesi Tengah 89055"
+pat58204504,Kusuma Nasyidah,5/28/1983,864551112,"Gang Raya Setiabudhi No. 75
+Bontang, Jambi 70092"
+pat47317826,"dr. Kartika Nainggolan, S.Sos",4/13/1998,+62 (09) 950 1283,"Gg. Medokan Ayu No. 27
+Tangerang Selatan, Maluku Utara 74522"
+pat43419869,Zaenab Lailasari,2/4/1996,+62 (0292) 549-9566,"Gg. Bangka Raya No. 24
+Tebingtinggi, SB 01303"
+pat00683883,"Kasiyah Agustina, S.Ked",9/4/1989,+62 (25) 285-8049,"Gang H.J Maemunah No. 0
+Bengkulu, KB 51121"
+pat11312727,Dalimin Oktaviani,9/26/1995,+62 (0229) 826-5772,"Jl. Gedebage Selatan No. 279
+Palu, LA 05475"
+pat39398413,Silvia Namaga,11/30/1981,(0504) 889 2370,"Jalan Asia Afrika No. 781
+Cilegon, SB 61460"
+pat80954927,Gantar Susanti,10/3/1990,+62 (13) 220-3798,"Jl. PHH. Mustofa No. 0
+Tebingtinggi, Kalimantan Barat 67522"
+pat64612645,Dt. Galiono Lestari,12/5/1993,(0342) 375 7115,"Jalan Ahmad Dahlan No. 190
+Purwokerto, Kalimantan Timur 80113"
+pat22119803,Hardi Hasanah,2/26/1982,+62 (0296) 119 2392,"Jalan BKR No. 31
+Depok, BB 04965"
+pat34772829,"Dt. Mursita Mahendra, S.IP",5/28/1999,+62 (569) 485-9661,"Jalan H.J Maemunah No. 708
+Serang, Sulawesi Tenggara 18360"
+pat72330951,"Ir. Syahrini Wulandari, S.H.",11/1/1984,(0276) 030-2882,"Jalan Pasteur No. 8
+Depok, KI 51652"
+pat77330031,R. Tari Waskita,7/10/1985,+62 (724) 478-8773,"Jl. Dipenogoro No. 429
+Tasikmalaya, NT 92879"
+pat96245774,Gamblang Wastuti,8/23/1990,+62 (064) 992 2036,"Gg. Moch. Ramdan No. 714
+Banda Aceh, Kalimantan Barat 96255"
+pat13901110,Hardana Utami,11/4/1982,-4203,"Jl. Moch. Ramdan No. 3
+Tidore Kepulauan, Jawa Barat 31004"
+pat69707476,Rizki Suryatmi,3/12/1990,+62 (139) 109-4838,"Jl. Setiabudhi No. 371
+Kotamobagu, Kalimantan Barat 41806"
+pat39916372,Slamet Putra,6/1/1983,(0668) 796-8455,"Gang Waringin No. 780
+Yogyakarta, KB 71046"
+pat43216000,R.M. Nardi Waskita,7/20/1990,+62 (178) 412-2830,"Jalan Veteran No. 17
+Semarang, Sulawesi Utara 40800"
+pat91275981,"Nurul Handayani, S.Kom",1/3/1990,+62 (11) 039 5930,"Gang Jayawijaya No. 110
+Gorontalo, PB 54599"
+pat97874133,Estiawan Marpaung,11/3/1997,+62 (558) 972 3273,"Gg. Indragiri No. 2
+Kupang, MU 48931"
+pat17862134,Najwa Waskita,4/20/1989,(061) 163 1057,"Gg. Sadang Serang No. 77
+Tebingtinggi, JI 79502"
+pat74284801,"Bahuwirya Prasetyo, S.Kom",4/16/1990,+62 (0477) 553 2851,"Gang Astana Anyar No. 242
+Kota Administrasi Jakarta Utara, Kalimantan Barat 49269"
+pat25066760,"Ir. Ayu Utami, S.T.",12/27/1991,086 327 6612,"Jalan Wonoayu No. 86
+Kupang, PB 35577"
+pat84389800,"R. Luluh Sitorus, S.Psi",5/4/1989,+62 (012) 757-2559,"Gg. R.E Martadinata No. 243
+Bandar Lampung, BA 22195"
+pat46679246,Aisyah Permata,1/27/1984,+62 (0683) 283-8299,"Gang Kendalsari No. 8
+Tomohon, Kalimantan Timur 01417"
+pat55428873,drg. Balangga Wibowo,10/24/1986,(075) 372-2728,"Gang M.H Thamrin No. 936
+Manado, Bali 67922"
+pat44264895,Chandra Irawan,5/15/1989,+62 (019) 616-6354,"Gg. Pasir Koja No. 0
+Solok, AC 24654"
+pat28404385,"Calista Nasyidah, M.TI.",7/4/1995,+62 (076) 603 3867,"Jalan Veteran No. 13
+Tanjungpinang, Sulawesi Tenggara 55509"
+pat49500035,Cahyanto Pradana,5/14/1989,(0671) 072-1397,"Gang Kendalsari No. 1
+Tebingtinggi, KR 38125"
+pat37959876,"Hj. Tami Kuswoyo, S.Kom",8/9/1988,+62 (50) 689 3086,"Gang Rajawali Timur No. 9
+Palembang, Nusa Tenggara Timur 38568"
+pat55688512,"Jumari Manullang, S.E.I",7/23/1988,-5563,"Gg. Raya Ujungberung No. 52
+Cirebon, SB 16111"
+pat87196504,"Taufan Puspita, M.Kom.",4/18/1992,+62 (0326) 380-5194,"Jalan Sadang Serang No. 417
+Tomohon, Sulawesi Utara 21079"
+pat62331265,Hasna Samosir,12/13/1990,(0161) 707-8993,"Gg. Tubagus Ismail No. 5
+Kota Administrasi Jakarta Selatan, BE 93457"
+pat89204887,R.A. Unjani Najmudin,9/26/1981,086 474 5207,"Jl. Jamika No. 1
+Banjarbaru, MU 90287"
+pat33595597,"Prayogo Hidayat, M.TI.",11/6/1996,+62 (51) 601-4720,"Jalan K.H. Wahid Hasyim No. 7
+Bitung, JB 59717"
+pat13406592,Banawa Namaga,2/2/1986,+62 (076) 378-8002,"Gang Ronggowarsito No. 720
+Kupang, YO 06239"
+pat27505724,Darmanto Winarsih,6/23/1990,+62 (148) 977-9313,"Jalan Kutisari Selatan No. 859
+Padangpanjang, Jawa Barat 71102"
+pat24199186,Qori Prastuti,1/26/1998,(060) 829 6611,"Gg. HOS. Cokroaminoto No. 19
+Semarang, Sumatera Utara 55133"
+pat06992811,"Winda Agustina, S.I.Kom",7/16/1983,+62 (72) 704 6682,"Gg. Yos Sudarso No. 1
+Medan, Riau 82337"
+pat60240095,Cahya Nugroho,3/24/1986,+62 (047) 779 7811,"Gg. Rungkut Industri No. 850
+Padangpanjang, PB 24743"
+pat35384168,Rizki Dabukke,12/3/1993,+62 (665) 377 3243,"Jalan Jamika No. 524
+Metro, BE 31100"
+pat97698227,"T. Mahdi Astuti, M.M.",2/3/1981,+62 (095) 266 6254,"Gang Ciumbuleuit No. 511
+Singkawang, Jawa Timur 25724"
+pat13696313,Emil Nurdiyanti,1/2/1993,+62 (021) 590-6394,"Jalan Wonoayu No. 03
+Binjai, Jawa Barat 38915"
+pat52832383,"Tgk. Laila Nababan, S.T.",11/12/1988,+62 (61) 480 1917,"Gang Ciwastra No. 03
+Tebingtinggi, Kalimantan Selatan 42141"
+pat96412572,"Puti Fitria Fujiati, S.H.",1/20/1997,+62 (459) 377-6050,"Jalan Antapani Lama No. 5
+Sorong, Riau 94824"
+pat69586996,Reksa Saragih,3/8/1980,086 497 4795,"Jl. Rumah Sakit No. 56
+Bontang, Nusa Tenggara Timur 53612"
+pat40138381,"Warta Riyanti, M.TI.",2/24/1987,839702442,"Gang Soekarno Hatta No. 078
+Cirebon, Maluku Utara 49797"
+pat78123168,"Tgk. Kala Agustina, S.H.",7/18/1988,+62 (0813) 157-0162,"Jalan Soekarno Hatta No. 957
+Tual, Bali 87227"
+pat49460100,Karen Andriani,5/11/1993,-5842,"Gg. Pacuan Kuda No. 35
+Serang, Banten 49081"
+pat54073586,Alika Najmudin,6/19/1987,(0104) 847 8197,"Gang Dipatiukur No. 09
+Blitar, DKI Jakarta 30661"
+pat21937002,Cahyono Maheswara,3/4/2000,-8427,"Jl. Rajawali Timur No. 6
+Makassar, SN 86133"
+pat28939801,Rini Handayani,1/27/1983,+62 (915) 637-1650,"Jl. Pacuan Kuda No. 5
+Binjai, Sulawesi Barat 97383"
+pat16174184,Oni Nuraini,1/11/1998,+62 (461) 324-9613,"Jl. Monginsidi No. 6
+Padang Sidempuan, MU 95522"
+pat40362885,Hj. Devi Januar,7/21/1981,839863010,"Gg. Stasiun Wonokromo No. 46
+Tomohon, Nusa Tenggara Barat 74402"
+pat43547630,Hana Andriani,3/5/1985,088 770 4653,"Gang Kutai No. 2
+Surabaya, Sulawesi Tenggara 35473"
+pat08319135,"Dr. Pia Pratiwi, S.E.",8/11/1989,(018) 268-5111,"Jl. Dr. Djunjunan No. 718
+Lubuklinggau, Sulawesi Utara 91190"
+pat86800747,"Puti Ratna Tarihoran, S.Gz",7/14/1998,+62 (081) 017 2923,"Jl. Kiaracondong No. 021
+Padang Sidempuan, Kepulauan Bangka Belitung 41272"
+pat47085251,Ir. Ellis Suwarno,6/16/1985,+62 (877) 809-1690,"Jl. S. Parman No. 9
+Subulussalam, BT 05813"
+pat39825377,"Dr. Umar Sinaga, S.Ked",4/19/1997,+62 (0752) 612 9413,"Gg. M.H Thamrin No. 795
+Prabumulih, Kepulauan Riau 28331"
+pat40542409,"Lamar Kurniawan, M.Ak",12/17/1986,087 055 5643,"Jl. Gegerkalong Hilir No. 33
+Banjar, SN 03825"
+pat06674212,Siti Jailani,3/29/1988,+62 (10) 280-8165,"Gg. Cihampelas No. 1
+Samarinda, SB 22978"
+pat03784198,Salman Nainggolan,10/23/1981,+62 (0647) 873-9500,"Jalan Dr. Djunjunan No. 6
+Kendari, KS 65089"
+pat65835661,Kuncara Siregar,12/28/1987,+62 (0292) 611-5182,"Jl. Merdeka No. 795
+Banjarmasin, JB 78488"
+pat12886715,Prayogo Mansur,8/18/1991,-4817,"Gg. Suryakencana No. 7
+Tidore Kepulauan, Kalimantan Selatan 03191"
+pat48021593,Cemeti Siregar,11/14/1991,+62 (52) 200 3579,"Gang Stasiun Wonokromo No. 65
+Banjarmasin, Sumatera Barat 26069"
+pat83594601,Salimah Namaga,4/19/1998,+62 (864) 178-9426,"Jl. Ahmad Dahlan No. 5
+Sibolga, Bengkulu 54558"
+pat97292456,Hj. Hamima Zulkarnain,11/24/1987,+62 (089) 348-7002,"Gang Jamika No. 182
+Sabang, SR 02857"
+pat74826773,Titin Ramadan,11/27/1982,+62 (24) 683-5898,"Jalan Pasir Koja No. 511
+Cirebon, Kalimantan Timur 39630"
+pat13205164,Hj. Lintang Wahyuni,7/10/1990,-6946,"Jalan Ciumbuleuit No. 7
+Palopo, Sumatera Selatan 89926"
+pat48017732,Raihan Winarno,9/26/1984,+62 (0753) 385-9823,"Gg. Rawamangun No. 137
+Prabumulih, KI 41868"
+pat92411227,Dadap Aryani,11/2/1991,(0767) 800-8462,"Gang HOS. Cokroaminoto No. 41
+Tarakan, NT 65257"
+pat61607743,Muhammad Maulana,8/27/1981,(063) 301-8073,"Jl. Tebet Barat Dalam No. 690
+Batu, KU 58233"
+pat44611163,"Cut Siti Maryati, S.Pd",5/10/1983,+62 (015) 883-1210,"Jl. Bangka Raya No. 700
+Surakarta, KT 78460"
+pat36576715,"R.A. Vanya Suartini, S.Pd",6/5/1980,+62 (0608) 430-4748,"Jl. Joyoboyo No. 43
+Padang, MA 82812"
+pat72615331,"Putri Pertiwi, S.Psi",1/15/1983,(0492) 836-5230,"Gang Cikapayang No. 58
+Blitar, Sulawesi Tenggara 93339"
+pat56781021,Hasta Megantara,2/9/1997,+62 (66) 556 8815,"Gang Jayawijaya No. 73
+Jayapura, Kalimantan Utara 14388"
+pat96796092,Jamalia Novitasari,6/12/1981,856868862,"Jl. K.H. Wahid Hasyim No. 00
+Parepare, DI Yogyakarta 87866"
+pat75049850,Yahya Wulandari,2/23/1992,+62 (76) 522 1456,"Jalan Pasteur No. 0
+Banda Aceh, JK 68578"
+pat69577024,"Bagiya Latupono, S.Farm",11/16/1994,+62 (0676) 855 5692,"Jalan K.H. Wahid Hasyim No. 5
+Cimahi, BB 19318"
+pat04110248,Kamaria Sihombing,8/22/1983,-5476,"Gang Raya Setiabudhi No. 23
+Tebingtinggi, SU 80062"
+pat84720689,Zulaikha Wahyudin,5/10/1994,-2243,"Gg. Laswi No. 939
+Kota Administrasi Jakarta Selatan, BA 56549"
+pat72542859,"Drs. Julia Dongoran, S.Pt",4/20/1983,085 335 9583,"Jalan Ciumbuleuit No. 61
+Yogyakarta, GO 78139"
+pat30471450,Dr. Emas Winarsih,9/17/1999,+62 (126) 502-8179,"Jl. Pasteur No. 62
+Jayapura, SB 51951"
+pat73888888,Agnes Kuswandari,7/11/1981,+62 (0391) 123 0892,"Jl. Rumah Sakit No. 913
+Bima, Maluku 77758"
+pat18450132,Maimunah Yuniar,7/21/1992,-9182,"Jalan Gegerkalong Hilir No. 0
+Cimahi, Maluku Utara 57771"
+pat88116716,Aslijan Gunarto,2/10/1988,(0648) 705 3454,"Gg. Bangka Raya No. 4
+Yogyakarta, SR 05168"
